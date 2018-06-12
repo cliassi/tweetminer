@@ -1,0 +1,17 @@
+<script src="js/springy.js"></script>
+<script src="js/springyui.js"></script><canvas id='springydemo' width='1000' height='1000' />
+
+
+<script>
+var graph = new Springy.Graph();
+graph.addNodes('chinawongs', '#refugee', '#europe', '@unrefugees', 'K_Anckarstrom', '#lesbos', '@newint', '@hazel', 'b_toledoh', '#refugees', '@reliefweb', '@refugees', 'TanyaMSteele', '#refugee', '@savechildrenuk', '@kateosully', '@buzzfeed');
+
+graph.addEdges(['chinawongs', '#refugee', {color: '#39524a'}], ['chinawongs', '#europe', {color: '#39524a'}], ['chinawongs', '@unrefugees', {color: '#39524a'}], ['K_Anckarstrom', '#lesbos', {color: '#717b55'}], ['K_Anckarstrom', '@newint', {color: '#717b55'}], ['K_Anckarstrom', '@hazel', {color: '#717b55'}], ['b_toledoh', '#refugees', {color: '#3c6771'}], ['b_toledoh', '@reliefweb', {color: '#3c6771'}], ['b_toledoh', '@refugees', {color: '#3c6771'}], ['TanyaMSteele', '#refugee', {color: '#845a74'}], ['TanyaMSteele', '@savechildrenuk', {color: '#845a74'}], ['TanyaMSteele', '@kateosully', {color: '#845a74'}], ['TanyaMSteele', '@buzzfeed', {color: '#845a74'}]);
+
+jQuery(function(){
+  var springy = jQuery('#springydemo').springy({
+    graph: graph
+  });
+});
+
+</script>

@@ -1,0 +1,64 @@
+<br clear='all' /><br clear='all' />
+<script type='text/javascript'>
+$(function () {
+    $('#container').highcharts({
+        colors: ['#09093b', '#1a1a59', '#801515', '#550000'],
+        chart: {
+            type: 'column'
+        },
+
+        title: {
+            text: 'Timeline'
+        },
+
+        xAxis: {
+            categories: ['2015-05-11','2015-06-11','2015-07-11']
+        },
+
+        yAxis: {
+            allowDecimals: false,
+            min: 0,
+            title: {
+                text: 'Number of Tweets'
+            }
+        },
+
+        tooltip: {
+            formatter: function () {
+                return '<b>' + this.x + '</b><br/>' +
+                    this.series.name + ': ' + this.y + '<br/>' +
+                    'Total: ' + this.point.stackTotal;
+            }
+        },
+
+        plotOptions: {
+            column: {
+                stacking: 'normal'
+            }
+        },
+
+        series: [{
+            name: 'Relaxed',
+            data: [2,2,1],
+            stack: 'col1'
+        }, {
+            name: 'Happy',
+            data: [10,3,0],
+            stack: 'col1'
+        }, {
+            name: 'Unhappy',
+            data: [0,4,0],
+            stack: 'col2'
+        }, {
+            name: 'Upset',
+            data: [7,20,9],
+            stack: 'col2'
+        }]
+    });
+});
+</script>
+
+<script src='js/highcharts.js'></script>
+<script src='js/modules/exporting.js'></script>
+
+<div id='container' style='min-width: 600px; height: 400px; margin: 0 auto'></div>

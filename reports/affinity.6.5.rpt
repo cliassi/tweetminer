@@ -1,0 +1,17 @@
+<script src="js/springy.js"></script>
+<script src="js/springyui.js"></script><canvas id='springydemo' width='1000' height='1000' />
+
+
+<script>
+var graph = new Springy.Graph();
+graph.addNodes('chinawongs', '#refugee', '#europe', '@unrefugees', 'K_Anckarstrom', '#lesbos', '@newint', '@hazel', 'b_toledoh', '#refugees', '@reliefweb', '@refugees', 'TanyaMSteele', '#refugee', '@savechildrenuk', '@kateosully', '@buzzfeed', 'saulocorona', '#refugees', '#refugeeswelcome', '#openeuborders', 'LudovicaIaccino', '#serbia', '#refugees', '#croatia', '@worldvision', 'maamikron42', '#refugees', '#logisticscrisis', '@easterneuropein', '_vasco732', '#serbia', '#refugees', '#croatia', '@ludovicaiaccino', '@worldvi', 'AnimalRightsJen', '#womenrefugees', '#war', '#uniteblue', '#women', 'EmpathyNow', '#refugees', '#refugeeswelcome', '#openeuborders', '@saulocorona', 'MoulidHujale', '#movingenergy', '@ch', '@guardianeco');
+
+graph.addEdges(['chinawongs', '#refugee', {color: '#3337ba'}], ['chinawongs', '#europe', {color: '#3337ba'}], ['chinawongs', '@unrefugees', {color: '#3337ba'}], ['K_Anckarstrom', '#lesbos', {color: '#8e774e'}], ['K_Anckarstrom', '@newint', {color: '#8e774e'}], ['K_Anckarstrom', '@hazel', {color: '#8e774e'}], ['b_toledoh', '#refugees', {color: '#b33e9f'}], ['b_toledoh', '@reliefweb', {color: '#b33e9f'}], ['b_toledoh', '@refugees', {color: '#b33e9f'}], ['TanyaMSteele', '#refugee', {color: '#9abd59'}], ['TanyaMSteele', '@savechildrenuk', {color: '#9abd59'}], ['TanyaMSteele', '@kateosully', {color: '#9abd59'}], ['TanyaMSteele', '@buzzfeed', {color: '#9abd59'}], ['saulocorona', '#refugees', {color: '#5b9261'}], ['saulocorona', '#refugeeswelcome', {color: '#5b9261'}], ['saulocorona', '#openeuborders', {color: '#5b9261'}], ['LudovicaIaccino', '#serbia', {color: '#c83b8f'}], ['LudovicaIaccino', '#refugees', {color: '#c83b8f'}], ['LudovicaIaccino', '#croatia', {color: '#c83b8f'}], ['LudovicaIaccino', '@worldvision', {color: '#c83b8f'}], ['maamikron42', '#refugees', {color: '#a39088'}], ['maamikron42', '#logisticscrisis', {color: '#a39088'}], ['maamikron42', '@easterneuropein', {color: '#a39088'}], ['_vasco732', '#serbia', {color: '#a076c8'}], ['_vasco732', '#refugees', {color: '#a076c8'}], ['_vasco732', '#croatia', {color: '#a076c8'}], ['_vasco732', '@ludovicaiaccino', {color: '#a076c8'}], ['_vasco732', '@worldvi', {color: '#a076c8'}], ['AnimalRightsJen', '#womenrefugees', {color: '#a68846'}], ['AnimalRightsJen', '#war', {color: '#a68846'}], ['AnimalRightsJen', '#uniteblue', {color: '#a68846'}], ['AnimalRightsJen', '#women', {color: '#a68846'}], ['EmpathyNow', '#refugees', {color: '#764454'}], ['EmpathyNow', '#refugeeswelcome', {color: '#764454'}], ['EmpathyNow', '#openeuborders', {color: '#764454'}], ['EmpathyNow', '@saulocorona', {color: '#764454'}], ['MoulidHujale', '#movingenergy', {color: '#34b08b'}], ['MoulidHujale', '@ch', {color: '#34b08b'}], ['MoulidHujale', '@guardianeco', {color: '#34b08b'}]);
+
+jQuery(function(){
+  var springy = jQuery('#springydemo').springy({
+    graph: graph
+  });
+});
+
+</script>

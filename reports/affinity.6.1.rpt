@@ -1,0 +1,17 @@
+<script src="js/springy.js"></script>
+<script src="js/springyui.js"></script><canvas id='springydemo' width='1000' height='1000' />
+
+
+<script>
+var graph = new Springy.Graph();
+graph.addNodes();
+
+graph.addEdges();
+
+jQuery(function(){
+  var springy = jQuery('#springydemo').springy({
+    graph: graph
+  });
+});
+
+</script>

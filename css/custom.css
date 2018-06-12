@@ -1,0 +1,27 @@
+.datetimeselector{
+	padding-right: 10px;
+}
+ .tccontainer {
+  width: 400px;
+  height: 250px;
+    display:inline-block;
+}
+#wrapper{
+	width: 812px;
+}
+#first{
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+#second{
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+#third{
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+#fourth{
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}

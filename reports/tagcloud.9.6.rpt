@@ -1,0 +1,15 @@
+<div id="wrapper">
+  	<div id="second" class="tccontainer"><span class="title title-left">Unpleasent-Active</span></div>
+    <div id="first" class="tccontainer"><span class="title title-right">Pleasent-Active</span></div>
+  	<div id="third" class="tccontainer"><span class="title title-left">Unpleasent-Subdued</span></div>
+  	<div id="fourth" class="tccontainer"><span class="title title-right">Pleasent-Subdued</span></div>
+  </div>
+<script type='text/javascript'>
+var words1 = [ {text: "", weight: 4, html: {title: "1"}}, ];var words2 = [ {text: "", weight: 4, html: {title: "1"}}, ];var words3 = [ {text: "", weight: 4, html: {title: "1"}}, ];var words4 = [ {text: "", weight: 4, html: {title: "1"}}, ];
+  $(function(){
+    $("#first").jQCloud(words1);
+    $("#second").jQCloud(words2);
+    $("#third").jQCloud(words3);
+    $("#fourth").jQCloud(words4);
+  });
+  </script>

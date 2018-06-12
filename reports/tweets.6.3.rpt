@@ -1,0 +1,619 @@
+<style type="text/css">
+	td{
+		padding: 3px;
+	}
+</style>
+<table class="table-bordered table-responsive">
+	<thead><tr><th>ID</th><th>User</th><th>Time</th><th>Text</th><th>Cleaner Version</th><th>Retweet?</th><th>ANEW</th></thead>
+	<tbody><tr>
+		<td>494</td>
+		<td>TheCanarySays</td>
+		<td>2015-05-11 02:32:00</td>
+		<td>As if things weren't bad enough for those caught up in the refugee crisis. Now this. https://t.co/YXP7F5PxUg</td>
+		<td>as if things weren t bad enough for those caught up in the refugee crisis now this</td>
+		<td>No</td>
+		<td>bad caught crisis now</td>
+		</tr><tr>
+		<td>495</td>
+		<td>TexasBaptists</td>
+		<td>2015-05-11 03:35:00</td>
+		<td>Winter is coming and #Syrianrefugees in Lebanon need our help. Join us in providing Refugee Relief in this area. https://t.co/gvViGSaeAa</td>
+		<td>winter is coming and #syrianrefugees in lebanon need our help join us in providing refugee relief in this area</td>
+		<td>No</td>
+		<td>coming join area</td>
+		</tr><tr>
+		<td>496</td>
+		<td>AnnieCraik</td>
+		<td>2015-05-11 03:55:00</td>
+		<td>RT @SusanCalman: Cracking line up for this comedy show on 11th Nov raising urgent funds for the refugee crisis this winter https://t.co/XQ </td>
+		<td>rt @susancalman cracking line up for this comedy show on th nov raising urgent funds for the refugee crisis this winter</td>
+		<td>Yes</td>
+		<td>line comedy show on raising crisis</td>
+		</tr><tr>
+		<td>497</td>
+		<td>WorldNews_24h</td>
+		<td>2015-05-11 04:19:00</td>
+		<td>RT MatejPovse: I am very honored to see my photos in Newsweek magazine. https://t.co/6mz3x1kPOK https://t.co/N5wD8vjelr  </td>
+		<td>rt matejpovse i am very honored to see my photos in newsweek magazine</td>
+		<td>Yes</td>
+		<td>honored see</td>
+		</tr><tr>
+		<td>498</td>
+		<td>njmaha8518</td>
+		<td>2015-05-11 04:37:00</td>
+		<td>I am very honored to see my photos in @Newsweek magazine. https://t.co/mMBYXur1nJ https://t.co/E4jHk3i522</td>
+		<td>i am very honored to see my photos in @newsweek magazine</td>
+		<td>No</td>
+		<td>honored see</td>
+		</tr><tr>
+		<td>499</td>
+		<td>TXBDisasteRecov</td>
+		<td>2015-05-11 05:29:00</td>
+		<td>RT @TexasBaptists: Winter is coming and #Syrianrefugees in Lebanon need our help. Join us in providing Refugee Relief in this area. https:/ </td>
+		<td>rt @texasbaptists winter is coming and #syrianrefugees in lebanon need our help join us in providing refugee relief in this area httpsirritated</td>
+		<td>Yes</td>
+		<td>coming join area</td>
+		</tr><tr>
+		<td>500</td>
+		<td>chinawongs</td>
+		<td>2015-05-11 12:29:00</td>
+		<td>RT @UNrefugees: “it will not be long before a child freezes to death” - dire warnings from the #refugee crisis in #Europe https://t.co/47oO </td>
+		<td>rt @unrefugees it will not be long before a child freezes to death dire warnings from the #refugee crisis in #europe</td>
+		<td>Yes</td>
+		<td>child death warnings crisis</td>
+		</tr><tr>
+		<td>501</td>
+		<td>KlaraSkrinjar</td>
+		<td>2015-05-11 16:42:00</td>
+		<td>RT @jaredtmiller: Thrilled to be able to feature a selection @MatejPovse's work on the refugee route through the Balkans in the mag! https: </td>
+		<td>rt @jaredtmiller thrilled to be able to feature a selection @matejpovse s work on the refugee route through the balkans in the mag https</td>
+		<td>Yes</td>
+		<td>thrilled able selection work on</td>
+		</tr><tr>
+		<td>502</td>
+		<td>lawbibliophile</td>
+		<td>2015-05-11 17:38:00</td>
+		<td>RT @wiggywalsh: Please come to this 11th Nov. We're raising urgent funds for the refugee crisis this winter. https://t.co/hYvCMwOUAy https: </td>
+		<td>rt @wiggywalsh please come to this th nov we re raising urgent funds for the refugee crisis this winter https</td>
+		<td>Yes</td>
+		<td>please raising crisis</td>
+		</tr><tr>
+		<td>503</td>
+		<td>ERrisk</td>
+		<td>2015-05-11 19:23:00</td>
+		<td>#MultiHazard - #HEWS UNHCR launches new funding appeal for refugees as winter weather hits Europe https://t.co/HNSy1r34C5</td>
+		<td>#multihazard #hews unhcr launches new funding appeal for refugees as winter weather hits europe</td>
+		<td>No</td>
+		<td>new appeal weather hits</td>
+		</tr><tr>
+		<td>504</td>
+		<td>Disaster__Watch</td>
+		<td>2015-05-11 19:37:00</td>
+		<td>https://t.co/yNS4D5SCLP * UNHCR launches new funding appeal for refugees as winter weather hits Europe: Source: ... https://t.co/fIB2uyVuPR</td>
+		<td>unhcr launches new funding appeal for refugees as winter weather hits europe source</td>
+		<td>No</td>
+		<td>new appeal weather hits source</td>
+		</tr><tr>
+		<td>505</td>
+		<td>C4Dglobal</td>
+		<td>2015-05-11 19:37:00</td>
+		<td>#ReliefWeb. UNHCR launches new funding appeal for refugees as winter weather hits Europe: Source: U... https://t.co/cUoNibeK3P #globaldev</td>
+		<td>#reliefweb unhcr launches new funding appeal for refugees as winter weather hits europe source u #globaldev</td>
+		<td>No</td>
+		<td>new appeal weather hits source</td>
+		</tr><tr>
+		<td>506</td>
+		<td>RW_Headlines</td>
+		<td>2015-05-11 19:50:00</td>
+		<td>UNHCR launches new funding appeal for refugees as winter weather hits Europe https://t.co/6N3oKpM4S4</td>
+		<td>unhcr launches new funding appeal for refugees as winter weather hits europe</td>
+		<td>No</td>
+		<td>new appeal weather hits</td>
+		</tr><tr>
+		<td>508</td>
+		<td>K_Anckarstrom</td>
+		<td>2015-05-11 20:50:00</td>
+		<td>RT @newint: Refugee crisis worsens in #Lesbos as winter looms, NI co-editor @Hazel_Healy reports back. https://t.co/HyUeG65Cd3 https://t.co </td>
+		<td>rt @newint refugee crisis worsens in #lesbos as winter looms ni co editor @hazel healy reports back</td>
+		<td>Yes</td>
+		<td>crisis back</td>
+		</tr><tr>
+		<td>509</td>
+		<td>ricelaker</td>
+		<td>2015-05-11 22:12:00</td>
+		<td>Refugee crisis worsens in Lesbos as winter looms -- New Internationalist https://t.co/qFOGfsRPK5</td>
+		<td>refugee crisis worsens in lesbos as winter looms new internationalist</td>
+		<td>No</td>
+		<td>crisis new</td>
+		</tr><tr>
+		<td>510</td>
+		<td>b_toledoh</td>
+		<td>2015-05-11 22:20:00</td>
+		<td>UNHCR launches new funding appeal for #refugees in Europe's winter https://t.co/gjZRhVSj9y via @reliefweb @Refugees https://t.co/62lwndFeev</td>
+		<td>unhcr launches new funding appeal for #refugees in europe s winter via @reliefweb @refugees</td>
+		<td>No</td>
+		<td>new appeal</td>
+		</tr><tr>
+		<td>511</td>
+		<td>TanyaMSteele</td>
+		<td>2015-05-11 22:53:00</td>
+		<td>Report from #refugee crisis on Lesvos from @savechildrenuk @KateOSully https://t.co/Bh5JduSLxm @BuzzFeed</td>
+		<td>report from #refugee crisis on lesvos from @savechildrenuk @kateosully @buzzfeed</td>
+		<td>No</td>
+		<td>crisis on</td>
+		</tr><tr>
+		<td>512</td>
+		<td>AlbshreN91</td>
+		<td>2015-05-11 23:47:00</td>
+		<td>Thrilled to be able to feature a selection @MatejPovse's work on the refugee route through the Balkans in the mag! https://t.co/hiIVEQQ3PH</td>
+		<td>thrilled to be able to feature a selection @matejpovse s work on the refugee route through the balkans in the mag</td>
+		<td>No</td>
+		<td>thrilled able selection work on</td>
+		</tr><tr>
+		<td>514</td>
+		<td>Business_UKnews</td>
+		<td>2015-06-11 01:18:00</td>
+		<td>Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms #Business https://t.co/nJ6otnI250</td>
+		<td>serbia refugee crisis thousands wait to cross into croatia as winter looms #business</td>
+		<td>No</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>515</td>
+		<td>7starptc</td>
+		<td>2015-06-11 01:19:00</td>
+		<td>RT Business_UKnews Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms #Business https://t.co/lKIBCYFsGI</td>
+		<td>rt business uknews serbia refugee crisis thousands wait to cross into croatia as winter looms #business</td>
+		<td>Yes</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>516</td>
+		<td>mauritaniafrica</td>
+		<td>2015-06-11 01:31:00</td>
+		<td>GlblCtzn: Child refugee crisis: as winter sets in, the situation in Europe is becoming critical—https://t.co/cdCBf  https://t.co/Wq0GuhfxTV</td>
+		<td>glblctzn child refugee crisis as winter sets in the situation in europe is becoming critical</td>
+		<td>No</td>
+		<td>child crisis sets situation becoming</td>
+		</tr><tr>
+		<td>517</td>
+		<td>pov_team</td>
+		<td>2015-06-11 01:32:00</td>
+		<td>Child refugee crisis: as winter sets in, the situation in Europe becomes critical—https://t.co/fo1m29xTOM #branchout https://t.co/VBhL0UgY2b</td>
+		<td>child refugee crisis as winter sets in the situation in europe becomes critical #branchout</td>
+		<td>No</td>
+		<td>child crisis sets situation becomes</td>
+		</tr><tr>
+		<td>518</td>
+		<td>mrcaseyljhs</td>
+		<td>2015-06-11 01:34:00</td>
+		<td>11/5 Reading Min: Despite dangers of the European winter refugees are still coming, and many will die https://t.co/7WmWYv3iuW via @Newsweek</td>
+		<td>reading min despite dangers of the european winter refugees are still coming and many will die via @newsweek</td>
+		<td>No</td>
+		<td>reading despite dangers still coming</td>
+		</tr><tr>
+		<td>519</td>
+		<td>EasternEuropein</td>
+		<td>2015-06-11 01:53:00</td>
+		<td>Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms - International Business Times UK https://t.co/wGSINCiSUM</td>
+		<td>serbia refugee crisis thousands wait to cross into croatia as winter looms international business times uk</td>
+		<td>No</td>
+		<td>crisis wait times</td>
+		</tr><tr>
+		<td>520</td>
+		<td>saulocorona</td>
+		<td>2015-06-11 01:58:00</td>
+		<td>What Winter Will Mean For The Refugee Crisis: https://t.co/zTfbVTywsf #Refugees #RefugeesWelcome #OpenEUborders https://t.co/wOHWfbKisz</td>
+		<td>what winter will mean for the refugee crisis #refugees #refugeeswelcome #openeuborders</td>
+		<td>No</td>
+		<td>mean crisis</td>
+		</tr><tr>
+		<td>521</td>
+		<td>LudovicaIaccino</td>
+		<td>2015-06-11 02:00:00</td>
+		<td>#Serbia: Thousands of #refugees wait to cross into #Croatia as winter looms https://t.co/wNxUzB3Kys Thank you @WorldVision for your work</td>
+		<td>#serbia thousands of #refugees wait to cross into #croatia as winter looms thank you @worldvision for your work</td>
+		<td>No</td>
+		<td>wait thank work</td>
+		</tr><tr>
+		<td>523</td>
+		<td>_vasco732</td>
+		<td>2015-06-11 02:12:00</td>
+		<td>RT @LudovicaIaccino: #Serbia: Thousands of #refugees wait to cross into #Croatia as winter looms https://t.co/wNxUzB3Kys Thank you @WorldVi </td>
+		<td>rt @ludovicaiaccino #serbia thousands of #refugees wait to cross into #croatia as winter looms thank you @worldvi</td>
+		<td>Yes</td>
+		<td>wait thank</td>
+		</tr><tr>
+		<td>524</td>
+		<td>OthrFactsOfLife</td>
+		<td>2015-06-11 02:17:00</td>
+		<td>#Refugee news - Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms https://t.co/qtldriWRVV</td>
+		<td>#refugee news serbia refugee crisis thousands wait to cross into croatia as winter looms</td>
+		<td>No</td>
+		<td>news crisis wait</td>
+		</tr><tr>
+		<td>525</td>
+		<td>vofnsomalia</td>
+		<td>2015-06-11 02:31:00</td>
+		<td>Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms: Every day, hundreds – if not thou... https://t.co/Xez4SEgNBK</td>
+		<td>serbia refugee crisis thousands wait to cross into croatia as winter looms every day hundreds if not thou</td>
+		<td>No</td>
+		<td>crisis wait day</td>
+		</tr><tr>
+		<td>526</td>
+		<td>winterolympic_a</td>
+		<td>2015-06-11 03:09:00</td>
+		<td>Serbia refugee crisis photos: Thousands wait to cross into Croatia as winter looms - International Business Times UK https://t.co/h1sLSqmHUF</td>
+		<td>serbia refugee crisis photos thousands wait to cross into croatia as winter looms international business times uk</td>
+		<td>No</td>
+		<td>crisis wait times</td>
+		</tr><tr>
+		<td>527</td>
+		<td>balkanewsorg</td>
+		<td>2015-06-11 03:16:00</td>
+		<td>Serbia refugee crisis photos: Thousands wait to cross into Croatia as winter looms https://t.co/RUUdxPhwV5</td>
+		<td>serbia refugee crisis photos thousands wait to cross into croatia as winter looms</td>
+		<td>No</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>528</td>
+		<td>AnimalRightsJen</td>
+		<td>2015-06-11 03:47:00</td>
+		<td>#WomenRefugees #War Serbia refugee crisis photos: Thousands wait to cross into Croatia as... https://t.co/Rg9A7dD2M9 #UniteBlue #Women :(</td>
+		<td>#womenrefugees #war serbia refugee crisis photos thousands wait to cross into croatia as #uniteblue #women sad</td>
+		<td>No</td>
+		<td>war crisis wait women sad</td>
+		</tr><tr>
+		<td>529</td>
+		<td>vofncroatia</td>
+		<td>2015-06-11 04:38:00</td>
+		<td>Serbia refugee crisis photos: Thousands wait to cross into Croatia as winter looms: It's the beginning of Nove... https://t.co/4EpBavQaQV</td>
+		<td>serbia refugee crisis photos thousands wait to cross into croatia as winter looms it s the beginning of nove</td>
+		<td>No</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>530</td>
+		<td>AJMacDonaldJr</td>
+		<td>2015-06-11 04:49:00</td>
+		<td>Refugee crisis: Greece struggles to cope with 5,000 people a day as winter arrives https://t.co/c5KiDuc5i1 via @YouTube</td>
+		<td>refugee crisis greece struggles to cope with people a day as winter arrives via @youtube</td>
+		<td>No</td>
+		<td>crisis struggles people day</td>
+		</tr><tr>
+		<td>531</td>
+		<td>dlCroatia</td>
+		<td>2015-06-11 06:13:00</td>
+		<td>Serbia refugee crisis photos: Thousands wait to cross into Croatia as winter looms: It's the beginning of Nove... https://t.co/0OoydNjNsk</td>
+		<td>serbia refugee crisis photos thousands wait to cross into croatia as winter looms it s the beginning of nove</td>
+		<td>No</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>533</td>
+		<td>MsSiobhann</td>
+		<td>2015-06-11 07:21:00</td>
+		<td>serious q: anyone else hear the #NPR reporter on EU refugee crisis pause and say, "And Winter is Coming" and it just seemed...not right #GoT</td>
+		<td>serious q anyone else hear the #npr reporter on eu refugee crisis pause and say and winter is coming and it just seemed not right #got</td>
+		<td>No</td>
+		<td>serious hear on crisis coming right got</td>
+		</tr><tr>
+		<td>534</td>
+		<td>EmpathyNow</td>
+		<td>2015-06-11 10:58:00</td>
+		<td>RT @saulocorona: What Winter Will Mean For The Refugee Crisis: https://t.co/zTfbVTywsf #Refugees #RefugeesWelcome #OpenEUborders https://t. </td>
+		<td>rt @saulocorona what winter will mean for the refugee crisis #refugees #refugeeswelcome #openeuborders</td>
+		<td>Yes</td>
+		<td>mean crisis</td>
+		</tr><tr>
+		<td>535</td>
+		<td>DanSovaLalor</td>
+		<td>2015-06-11 13:44:00</td>
+		<td>Winter is Coming in Europe. Australia must do more to assist the refugee crisis https://t.co/Zs9NmJUA5u #auspol</td>
+		<td>winter is coming in europe australia must do more to assist the refugee crisis #auspol</td>
+		<td>No</td>
+		<td>coming do crisis</td>
+		</tr><tr>
+		<td>536</td>
+		<td>jondknight</td>
+		<td>2015-06-11 14:09:00</td>
+		<td>Serbia refugee crisis photos: Thousands wait to cross into Croatia as winter looms https://t.co/W95MRggUuE</td>
+		<td>serbia refugee crisis photos thousands wait to cross into croatia as winter looms</td>
+		<td>No</td>
+		<td>crisis wait</td>
+		</tr><tr>
+		<td>537</td>
+		<td>SaleyhaAhsan</td>
+		<td>2015-06-11 14:13:00</td>
+		<td>Retweeted Free Syria Media Hub (@Free_Media_Hub): Refugee crisis: Lesbos struggles to cope as winter arrives... https://t.co/WPHl98xFUE</td>
+		<td>retweeted free syria media hub @free media hub refugee crisis lesbos struggles to cope as winter arrives</td>
+		<td>No</td>
+		<td>free free crisis struggles</td>
+		</tr><tr>
+		<td>538</td>
+		<td>CaroSchirmer</td>
+		<td>2015-06-11 16:35:00</td>
+		<td>BBC Report, Video: Refugee crisis: Lesbos struggles to cope as winter arrives https://t.co/ntDyxGuIKE via @YouTube</td>
+		<td>bbc report video refugee crisis lesbos struggles to cope as winter arrives via @youtube</td>
+		<td>No</td>
+		<td>crisis struggles</td>
+		</tr><tr>
+		<td>539</td>
+		<td>nijenijeto</td>
+		<td>2015-06-11 16:47:00</td>
+		<td>RT @EasternEuropein: Serbia refugee crisis: Thousands wait to cross into Croatia as winter looms - International Business Times UK https:// </td>
+		<td>rt @easterneuropein serbia refugee crisis thousands wait to cross into croatia as winter looms international business times uk</td>
+		<td>Yes</td>
+		<td>crisis wait times</td>
+		</tr><tr>
+		<td>540</td>
+		<td>esthersuz</td>
+		<td>2015-06-11 17:14:00</td>
+		<td>I liked a @YouTube video https://t.co/kveSDVXvNw Refugee crisis: Lesbos struggles to cope as winter arrives</td>
+		<td>i liked a @youtube video refugee crisis lesbos struggles to cope as winter arrives</td>
+		<td>No</td>
+		<td>liked crisis struggles</td>
+		</tr><tr>
+		<td>541</td>
+		<td>friboren</td>
+		<td>2015-06-11 20:29:00</td>
+		<td>'Bad weather discount' to migrants willing to cross Mediterranean during winter https://t.co/Z38wt0PDYy EU says welcome - if you survive.</td>
+		<td>bad weather discount to migrants willing to cross mediterranean during winter eu says welcome if you survive</td>
+		<td>No</td>
+		<td>bad weather survive</td>
+		</tr><tr>
+		<td>542</td>
+		<td>EU4Sanctuary</td>
+		<td>2015-07-11 01:24:00</td>
+		<td>#refugees – UNHCR seeks $96m to 'avert risk of humanitarian tragedy & loss of life during winter https://t.co/JukPE3woUY via @reliefweb</td>
+		<td>#refugees unhcr seeks m to avert risk of humanitarian tragedy loss of life during winter via @reliefweb</td>
+		<td>No</td>
+		<td>risk tragedy life</td>
+		</tr><tr>
+		<td>543</td>
+		<td>InspireMediaCo</td>
+		<td>2015-07-11 02:04:00</td>
+		<td>RT @astroehlein: EU refugee crisis in 2 photos on same day: Drowned baby in Lesbos; hate march in Prague https://t.co/hUD7TXPHUb https://t. </td>
+		<td>rt @astroehlein eu refugee crisis in photos on same day drowned baby in lesbos hate march in prague</td>
+		<td>Yes</td>
+		<td>crisis on day drowned baby hate</td>
+		</tr><tr>
+		<td>544</td>
+		<td>huettemann</td>
+		<td>2015-07-11 03:59:00</td>
+		<td>RT @NewsweekEurope: This week's cover story: How refugees risk death, traveling through the European winter https://t.co/MMfTtFT288 https:/ </td>
+		<td>rt @newsweekeurope this week s cover story how refugees risk death traveling through the european winter httpsirritated</td>
+		<td>Yes</td>
+		<td>story risk death traveling</td>
+		</tr><tr>
+		<td>545</td>
+		<td>peterhenry9</td>
+		<td>2015-07-11 04:41:00</td>
+		<td>RT @GlblCtzn: Child refugee crisis: as winter sets in, the situation in Europe is becoming critical—https://t.co/cdCBfp9IJ2 https://t.co/Ke </td>
+		<td>rt @glblctzn child refugee crisis as winter sets in the situation in europe is becoming critical</td>
+		<td>Yes</td>
+		<td>child crisis sets situation becoming</td>
+		</tr><tr>
+		<td>546</td>
+		<td>MoulidHujale</td>
+		<td>2015-07-11 06:29:00</td>
+		<td>RT @CH_EERDept: As winter hits the refugee crisis, energy provision will become a key concern, #MovingEnergy @guardianeco : https://t.co/4y </td>
+		<td>rt @ch eerdept as winter hits the refugee crisis energy provision will become a key concern #movingenergy @guardianeco</td>
+		<td>Yes</td>
+		<td>hits crisis energy become key</td>
+		</tr><tr>
+		<td>547</td>
+		<td>JosephGuay1</td>
+		<td>2015-07-11 10:07:00</td>
+		<td>RT @JFCrisp: It can only get worse... Excellent Guardian feature on Europe's refugee emergency and the arrival of winter: https://t.co/oL74 </td>
+		<td>rt @jfcrisp it can only get worse excellent guardian feature on europe s refugee emergency and the arrival of winter</td>
+		<td>Yes</td>
+		<td>only get worse on</td>
+		</tr><tr>
+		<td>548</td>
+		<td>CSPANnow</td>
+		<td>2015-07-11 11:06:00</td>
+		<td>1-2016 Presidential Campaign | 2-Book Discussion on [Winter is Coming] | 3-Refugee Crisis in Europe https://t.co/zMJYbFEXbm</td>
+		<td>presidential campaign book discussion on winter is coming refugee crisis in europe</td>
+		<td>No</td>
+		<td>campaign book on coming crisis</td>
+		</tr><tr>
+		<td>549</td>
+		<td>DamienSharkov</td>
+		<td>2015-07-11 11:11:00</td>
+		<td>This week's cover story: How refugees risk death, traveling through the European winter https://t.co/JXu6fZ3qke https://t.co/3GUeJ9Mk4H</td>
+		<td>this week s cover story how refugees risk death traveling through the european winter</td>
+		<td>No</td>
+		<td>story risk death traveling</td>
+		</tr><tr>
+		<td>550</td>
+		<td>N_HurstWhite</td>
+		<td>2015-07-11 13:03:00</td>
+		<td>#Malala gave up her winter break from school to witness the Syrian refugee crisis. [image credit: UNHCR's Fb page] https://t.co/pNwYynPGjB</td>
+		<td>#malala gave up her winter break from school to witness the syrian refugee crisis image credit unhcr s fb page</td>
+		<td>No</td>
+		<td>gave break school witness crisis</td>
+		</tr><tr>
+		<td>551</td>
+		<td>CityDXBGuide</td>
+		<td>2015-07-11 14:15:00</td>
+		<td>Refugee crisis: The rush to beat winter: With figures released this week showing that some 758,400 asylum seek... https://t.co/etxkWBfoMX</td>
+		<td>refugee crisis the rush to beat winter with figures released this week showing that some asylum seek</td>
+		<td>No</td>
+		<td>crisis figures showing some</td>
+		</tr><tr>
+		<td>552</td>
+		<td>Executive_Tower</td>
+		<td>2015-07-11 14:15:00</td>
+		<td>Refugee crisis: The rush to beat winter: With figures released this week showing that some 758,400 asylum seek... https://t.co/yKaWb1hlT4</td>
+		<td>refugee crisis the rush to beat winter with figures released this week showing that some asylum seek</td>
+		<td>No</td>
+		<td>crisis figures showing some</td>
+		</tr><tr>
+		<td>553</td>
+		<td>DamienSharkov</td>
+		<td>2015-07-11 19:57:00</td>
+		<td>This week's cover story: Refugees are risking death traveling through the European winter https://t.co/rWP2lzuSGR https://t.co/p575C2mF17</td>
+		<td>this week s cover story refugees are risking death traveling through the european winter</td>
+		<td>No</td>
+		<td>story risking death traveling</td>
+		</tr><tr>
+		<td>554</td>
+		<td>Newsweek</td>
+		<td>2015-08-11 01:00:00</td>
+		<td>Come hell or high water: Refugees risk death traveling through a harrowing European winter https://t.co/hYDS21fg3q https://t.co/KmH2h1zWiQ</td>
+		<td>come hell or high water refugees risk death traveling through a harrowing european winter</td>
+		<td>No</td>
+		<td>hell high water risk death traveling</td>
+		</tr><tr>
+		<td>555</td>
+		<td>sheilaweeks</td>
+		<td>2015-08-11 01:03:00</td>
+		<td>Winter comes to the European Refugee Crisis as Funds Run Low https://t.co/hFwn9izLrb</td>
+		<td>winter comes to the european refugee crisis as funds run low</td>
+		<td>No</td>
+		<td>crisis run low</td>
+		</tr><tr>
+		<td>556</td>
+		<td>rumorabout</td>
+		<td>2015-08-11 01:03:00</td>
+		<td>Winter comes to the European Refugee Crisis as Funds Run Low: The refugee and migration crisis in Europe faces a  https://t.co/VnWwFAyqn5</td>
+		<td>winter comes to the european refugee crisis as funds run low the refugee and migration crisis in europe faces a</td>
+		<td>No</td>
+		<td>crisis run low crisis faces</td>
+		</tr><tr>
+		<td>557</td>
+		<td>WorldNews_24h</td>
+		<td>2015-08-11 01:06:00</td>
+		<td>Come hell or high water: Refugees risk death traveling through a harrowing European winter https://t.co/iOePYRaqMu  </td>
+		<td>come hell or high water refugees risk death traveling through a harrowing european winter</td>
+		<td>No</td>
+		<td>hell high water risk death traveling</td>
+		</tr><tr>
+		<td>558</td>
+		<td>jessicahannan81</td>
+		<td>2015-08-11 01:06:00</td>
+		<td>The #European #refugeecrisis needs more items for winter to help expected 5K/day arrivals. https://t.co/WMCx5AxgGO But what else is needed?</td>
+		<td>the #european #refugeecrisis needs more items for winter to help expected k day arrivals but what else is needed</td>
+		<td>No</td>
+		<td>items day</td>
+		</tr><tr>
+		<td>559</td>
+		<td>Newsweek</td>
+		<td>2015-08-11 02:15:00</td>
+		<td>Despite the dangers of the European winter, refugees are still coming, and many will die https://t.co/hYDS21fg3q https://t.co/qHqvBC3y0K</td>
+		<td>despite the dangers of the european winter refugees are still coming and many will die</td>
+		<td>No</td>
+		<td>despite dangers still coming</td>
+		</tr><tr>
+		<td>560</td>
+		<td>WorldNews_24h</td>
+		<td>2015-08-11 02:25:00</td>
+		<td>Despite the dangers of the European winter, refugees are still coming, and many will die https://t.co/iOePYRaqMu https://t.co/dXNEwzUdgG  </td>
+		<td>despite the dangers of the european winter refugees are still coming and many will die</td>
+		<td>No</td>
+		<td>despite dangers still coming</td>
+		</tr><tr>
+		<td>561</td>
+		<td>ballaballaco</td>
+		<td>2015-08-11 02:27:00</td>
+		<td>Winter comes to the European Refugee Crisis as Funds Run Low - I4U News https://t.co/Vm2UgoYubA https://t.co/3Le2If1VKk</td>
+		<td>winter comes to the european refugee crisis as funds run low i u news</td>
+		<td>No</td>
+		<td>crisis run low news</td>
+		</tr><tr>
+		<td>563</td>
+		<td>Kievjoy</td>
+		<td>2015-08-11 02:56:00</td>
+		<td>RT @2111015: #Refugees Risk Death Traveling Through a Harrowing #Europe|an Winter https://t.co/xX8bIy95Ub #Iraq #Iran #Syria https://t.co/D </td>
+		<td>rt @  #refugees risk death traveling through a harrowing #europe an winter #iraq #iran #syria</td>
+		<td>Yes</td>
+		<td>risk death traveling</td>
+		</tr><tr>
+		<td>564</td>
+		<td>amiablecynic</td>
+		<td>2015-08-11 03:15:00</td>
+		<td>RT @EU4Sanctuary: #refugees – UNHCR seeks $96m to 'avert risk of humanitarian tragedy & loss of life during winter https://t.co/JukPE3woUY  </td>
+		<td>rt @eu sanctuary #refugees unhcr seeks m to avert risk of humanitarian tragedy loss of life during winter</td>
+		<td>Yes</td>
+		<td>risk tragedy life</td>
+		</tr><tr>
+		<td>565</td>
+		<td>i4unews</td>
+		<td>2015-08-11 03:50:00</td>
+		<td>Winter to Escalate European Refugee Crisis as Funds Run Low https://t.co/hPstA2Uxjx</td>
+		<td>winter to escalate european refugee crisis as funds run low</td>
+		<td>No</td>
+		<td>crisis run low</td>
+		</tr><tr>
+		<td>566</td>
+		<td>GIZMODO_CZ</td>
+		<td>2015-08-11 04:43:00</td>
+		<td>Winter to Escalate European Refugee Crisis as Funds Run Low</td>
+		<td>winter to escalate european refugee crisis as funds run low</td>
+		<td>No</td>
+		<td>crisis run low</td>
+		</tr><tr>
+		<td>567</td>
+		<td>AnimalRightsJen</td>
+		<td>2015-08-11 05:58:00</td>
+		<td>#WomenRefugees #War Winter to Escalate European Refugee Crisis as Funds Run Low: As winte... https://t.co/VmdU0em9nG #UniteBlue #Women :(</td>
+		<td>#womenrefugees #war winter to escalate european refugee crisis as funds run low as winte #uniteblue #women sad</td>
+		<td>No</td>
+		<td>war crisis run low women sad</td>
+		</tr><tr>
+		<td>568</td>
+		<td>WomenWorldNews1</td>
+		<td>2015-08-11 05:58:00</td>
+		<td>#WomenRefugees #War Winter to Escalate European Refugee Crisis as Funds Run Low: As winte... https://t.co/vQh7ob8Cej #Refugees #HumanRigh</td>
+		<td>#womenrefugees #war winter to escalate european refugee crisis as funds run low as winte #refugees #humanrigh</td>
+		<td>No</td>
+		<td>war crisis run low</td>
+		</tr><tr>
+		<td>569</td>
+		<td>violagienger</td>
+		<td>2015-08-11 09:19:00</td>
+		<td>RT @GeorgetownFlow: @violagienger Winter Is Coming for Syria's Refugees, and the EU Isn't Ready https://t.co/k2yObfWXXR https://t.co/GnxCQs </td>
+		<td>rt @georgetownflow @violagienger winter is coming for syria s refugees and the eu isn t ready</td>
+		<td>Yes</td>
+		<td>coming ready</td>
+		</tr><tr>
+		<td>570</td>
+		<td>___psi</td>
+		<td>2015-08-11 09:38:00</td>
+		<td>RT @Newsweek: Come hell or high water: Refugees risk death traveling through a harrowing European winter https://t.co/hYDS21fg3q https://t. </td>
+		<td>rt @newsweek come hell or high water refugees risk death traveling through a harrowing european winter</td>
+		<td>Yes</td>
+		<td>hell high water risk death traveling</td>
+		</tr><tr>
+		<td>571</td>
+		<td>winterolympic_a</td>
+		<td>2015-08-11 11:04:00</td>
+		<td>Winter to Escalate European Refugee Crisis as Funds Run Low - I4U News #refugee https://t.co/7qoS2yc2lZ</td>
+		<td>winter to escalate european refugee crisis as funds run low i u news #refugee</td>
+		<td>No</td>
+		<td>crisis run low news</td>
+		</tr><tr>
+		<td>572</td>
+		<td>yukaritakasugi</td>
+		<td>2015-08-11 11:23:00</td>
+		<td>RT @Newsweek: Despite the dangers of the European winter, refugees are still coming, and many will die https://t.co/hYDS21fg3q https://t.co </td>
+		<td>rt @newsweek despite the dangers of the european winter refugees are still coming and many will die</td>
+		<td>Yes</td>
+		<td>despite dangers still coming</td>
+		</tr><tr>
+		<td>573</td>
+		<td>PoliticallyLib</td>
+		<td>2015-08-11 11:51:00</td>
+		<td>RT @gulf_news: Refugee crisis: The rush to beat winter - in pictures https://t.co/Wm4UeJWmdB https://t.co/SZMobsgIB5</td>
+		<td>rt @gulf news refugee crisis the rush to beat winter in pictures</td>
+		<td>Yes</td>
+		<td>news crisis pictures</td>
+		</tr><tr>
+		<td>574</td>
+		<td>thaibox27</td>
+		<td>2015-08-11 12:13:00</td>
+		<td>RT @NewsweekEurope: This week's cover story: Refugees are risking death traveling through the European winter https://t.co/kiTDLoXZOl https </td>
+		<td>rt @newsweekeurope this week s cover story refugees are risking death traveling through the european winter https</td>
+		<td>Yes</td>
+		<td>story risking death traveling</td>
+		</tr>
+	</tbody>
+	<tfoot></tfoot>
+</table>

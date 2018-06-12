@@ -1,0 +1,19 @@
+<style type="text/css">
+	td{
+		padding: 3px;
+	}
+</style>
+<table class="table-bordered table-responsive">
+	<thead><tr><th>ID</th><th>User</th><th>Time</th><th>Text</th><th>Cleaner Version</th><th>Retweet?</th><th>ANEW</th></thead>
+	<tbody><tr>
+		<td>494</td>
+		<td>TheCanarySays</td>
+		<td>2015-05-11 02:32:00</td>
+		<td>As if things weren't bad enough for those caught up in the refugee crisis. Now this. https://t.co/YXP7F5PxUg</td>
+		<td>as if things weren t bad enough for those caught up in the refugee crisis now this</td>
+		<td>No</td>
+		<td>bad caught crisis now</td>
+		</tr>
+	</tbody>
+	<tfoot></tfoot>
+</table>

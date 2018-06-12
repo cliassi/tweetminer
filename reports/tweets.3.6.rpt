@@ -1,0 +1,3915 @@
+<style type="text/css">
+	td{
+		padding: 3px;
+	}
+</style>
+<table class="table-bordered table-responsive">
+	<thead><tr><th>ID</th><th>User</th><th>Time</th><th>Text</th><th>Cleaner Version</th><th>Retweet?</th><th>ANEW</th></thead>
+	<tbody><tr>
+		<td>1</td>
+		<td>Kill_Quin</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>RT @AyGeraldJay: When she says "You're like a brother to me" http://t.co/XAfsfU6DpE</td>
+		<td>rt @aygeraldjay when she says you re like a brother to me</td>
+		<td>Yes</td>
+		<td>like brother</td>
+		</tr><tr>
+		<td>2</td>
+		<td>oliviakellyhi</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>Absolutely everyone is getting on my nerves today and I am going to kill someone soon</td>
+		<td>absolutely everyone is getting on my nerves today and i am going to kill someone soon</td>
+		<td>No</td>
+		<td>absolutely getting nerves today going kill someone soon</td>
+		</tr><tr>
+		<td>3</td>
+		<td>MrAmelle</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>"@MetroUK: 10 easy shortcuts to a happier life http://t.co/aTacS2KGp7 http://t.co/RZgxHM17ZN" why ain't kill racists one of them</td>
+		<td>@metrouk easy shortcuts to a happier life why ain t kill racists one of them</td>
+		<td>No</td>
+		<td>easy happier life kill one</td>
+		</tr><tr>
+		<td>4</td>
+		<td>ohznapitzeula</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>I wish I could kill my mind HAHAHAHAHAHA</td>
+		<td>i wish i could kill my mind hahahahahaha</td>
+		<td>No</td>
+		<td>wish kill mind</td>
+		</tr><tr>
+		<td>5</td>
+		<td>_str8LIKEdhat</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>RT @TTrussell3: My boy @_str8LIKEdhat ready to kill yall ????. Young boy fixing to swag up</td>
+		<td>rt @ttrussell my boy @ str likedhat ready to kill yall young boy fixing to swag up</td>
+		<td>Yes</td>
+		<td>boy ready kill young boy fixing swag</td>
+		</tr><tr>
+		<td>6</td>
+		<td>miraclelandis</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>I'm going to kill myself if my mom doeSNT SHUT UP OH MY GOD</td>
+		<td>i m going to kill myself if my mom doesnt shut up oh my god</td>
+		<td>No</td>
+		<td>going kill god</td>
+		</tr><tr>
+		<td>7</td>
+		<td>Cuttingege1234</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>No, I haven't had my coffee yet, so please don't make me fucking kill you, it would ruin the rest of my day.</td>
+		<td>no i haven t had my coffee yet so please don t make me fucking kill you it would ruin the rest of my day</td>
+		<td>No</td>
+		<td>coffee please make fucking kill ruin rest day</td>
+		</tr><tr>
+		<td>8</td>
+		<td>ByTheKil0watt</td>
+		<td>2015-03-20 16:19:00</td>
+		<td>RT @jennycraig4L: pt 7. AND WE RIPPED THAT DOLL TO SHREDS AND PUT A CAT COLLAR ON HIM, IN CASE HE WANTED TO KILL US IN THE NIGHT, WE'D HEAR </td>
+		<td>rt @jennycraig l pt and we ripped that doll to shreds and put a cat collar on him in case he wanted to kill us in the night we d hear</td>
+		<td>Yes</td>
+		<td>doll put cat collar case wanted kill night hear</td>
+		</tr><tr>
+		<td>9</td>
+		<td>_KvnggKaay</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Lil Herb & Lil Bibby x Kill Shit 2</td>
+		<td>lil herb lil bibby x kill shit</td>
+		<td>No</td>
+		<td>kill shit</td>
+		</tr><tr>
+		<td>10</td>
+		<td>bestnewrapmusic</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @hexhatesu: RT @thakidjinx "@culturevi: @hexhatesu When you call me a bitch ass hoe nigga, I know it's coming from love."-or tell me kil </td>
+		<td>rt @hexhatesu rt @thakidjinx @culturevi @hexhatesu when you call me a bitch ass hoe nigga i know it s coming from love or tell me kil</td>
+		<td>Yes</td>
+		<td>call bitch ass know coming love tell</td>
+		</tr><tr>
+		<td>11</td>
+		<td>_JuicyyGINA</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@Mo_ShnoDat I mean. I think that's over kill. Like you just had the weekend. Wednesday is that middle of the week break</td>
+		<td>@mo shnodat i mean i think that s over kill like you just had the weekend wednesday is that middle of the week break</td>
+		<td>No</td>
+		<td>mean think kill like middle break</td>
+		</tr><tr>
+		<td>12</td>
+		<td>miserablecitytv</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @HeckPhilly: @juliawolfe @miserablecitytv @seanjjordan despite what "should" be, the cops here kill. America is a violent place, and t </td>
+		<td>rt @heckphilly @juliawolfe @miserablecitytv @seanjjordan despite what should be the cops here kill america is a violent place and t</td>
+		<td>Yes</td>
+		<td>despite cops kill violent place</td>
+		</tr><tr>
+		<td>13</td>
+		<td>Danny_PEE_xD</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @letripleOG: I had a dream I got shot in the neck & @Danny_PEE_xD tried to kill me ?????????? wtf</td>
+		<td>rt @letripleog i had a dream i got shot in the neck @danny pee xd tried to kill me  wtf</td>
+		<td>Yes</td>
+		<td>dream got shot tried kill</td>
+		</tr><tr>
+		<td>14</td>
+		<td>felix_r94</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>About to kill this steam & gas quiz and thermodynamics test #feelinggood</td>
+		<td>about to kill this steam gas quiz and thermodynamics test #feelinggood</td>
+		<td>No</td>
+		<td>kill gas</td>
+		</tr><tr>
+		<td>15</td>
+		<td>wydcleo</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@nottootabby feed me or kill me honestly</td>
+		<td>@nottootabby feed me or kill me honestly</td>
+		<td>No</td>
+		<td>feed kill honestly</td>
+		</tr><tr>
+		<td>16</td>
+		<td>Kkeiara_</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Leya said she's going to kill me??!</td>
+		<td>leya said she s going to kill me</td>
+		<td>No</td>
+		<td>going kill</td>
+		</tr><tr>
+		<td>17</td>
+		<td>sytse06</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Tesla's Plan to Kill Range Anxiety - WIRED http://t.co/7QcK4lJRbO</td>
+		<td>tesla s plan to kill range anxiety wired</td>
+		<td>No</td>
+		<td>kill range anxiety</td>
+		</tr><tr>
+		<td>18</td>
+		<td>AlpoLumpy1920</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Life too short for attitudes and angry faces... Yall people kill me. Ima die smiling</td>
+		<td>life too short for attitudes and angry faces yall people kill me ima die smiling</td>
+		<td>No</td>
+		<td>life short angry faces people kill</td>
+		</tr><tr>
+		<td>19</td>
+		<td>LondonTweeter1</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @darren_dazmav: HM Government! If we don't like you or you threaten our plans we will fucking kill you!! Happens all the time!! http:// </td>
+		<td>rt @darren dazmav hm government if we don t like you or you threaten our plans we will fucking kill you happens all the time</td>
+		<td>Yes</td>
+		<td>government like fucking kill happens time</td>
+		</tr><tr>
+		<td>20</td>
+		<td>KimHasNoBrains2</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Np: Rebel Girl - Bikini Kill</td>
+		<td>np rebel girl bikini kill</td>
+		<td>No</td>
+		<td>girl kill</td>
+		</tr><tr>
+		<td>21</td>
+		<td>VladeWitDaTATTS</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @_OneEyeWillie: April 14 is when kur should drop !! That gives he may & June & July too flame !!!! Then kill Em with a back too school  </td>
+		<td>rt @ oneeyewillie april is when kur should drop that gives he may june july too flame then kill em with a back too school</td>
+		<td>Yes</td>
+		<td>drop gives may flame kill back school</td>
+		</tr><tr>
+		<td>22</td>
+		<td>mzrowan</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @heyfeifer: Valuable lesson taught by the NH state legislature to a group of fourth graders: kids, don't go into politics. http://t.co/d </td>
+		<td>rt @heyfeifer valuable lesson taught by the nh state legislature to a group of fourth graders kids don t go into politics</td>
+		<td>Yes</td>
+		<td>lesson taught kids go politics</td>
+		</tr><tr>
+		<td>23</td>
+		<td>sinenhlanhla_n</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Lmfao ubungasho ngani though? "@SthaButhez: My mom is going to kill me when she see's the phone bill ??"</td>
+		<td>lmfao ubungasho ngani though @sthabuthez my mom is going to kill me when she see s the phone bill</td>
+		<td>No</td>
+		<td>going kill see bill</td>
+		</tr><tr>
+		<td>24</td>
+		<td>HuskerTapes</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT CAarrll! @JournalStarNews #Nebraska man was arrested on suspicion of trying to kill his brother: http://t.co/YBZQrFI60H</td>
+		<td>rt caarrll @journalstarnews #nebraska man was arrested on suspicion of trying to kill his brother</td>
+		<td>Yes</td>
+		<td>man suspicion trying kill brother</td>
+		</tr><tr>
+		<td>25</td>
+		<td>wonderfulharrry</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I forgot I have to train a new girl tomorrow@kill me now</td>
+		<td>i forgot i have to train a new girl tomorrow@kill me now</td>
+		<td>No</td>
+		<td>train new girl</td>
+		</tr><tr>
+		<td>26</td>
+		<td>ratherastory</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@tsukinofaerii @EllipticEye Wait wait wait... the people getting racist insults and instructions to kill themselves are being BLAMED? >:(</td>
+		<td>@tsukinofaerii @ellipticeye wait wait wait the people getting racist insults and instructions to kill themselves are being blamed sad</td>
+		<td>No</td>
+		<td>wait wait wait people getting insults instructions kill sad</td>
+		</tr><tr>
+		<td>27</td>
+		<td>tomesimpson</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @azaria_infidel: @wordwar7 @BP31777 @tomesimpson Yea well I'm in Bama and we kill 50 ton hogzillas with one eye closed????</td>
+		<td>rt @azaria infidel @wordwar @bp @tomesimpson yea well i m in bama and we kill ton hogzillas with one eye closed</td>
+		<td>Yes</td>
+		<td>well kill one eye</td>
+		</tr><tr>
+		<td>28</td>
+		<td>KaeliButters</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@dhill7221 way to kill my hopes and dreams Uncle David ????</td>
+		<td>@dhill way to kill my hopes and dreams uncle david</td>
+		<td>No</td>
+		<td>way kill hopes dreams</td>
+		</tr><tr>
+		<td>29</td>
+		<td>batuulism</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @HasHafidh: I'm sorry but bombing places of worship with intent to kill those inside, how does the perverted extremist mindset rationali </td>
+		<td>rt @hashafidh i m sorry but bombing places of worship with intent to kill those inside how does the perverted extremist mindset rationali</td>
+		<td>Yes</td>
+		<td>sorry bombing places worship intent kill does perverted</td>
+		</tr><tr>
+		<td>30</td>
+		<td>MicTyMc</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @djframpster: More time I'm stingy with reloads. Nothing worse than a set with a thousand reloads. More time you need to take in the vib </td>
+		<td>rt @djframpster more time i m stingy with reloads nothing worse than a set with a thousand reloads more time you need to take in the vib</td>
+		<td>Yes</td>
+		<td>time worse set time take</td>
+		</tr><tr>
+		<td>31</td>
+		<td>pawsandawws</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Tame jungle cats? :o http://t.co/CO0dho90vs</td>
+		<td>tame jungle cats surprised</td>
+		<td>No</td>
+		<td>tame cats surprised</td>
+		</tr><tr>
+		<td>32</td>
+		<td>CourtneyPagh</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@PolitiBunny @GFKGolfCO @insidehermirror @AshleyJudd associates w/animal rights nuts who threaten to kill law-abiding hunters. She knows it.</td>
+		<td>@politibunny @gfkgolfco @insidehermirror @ashleyjudd associates w animal rights nuts who threaten to kill law abiding hunters she knows it</td>
+		<td>No</td>
+		<td>animal rights nuts kill knows</td>
+		</tr><tr>
+		<td>33</td>
+		<td>crocodilekatie</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I am respectful towards something that can swallow me whole! Sam can kill humans by age 10! @johnniemojo @elarastar http://t.co/UnDLaYQNS9</td>
+		<td>i am respectful towards something that can swallow me whole sam can kill humans by age @johnniemojo @elarastar</td>
+		<td>No</td>
+		<td>respectful swallow whole kill humans</td>
+		</tr><tr>
+		<td>34</td>
+		<td>madisonevans21</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @andersonaudreyy: good luck to @PHSResonance this weekend at their competition in Ohio! you will kill it!! ????</td>
+		<td>rt @andersonaudreyy good luck to @phsresonance this weekend at their competition in ohio you will kill it</td>
+		<td>Yes</td>
+		<td>good luck competition kill</td>
+		</tr><tr>
+		<td>35</td>
+		<td>jasminnnliaw</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>lol would it kill you to not be rude</td>
+		<td>lol would it kill you to not be rude</td>
+		<td>No</td>
+		<td>kill rude</td>
+		</tr><tr>
+		<td>36</td>
+		<td>Laettiti</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @guardianworld: Three suicide bombings at Yemen's Houthi mosques kill 55 people http://t.co/69Du7E3lJn</td>
+		<td>rt @guardianworld three suicide bombings at yemen s houthi mosques kill people</td>
+		<td>Yes</td>
+		<td>three suicide bombings kill people</td>
+		</tr><tr>
+		<td>37</td>
+		<td>LoveMYambition9</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @_SimplyTi: Nikko Lafre - Kill the lies ??</td>
+		<td>rt @ simplyti nikko lafre kill the lies</td>
+		<td>Yes</td>
+		<td>kill lies</td>
+		</tr><tr>
+		<td>38</td>
+		<td>sara_shawol1</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@realjonghyun90 kill me, heal me? ????</td>
+		<td>@realjonghyun kill me heal me</td>
+		<td>No</td>
+		<td>kill heal</td>
+		</tr><tr>
+		<td>39</td>
+		<td>cxamplc</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>i know hes cute, but hes mine. touch him and i ll kill you. haha jk</td>
+		<td>i know hes cute but hes mine touch him and i ll kill you haha jk</td>
+		<td>No</td>
+		<td>know cute touch kill</td>
+		</tr><tr>
+		<td>40</td>
+		<td>JobTipsCo</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>UK court gives teen to 22 years for plotting to kill soldier - Washington Post #jobs http://t.co/BBM9ejWuk6</td>
+		<td>uk court gives teen to years for plotting to kill soldier washington post #jobs</td>
+		<td>No</td>
+		<td>gives kill post</td>
+		</tr><tr>
+		<td>41</td>
+		<td>_thehbic_</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I could actually kill someone right now</td>
+		<td>i could actually kill someone right now</td>
+		<td>No</td>
+		<td>kill someone right</td>
+		</tr><tr>
+		<td>42</td>
+		<td>aharrissss</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @Fmoneyy: I would kill to be going on a cruise this sb ??</td>
+		<td>rt @fmoneyy i would kill to be going on a cruise this sb</td>
+		<td>Yes</td>
+		<td>kill going</td>
+		</tr><tr>
+		<td>43</td>
+		<td>RIP_Garey_Pooda</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @ChrisDoinNumbas: “@RIP_Garey_Pooda: @ChrisDoinNumbas member we used bust they ass ina wellness ?? lls” Lls Kill Ant N Them Shitty Ass</td>
+		<td>rt @chrisdoinnumbas @rip garey pooda @chrisdoinnumbas member we used bust they ass ina wellness lls lls kill ant n them shitty ass</td>
+		<td>Yes</td>
+		<td>member used ass wellness kill shitty ass</td>
+		</tr><tr>
+		<td>44</td>
+		<td>ab_lightyear</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>#??????? Mosque Attacks In Yemen Kill Dozens Suicide bombers struck at two Shiite mosques http://t.co/ATypKZjnmg</td>
+		<td># mosque attacks in yemen kill dozens suicide bombers struck at two shiite mosques</td>
+		<td>No</td>
+		<td>attacks kill suicide bombers struck two</td>
+		</tr><tr>
+		<td>45</td>
+		<td>717us</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @w1ls0n: @earlxsweat I don't get how a human can legit be mad at another human to the point he wants to kill him for being a different c </td>
+		<td>rt @w ls n @earlxsweat i don t get how a human can legit be mad at another human to the point he wants to kill him for being a different c</td>
+		<td>Yes</td>
+		<td>get human mad human point wants kill</td>
+		</tr><tr>
+		<td>46</td>
+		<td>CodeRedShell</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @SkyNews: Teens Held For 'Plotting To Kill Classmate' http://t.co/6uTSGlQpnH</td>
+		<td>rt @skynews teens held for plotting to kill classmate</td>
+		<td>Yes</td>
+		<td>held kill</td>
+		</tr><tr>
+		<td>47</td>
+		<td>InessantosA</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Chinese people are horrible...they kill their parents to cooked them as "pig'n'poke"...</td>
+		<td>chinese people are horrible they kill their parents to cooked them as pig n poke</td>
+		<td>No</td>
+		<td>people kill cooked pig</td>
+		</tr><tr>
+		<td>48</td>
+		<td>Jeffsright</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @exposeliberals: Muslim terrorists kill 19 in Tunisia http://t.co/ZZO7bP1DzR #tcot #tlot #tgdn https://t.co/QQ4xpJbEmS</td>
+		<td>rt @exposeliberals muslim terrorists kill in tunisia #tcot #tlot #tgdn</td>
+		<td>Yes</td>
+		<td>terrorists kill</td>
+		</tr><tr>
+		<td>49</td>
+		<td>DamnLilWOE</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>How Can You Kill A Child ???</td>
+		<td>how can you kill a child</td>
+		<td>No</td>
+		<td>kill child</td>
+		</tr><tr>
+		<td>50</td>
+		<td>BruhItsDawn</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>That feeling you get when you wanna kill yourself but your worried about the people that love you and how they would react. ??</td>
+		<td>that feeling you get when you wanna kill yourself but your worried about the people that love you and how they would react</td>
+		<td>No</td>
+		<td>feeling get kill worried people love</td>
+		</tr><tr>
+		<td>51</td>
+		<td>ZABulletin</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Triple suicide bombings at Yemen capital mosques kill 55: medics | http://t.co/y6e3Xyb3WX via TimesLIVE</td>
+		<td>triple suicide bombings at yemen capital mosques kill medics via timeslive</td>
+		<td>No</td>
+		<td>suicide bombings kill</td>
+		</tr><tr>
+		<td>52</td>
+		<td>lisa_uknow</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@JesusofBluehand kill myself? Your photo says as much as ur hateful words. Harassing people on Twitter for fun makes u a sick coward.</td>
+		<td>@jesusofbluehand kill myself your photo says as much as ur hateful words harassing people on twitter for fun makes u a sick coward</td>
+		<td>No</td>
+		<td>kill hateful words people fun makes sick coward</td>
+		</tr><tr>
+		<td>53</td>
+		<td>teeqz_ebooks</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>FUCK UP BREADUCK YOUR MIC IS FUCKED IT WONT WORK SO YOU BLOODY KILL MYSLEF IF YOUR IN THE WAY</td>
+		<td>fuck up breaduck your mic is fucked it wont work so you bloody kill myslef if your in the way</td>
+		<td>No</td>
+		<td>fuck fucked wont work bloody kill way</td>
+		</tr><tr>
+		<td>54</td>
+		<td>reetstweets</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @MichaelEjigu: Not sure what it says about society when the first thing that came to mind when I saw #MarteseJohnson was thank god they  </td>
+		<td>rt @michaelejigu not sure what it says about society when the first thing that came to mind when i saw #martesejohnson was thank god they</td>
+		<td>Yes</td>
+		<td>sure came mind saw thank god</td>
+		</tr><tr>
+		<td>55</td>
+		<td>AddisonRyann</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>"@Sotyannaxo: When girls randomly send my boyfriend nudes I send them one of me back to show them mine are better.” I'd kill tht bish ????</td>
+		<td>@sotyannaxo when girls randomly send my boyfriend nudes i send them one of me back to show them mine are better i d kill tht bish</td>
+		<td>No</td>
+		<td>girls nudes one back show better kill</td>
+		</tr><tr>
+		<td>56</td>
+		<td>jonqln</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @666minseok: If you disrespect wolf or growl in any way expect me to torture you then kill you</td>
+		<td>rt @ minseok if you disrespect wolf or growl in any way expect me to torture you then kill you</td>
+		<td>Yes</td>
+		<td>disrespect way torture kill</td>
+		</tr><tr>
+		<td>57</td>
+		<td>ronaaldoocr7</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>WARNING: Vacation Destinations That Can Kill You http://t.co/2k1CmLpHCK</td>
+		<td>warning vacation destinations that can kill you</td>
+		<td>No</td>
+		<td>warning vacation kill</td>
+		</tr><tr>
+		<td>58</td>
+		<td>ShoppingWoman1</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @lukemckibben: This is what happens when you arrive to work 3 hours early and have time to kill. #shopping today  https://t.co/ZgPF4Yza </td>
+		<td>rt @lukemckibben this is what happens when you arrive to work hours early and have time to kill #shopping today</td>
+		<td>Yes</td>
+		<td>happens work time kill shopping today</td>
+		</tr><tr>
+		<td>59</td>
+		<td>Cornbroker21</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @ATI_DaveFogel: Hearing hard red #wheat in Kansas/Oklahoma is not coming out of dormancy with enough moisture and showing high levels of </td>
+		<td>rt @ati davefogel hearing hard red #wheat in kansas oklahoma is not coming out of dormancy with enough moisture and showing high levels of</td>
+		<td>Yes</td>
+		<td>hearing hard red coming showing</td>
+		</tr><tr>
+		<td>60</td>
+		<td>Gulhifalhu</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @AslamAslamtey: "@Raajje_tv: A pro-government MP openly calling to kill former President Nasheed http://t.co/sVrI0Zsnmz" @svane_freddy @ </td>
+		<td>rt @aslamaslamtey @raajje tv a pro government mp openly calling to kill former president nasheed @svane freddy @</td>
+		<td>Yes</td>
+		<td>government calling kill</td>
+		</tr><tr>
+		<td>61</td>
+		<td>_JenniferAcc</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>“@SexualGif: I would kill to have these eyes http://t.co/3hP7tDm4Iq” ah</td>
+		<td>@sexualgif i would kill to have these eyes ah</td>
+		<td>No</td>
+		<td>kill eyes</td>
+		</tr><tr>
+		<td>62</td>
+		<td>bami_Freelance</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Juicy J, Wiz Khalifa, Ty Dolla $ign - Shell Shocked ft. Kill The Noise &...: https://t.co/GAXlp4gwIB via @YouTube</td>
+		<td>juicy j wiz khalifa ty dolla ign shell shocked ft kill the noise via @youtube</td>
+		<td>No</td>
+		<td>kill noise</td>
+		</tr><tr>
+		<td>63</td>
+		<td>bestsarcasm1</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>If sarcasm can kill, I'd win the hunger games</td>
+		<td>if sarcasm can kill i d win the hunger games</td>
+		<td>No</td>
+		<td>kill win games</td>
+		</tr><tr>
+		<td>64</td>
+		<td>ShishirGkp007</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@swapan55 Mosque bombings kill 55 in Yemen. Similar in Pakistan. But still Muslims are more worried about Babri demolition 23 years ago.</td>
+		<td>@swapan mosque bombings kill in yemen similar in pakistan but still muslims are more worried about babri demolition years ago</td>
+		<td>No</td>
+		<td>bombings kill still worried</td>
+		</tr><tr>
+		<td>65</td>
+		<td>minhyuuuuck</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @seobspider: I'd kill someone to experience this :-) http://t.co/EtUJGuwNB8</td>
+		<td>rt @seobspider i d kill someone to experience this happy</td>
+		<td>Yes</td>
+		<td>kill someone happy</td>
+		</tr><tr>
+		<td>66</td>
+		<td>owlofme</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @TheRaptornary: #DYK Yard-feeders can sicken/kill songbirds. Tips on sanitation: http://t.co/s3r6fTGxbj #birds #birding #songbirds #wild </td>
+		<td>rt @theraptornary #dyk yard feeders can sicken kill songbirds tips on sanitation #birds #birding #songbirds #wild</td>
+		<td>Yes</td>
+		<td>kill tips birds birding</td>
+		</tr><tr>
+		<td>67</td>
+		<td>_jvargas_</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Kill I missed it??</td>
+		<td>kill i missed it</td>
+		<td>No</td>
+		<td>kill missed</td>
+		</tr><tr>
+		<td>68</td>
+		<td>NorthcrestBC</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>How To Kill A Lion On A Snowy Day 2 Samuel 23:20-25 @DrDanNcrest https://t.co/ym9argcyEl #Sermon #Video #DanLanier #Northcrest</td>
+		<td>how to kill a lion on a snowy day samuel  @drdanncrest #sermon #video #danlanier #northcrest</td>
+		<td>No</td>
+		<td>kill lion day</td>
+		</tr><tr>
+		<td>69</td>
+		<td>NoCaambioDeUser</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @gcoraof: I love you, but I want kill you JEJE</td>
+		<td>rt @gcoraof i love you but i want kill you jeje</td>
+		<td>Yes</td>
+		<td>love want kill</td>
+		</tr><tr>
+		<td>70</td>
+		<td>Spartakass</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @ym_allie: Apparently the guys at coffee disagreed when I said "Eat or be eaten" is the same as "kill or be killed". Then they all went  </td>
+		<td>rt @ym allie apparently the guys at coffee disagreed when i said eat or be eaten is the same as kill or be killed then they all went</td>
+		<td>Yes</td>
+		<td>apparently guys coffee eat eaten kill killed went</td>
+		</tr><tr>
+		<td>71</td>
+		<td>aks_1493</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @Nikita12S: Selfie with ghost ?????????????? kkkkiiiillllleeeeerrrrr ???????? please don't kill me ???????????????????????? Aahat....ssshhh http://t.co/MGp0H7L </td>
+		<td>rt @nikita s selfie with ghost  kkkkiiiillllleeeeerrrrr  please don t kill me    aahat ssshhh</td>
+		<td>Yes</td>
+		<td>ghost please kill</td>
+		</tr><tr>
+		<td>72</td>
+		<td>EricWStern</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>"It grasps them with its talons then uses its razor sharp beak to basically tear it apart limb by limb..." http://t.co/Hppr8FXkco</td>
+		<td>it grasps them with its talons then uses its razor sharp beak to basically tear it apart limb by limb</td>
+		<td>No</td>
+		<td>uses razor</td>
+		</tr><tr>
+		<td>73</td>
+		<td>Archimedesbuff</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @gneumann_wkow: I really hope no WI lawmakers are as tactless as NH Rep. Warren Groen: http://t.co/vRK9mgo5A3</td>
+		<td>rt @gneumann wkow i really hope no wi lawmakers are as tactless as nh rep warren groen</td>
+		<td>Yes</td>
+		<td>really hope</td>
+		</tr><tr>
+		<td>74</td>
+		<td>FERNAND92311182</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @stephy_saliba: Ready to Kill Mood ?? #NotTheDay faceplacebeirut #blogger #MTVanchor #MTVlebanon#Stephymtv @  https://t.co/JRf8qxgM91</td>
+		<td>rt @stephy saliba ready to kill mood #nottheday faceplacebeirut #blogger #mtvanchor #mtvlebanon#stephymtv @</td>
+		<td>Yes</td>
+		<td>ready kill mood</td>
+		</tr><tr>
+		<td>75</td>
+		<td>HeckPhilly</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@juliawolfe @miserablecitytv @seanjjordan despite what "should" be, the cops here kill. America is a violent place, and that's the reality</td>
+		<td>@juliawolfe @miserablecitytv @seanjjordan despite what should be the cops here kill america is a violent place and that s the reality</td>
+		<td>No</td>
+		<td>despite cops kill violent place reality</td>
+		</tr><tr>
+		<td>76</td>
+		<td>DanorSlim</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @LauraPalmer198: I think my favourite scene in Pretty In Pink is when she used her telekinetic powers to kill everyone at prom.</td>
+		<td>rt @laurapalmer i think my favourite scene in pretty in pink is when she used her telekinetic powers to kill everyone at prom</td>
+		<td>Yes</td>
+		<td>think favourite pretty used powers kill</td>
+		</tr><tr>
+		<td>77</td>
+		<td>JazzyLovesAnime</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I added a video to a @YouTube playlist http://t.co/HWEXtlzLRq Don't Lose your way - Kill la Kill OST [piano]</td>
+		<td>i added a video to a @youtube playlist don t lose your way kill la kill ost piano</td>
+		<td>No</td>
+		<td>lose way kill kill</td>
+		</tr><tr>
+		<td>78</td>
+		<td>Jadey94_</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I'm sweet but I will kill you if you touch my husband. If you look at him to long I will do lasting damage</td>
+		<td>i m sweet but i will kill you if you touch my husband if you look at him to long i will do lasting damage</td>
+		<td>No</td>
+		<td>sweet kill touch look do damage</td>
+		</tr><tr>
+		<td>79</td>
+		<td>braulioland</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>SIN CITY: A DAME TO KILL FOR Original Soundtrack LP 25 Track Red Vinyl With Inne http://t.co/Pm4kY0CMtZ http://t.co/oxX3WLHW3D</td>
+		<td>sin city a dame to kill for original soundtrack lp track red vinyl with inne</td>
+		<td>No</td>
+		<td>sin city kill track red</td>
+		</tr><tr>
+		<td>80</td>
+		<td>spite_kill</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @ILLUMlNATI: Saw this at a church http://t.co/3pSS11Hxfe</td>
+		<td>rt @illumlnati saw this at a church</td>
+		<td>Yes</td>
+		<td>saw church</td>
+		</tr><tr>
+		<td>81</td>
+		<td>catgarrity</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@rowan2hobson @Mattprotour good luck Matt!!!!?? kill it out there</td>
+		<td>@rowan hobson @mattprotour good luck matt kill it out there</td>
+		<td>No</td>
+		<td>good luck kill</td>
+		</tr><tr>
+		<td>82</td>
+		<td>prakopa</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@VishweshwarBhat first they kill. Then propound a theory of suicide.. The next step is character assassination</td>
+		<td>@vishweshwarbhat first they kill then propound a theory of suicide the next step is character assassination</td>
+		<td>No</td>
+		<td>kill theory suicide</td>
+		</tr><tr>
+		<td>83</td>
+		<td>justice4maddie</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @fishyduds2: A normal size helium canister has enough gas in it to kill!! so why were they cannisterS in BLs hotel room?? #mccann</td>
+		<td>rt @fishyduds a normal size helium canister has enough gas in it to kill so why were they cannisters in bls hotel room #mccann</td>
+		<td>Yes</td>
+		<td>gas kill hotel room</td>
+		</tr><tr>
+		<td>84</td>
+		<td>SusanIbrahim</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @naibuthuthu3: "@Raajje_tv: A pro-government MP openly calling to kill former President Nasheed http://t.co/tjq8kgedwH" #FreePresidentNa </td>
+		<td>rt @naibuthuthu @raajje tv a pro government mp openly calling to kill former president nasheed #freepresidentna</td>
+		<td>Yes</td>
+		<td>government calling kill</td>
+		</tr><tr>
+		<td>85</td>
+		<td>hopwood_julie</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@bethsmyth going to be a long week it's my 3 day weekend to wrk then tues weds first aid training all day then wrk thurs fri kill me now!! ??</td>
+		<td>@bethsmyth going to be a long week it s my day weekend to wrk then tues weds first aid training all day then wrk thurs fri kill me now</td>
+		<td>No</td>
+		<td>going day weds training day kill</td>
+		</tr><tr>
+		<td>86</td>
+		<td>TheTexanVixen</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@TerminalW00k yours is muscle though! I would kill to have your figure</td>
+		<td>@terminalw k yours is muscle though i would kill to have your figure</td>
+		<td>No</td>
+		<td>muscle kill figure</td>
+		</tr><tr>
+		<td>87</td>
+		<td>news_happening1</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Microsoft wants to kill passwords with biometric authentication in Windows 10 | Computerworld.. Related Articles: http://t.co/JnB4fjGIiR</td>
+		<td>microsoft wants to kill passwords with biometric authentication in windows computerworld related articles</td>
+		<td>No</td>
+		<td>wants kill windows</td>
+		</tr><tr>
+		<td>88</td>
+		<td>morgan_rinehart</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>Being sick is my worst nightmare. Someone kill me.????</td>
+		<td>being sick is my worst nightmare someone kill me</td>
+		<td>No</td>
+		<td>sick worst nightmare someone kill</td>
+		</tr><tr>
+		<td>89</td>
+		<td>nzjauregui</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>the second verse in like mariah gets me every time. mani & lauren KILL it. #VoteFifthHarmony #KCA</td>
+		<td>the second verse in like mariah gets me every time mani lauren kill it #votefifthharmony #kca</td>
+		<td>No</td>
+		<td>second like gets time kill</td>
+		</tr><tr>
+		<td>90</td>
+		<td>Patty_Mamii</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>RT @xoNELLY: What doesn't kill you, leaves you wanting more.</td>
+		<td>rt @xonelly what doesn t kill you leaves you wanting more</td>
+		<td>Yes</td>
+		<td>kill leaves wanting</td>
+		</tr><tr>
+		<td>91</td>
+		<td>GroffEmily</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>If I hear "John Adams" sing another showtune about Congress, I'm gonna kill myself</td>
+		<td>if i hear john adams sing another showtune about congress i m gonna kill myself</td>
+		<td>No</td>
+		<td>hear adams congress kill</td>
+		</tr><tr>
+		<td>92</td>
+		<td>RedditWorld</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>World: Suicide Bombings on Yemen Mosques Kill at Least 46 http://t.co/l9AoyI77KY</td>
+		<td>world suicide bombings on yemen mosques kill at least</td>
+		<td>No</td>
+		<td>world suicide bombings kill</td>
+		</tr><tr>
+		<td>93</td>
+		<td>JbearConner</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>The anxiety waiting for tomorrow is going to kill me today</td>
+		<td>the anxiety waiting for tomorrow is going to kill me today</td>
+		<td>No</td>
+		<td>anxiety waiting going kill today</td>
+		</tr><tr>
+		<td>94</td>
+		<td>Sam_Rich17</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>I always have nightmares that start as really good dreams and end with someone trying to kill me ??</td>
+		<td>i always have nightmares that start as really good dreams and end with someone trying to kill me</td>
+		<td>No</td>
+		<td>nightmares start really good dreams someone trying kill</td>
+		</tr><tr>
+		<td>95</td>
+		<td>kaylphillips</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>"i'm going to kill her, i am!" think i just found the child i need to adopt</td>
+		<td>i m going to kill her i am think i just found the child i need to adopt</td>
+		<td>No</td>
+		<td>going kill think found child</td>
+		</tr><tr>
+		<td>96</td>
+		<td>mindreider</td>
+		<td>2015-03-20 16:20:00</td>
+		<td>@mindreider why are they so sad whats wrong with them why are they kissing girls why would u kill urself theyre so stupid</td>
+		<td>@mindreider why are they so sad whats wrong with them why are they kissing girls why would u kill urself theyre so stupid</td>
+		<td>No</td>
+		<td>sad wrong kissing girls kill stupid</td>
+		</tr><tr>
+		<td>97</td>
+		<td>musicaliana_RK</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @RKFanGhosts: “@nb961: @RKFanGhosts waiting ???? http://t.co/nxZrHScAhz” If you kill us, how will we tell you?! :P</td>
+		<td>rt @rkfanghosts @nb @rkfanghosts waiting if you kill us how will we tell you p</td>
+		<td>Yes</td>
+		<td>waiting kill tell</td>
+		</tr><tr>
+		<td>98</td>
+		<td>jojoblack77</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@realjonghyun90 are you trying to kill your fandom ?!!</td>
+		<td>@realjonghyun are you trying to kill your fandom</td>
+		<td>No</td>
+		<td>trying kill</td>
+		</tr><tr>
+		<td>99</td>
+		<td>kenn1hunnit</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>They found jitt in a obscured area ?? how you kill a 3 year old? A child in general ????</td>
+		<td>they found jitt in a obscured area how you kill a year old a child in general</td>
+		<td>No</td>
+		<td>found kill child</td>
+		</tr><tr>
+		<td>100</td>
+		<td>tomlinpoof</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@harryftgray Lmfao False If Louis wasnt there Id kill myself hehe</td>
+		<td>@harryftgray lmfao false if louis wasnt there id kill myself hehe</td>
+		<td>No</td>
+		<td>false kill</td>
+		</tr><tr>
+		<td>101</td>
+		<td>AGirl1324</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I'm thinking of writing a blog about KJ or something just to kill my boredom this summer while working my stories on wattpad :).</td>
+		<td>i m thinking of writing a blog about kj or something just to kill my boredom this summer while working my stories on wattpad happy</td>
+		<td>No</td>
+		<td>thinking kill working happy</td>
+		</tr><tr>
+		<td>102</td>
+		<td>MorganDeLong</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I know she's gonna kill me but this picture was four years ago today ! Lol #timechanges #everything http://t.co/AoBPMlaJ87</td>
+		<td>i know she s gonna kill me but this picture was four years ago today lol #timechanges #everything</td>
+		<td>No</td>
+		<td>know kill picture four today</td>
+		</tr><tr>
+		<td>103</td>
+		<td>kellermaedchen_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @urlbbe: how do I kill myself without killing myself</td>
+		<td>rt @urlbbe how do i kill myself without killing myself</td>
+		<td>Yes</td>
+		<td>do kill killing</td>
+		</tr><tr>
+		<td>104</td>
+		<td>World_NewsWatch</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Suicide Bombers Kill 55 In Yemen http://t.co/ai1NV98twf</td>
+		<td>suicide bombers kill in yemen</td>
+		<td>No</td>
+		<td>suicide bombers kill</td>
+		</tr><tr>
+		<td>105</td>
+		<td>hbutroy_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@rydah__ goodbye. might as well kill myself now huh. because oh boy, ryder leaves me alone, cry.</td>
+		<td>@rydah goodbye might as well kill myself now huh because oh boy ryder leaves me alone cry</td>
+		<td>No</td>
+		<td>might well kill boy leaves alone cry</td>
+		</tr><tr>
+		<td>106</td>
+		<td>HackmanWatch</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @BasimaFaysal: Sharia is not liberal. It's supremacist. It remains authority to kill gays,subjugate women,marry children,& conquer unbe </td>
+		<td>rt @basimafaysal sharia is not liberal it s supremacist it remains authority to kill gayssubjugate womenmarry children conquer unbe</td>
+		<td>Yes</td>
+		<td>liberal remains authority kill children conquer</td>
+		</tr><tr>
+		<td>107</td>
+		<td>AlSaadiq</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>“@QuitaBoyd: @AlSaadiq very bad habit, only way I could know if it’s good or not.” You kill the suspense though</td>
+		<td>@quitaboyd @alsaadiq very bad habit only way i could know if it s good or not you kill the suspense though</td>
+		<td>No</td>
+		<td>bad habit way know good kill</td>
+		</tr><tr>
+		<td>108</td>
+		<td>Yo_Gurl3y3lean</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I be curving bitches that be mad today. Like.. Bitch dont kill my vibe ???????</td>
+		<td>i be curving bitches that be mad today like bitch dont kill my vibe</td>
+		<td>No</td>
+		<td>bitches mad today like bitch kill</td>
+		</tr><tr>
+		<td>109</td>
+		<td>waypoint12xl</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>War News Updates > Suicide Bombers Kill 55 In Yemen: Bloomberg: Suicide Bombers Attack Shiite Mosques in Yemen... http://t.co/1Tb0JfJzpY</td>
+		<td>war news updates suicide bombers kill in yemen bloomberg suicide bombers attack shiite mosques in yemen</td>
+		<td>No</td>
+		<td>war news suicide bombers kill suicide bombers attack</td>
+		</tr><tr>
+		<td>110</td>
+		<td>Boonetown</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @KLREPATL: "@Karmaloop: Our buddied at @killbrand gave 100% no f$cks in this lookbook and we like that! http://t.co/e84SKO6I6U http://t </td>
+		<td>rt @klrepatl @karmaloop our buddied at @killbrand gave no f cks in this lookbook and we like that</td>
+		<td>Yes</td>
+		<td>gave like</td>
+		</tr><tr>
+		<td>111</td>
+		<td>YoFeelo</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>“@BenjyGotBeats: Mf kill a mic or be platinum” lol Killer Mike?</td>
+		<td>@benjygotbeats mf kill a mic or be platinum lol killer mike</td>
+		<td>No</td>
+		<td>kill killer</td>
+		</tr><tr>
+		<td>112</td>
+		<td>foreva_made</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Gotta Kill Witnesses Cuz I Got Free Bandz Sticking Out!</td>
+		<td>gotta kill witnesses cuz i got free bandz sticking out</td>
+		<td>No</td>
+		<td>kill got free</td>
+		</tr><tr>
+		<td>113</td>
+		<td>hotelkeys</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @ZeddRebel: It'd be big news if any other journalist/convicted criminal yelled 'kill cops' at protests. But it's James O'Keefe... http:/ </td>
+		<td>rt @zeddrebel it d be big news if any other journalist convicted criminal yelled kill cops at protests but it s james o keefe httpirritated</td>
+		<td>Yes</td>
+		<td>big news criminal kill cops</td>
+		</tr><tr>
+		<td>114</td>
+		<td>Ellis_Foster2</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@rees_whitford please kill yourself??</td>
+		<td>@rees whitford please kill yourself</td>
+		<td>No</td>
+		<td>please kill</td>
+		</tr><tr>
+		<td>115</td>
+		<td>Dalittlemixlife</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>We always see perrie happy I never want to see her upset and I could kill zayn for hurting her like this #KCA #VoteLittleMixUK</td>
+		<td>we always see perrie happy i never want to see her upset and i could kill zayn for hurting her like this #kca #votelittlemixuk</td>
+		<td>No</td>
+		<td>see happy want see upset kill hurting like</td>
+		</tr><tr>
+		<td>116</td>
+		<td>JoshLanyon</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@Simsala1511 Thank you! And it's not coming along too badly -- if I do say so myself! :-P http://t.co/l5jHirzg1i</td>
+		<td>@simsala thank you and it s not coming along too badly if i do say so myself p</td>
+		<td>No</td>
+		<td>thank coming badly do</td>
+		</tr><tr>
+		<td>117</td>
+		<td>T_M_Walls</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>GPs are going to kill me ??</td>
+		<td>gps are going to kill me</td>
+		<td>No</td>
+		<td>going kill</td>
+		</tr><tr>
+		<td>118</td>
+		<td>lindsay_nh</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>If it looks bad I'm going to cry/kill someone</td>
+		<td>if it looks bad i m going to cry kill someone</td>
+		<td>No</td>
+		<td>looks bad going cry kill someone</td>
+		</tr><tr>
+		<td>119</td>
+		<td>adevnci</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@EstaMamaa 12 hours ?? you want to kill people</td>
+		<td>@estamamaa hours you want to kill people</td>
+		<td>No</td>
+		<td>want kill people</td>
+		</tr><tr>
+		<td>120</td>
+		<td>jakemuncy</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@derektmead @jacob_schatz @samgustin This is "death panels" territory. Net neutrality will kill your internet's grandparents!</td>
+		<td>@derektmead @jacob schatz @samgustin this is death panels territory net neutrality will kill your internet s grandparents</td>
+		<td>No</td>
+		<td>death kill</td>
+		</tr><tr>
+		<td>121</td>
+		<td>GeoYouFucka</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>UFC gym tomorrow. Kill muscles, kill bag, bang anyboddehhh</td>
+		<td>ufc gym tomorrow kill muscles kill bag bang anyboddehhh</td>
+		<td>No</td>
+		<td>kill muscles kill bang</td>
+		</tr><tr>
+		<td>122</td>
+		<td>TrillDaMans</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>What Don't Kill You Will Only Make You Stronger</td>
+		<td>what don t kill you will only make you stronger</td>
+		<td>No</td>
+		<td>kill make stronger</td>
+		</tr><tr>
+		<td>123</td>
+		<td>tefkas</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @rustyrockets: “@housesarehomes: "kill" todays important item for cameron @rustyrockets @elonerrigby1 http://t.co/nrWbq2l966” yeah what  </td>
+		<td>rt @rustyrockets @housesarehomes kill todays important item for cameron @rustyrockets @elonerrigby yeah what</td>
+		<td>Yes</td>
+		<td>kill item</td>
+		</tr><tr>
+		<td>124</td>
+		<td>exhindu</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@RichardDawkins would normal people kill Isis? Those who are brainwashed can kill...they probably see normal act as barbaric as beheading</td>
+		<td>@richarddawkins would normal people kill isis those who are brainwashed can kill they probably see normal act as barbaric as beheading</td>
+		<td>No</td>
+		<td>people kill kill see</td>
+		</tr><tr>
+		<td>125</td>
+		<td>Gothic_Tabby</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I added a video to a @YouTube playlist http://t.co/p1LGWRYv3y Donald Duck tried to kill me</td>
+		<td>i added a video to a @youtube playlist donald duck tried to kill me</td>
+		<td>No</td>
+		<td>tried kill</td>
+		</tr><tr>
+		<td>126</td>
+		<td>Gothic_Tabby</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I liked a @YouTube video http://t.co/p1LGWRYv3y Donald Duck tried to kill me</td>
+		<td>i liked a @youtube video donald duck tried to kill me</td>
+		<td>No</td>
+		<td>liked tried kill</td>
+		</tr><tr>
+		<td>127</td>
+		<td>_nif50</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Talk about odds. Silverlight isn't compatible with Chrome from Mac OS X. Thanks Microsoft. http://t.co/tc66DKomVu kill all for html5 please.</td>
+		<td>talk about odds silverlight isn t compatible with chrome from mac os x thanks microsoft kill all for html please</td>
+		<td>No</td>
+		<td>odds thanks kill please</td>
+		</tr><tr>
+		<td>128</td>
+		<td>dansoubot</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>#deai #??? #?? #?? Mosque Attacks In Yemen Kill Dozens Suicide bombers struck at two Shiite mosques #???? #?? #?? http://t.co/T4wcwXevvo</td>
+		<td>#deai # # # mosque attacks in yemen kill dozens suicide bombers struck at two shiite mosques # # #</td>
+		<td>No</td>
+		<td>attacks kill suicide bombers struck two</td>
+		</tr><tr>
+		<td>129</td>
+		<td>d13vs13</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@Blinsin1 @Ander1ap @StillflyingAus @DrLiam will there be hockey themed vows? "You are the Luke Glendening to my Penalty Kill"</td>
+		<td>@blinsin @ander ap @stillflyingaus @drliam will there be hockey themed vows you are the luke glendening to my penalty kill</td>
+		<td>No</td>
+		<td>penalty kill</td>
+		</tr><tr>
+		<td>130</td>
+		<td>ChaseWishard</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>To all the people whobsaid they were gonna kill themselvs if it snowed..... Have fun</td>
+		<td>to all the people whobsaid they were gonna kill themselvs if it snowed have fun</td>
+		<td>No</td>
+		<td>people kill snowed fun</td>
+		</tr><tr>
+		<td>131</td>
+		<td>zaynmystxry</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @njhsziam: IF I SEE EVEN ONE PICTURE THAT SHOWS THEY MOBBED THE BOYS I WILL NOT HESITATE TO KILL @MYSELF</td>
+		<td>rt @njhsziam if i see even one picture that shows they mobbed the boys i will not hesitate to kill @myself</td>
+		<td>Yes</td>
+		<td>see one picture shows mobbed boys kill</td>
+		</tr><tr>
+		<td>132</td>
+		<td>Linkia_Bot</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>"1-2 Linkia's coming for you, 3-4 you better not ignore, 5-6 you better have a crusafix, 9-10 ill kill you again.</td>
+		<td>linkia s coming for you you better not ignore you better have a crusafix ill kill you again</td>
+		<td>No</td>
+		<td>coming better better ill kill</td>
+		</tr><tr>
+		<td>133</td>
+		<td>_ImagineThis</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @GappistanRadio: If you are hoping India wins against Australia, you support fanatic Hindutva and want to kill everyone else ~ #AdarshLi </td>
+		<td>rt @gappistanradio if you are hoping india wins against australia you support fanatic hindutva and want to kill everyone else #adarshli</td>
+		<td>Yes</td>
+		<td>hoping wins want kill</td>
+		</tr><tr>
+		<td>134</td>
+		<td>BieberHeaveen</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>" KILL THEM WITH KINDNESS "</td>
+		<td>kill them with kindness</td>
+		<td>No</td>
+		<td>kill kindness</td>
+		</tr><tr>
+		<td>135</td>
+		<td>_jessiecantin</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @_gracescott18: Tb to when @JordanVohs almost killed me making me almost kill @_jessiecantin with @katiegivens_ http://t.co/LJpWQD3Xk3</td>
+		<td>rt @ gracescott tb to when @jordanvohs almost killed me making me almost kill @ jessiecantin with @katiegivens</td>
+		<td>Yes</td>
+		<td>killed making kill</td>
+		</tr><tr>
+		<td>136</td>
+		<td>btwimTATY_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@Acito_Rothstien well ima kill u again ??</td>
+		<td>@acito rothstien well ima kill u again</td>
+		<td>No</td>
+		<td>well kill</td>
+		</tr><tr>
+		<td>137</td>
+		<td>chelseasella</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>This double will more than likely kill me ????</td>
+		<td>this double will more than likely kill me</td>
+		<td>No</td>
+		<td>double likely kill</td>
+		</tr><tr>
+		<td>138</td>
+		<td>mikegenao26</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @AlwaysActions: Staten Island: Arthur Kill Rd & W Shore Expwy. Fatal Trailer Accident with 2 DOA's @NYPDHighway C.I.S investigating. ht </td>
+		<td>rt @alwaysactions staten island arthur kill rd w shore expwy fatal trailer accident with doa s @nypdhighway c i s investigating ht</td>
+		<td>Yes</td>
+		<td>kill fatal accident</td>
+		</tr><tr>
+		<td>139</td>
+		<td>AnimatorsPal</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @SNESneasel: 'Cause I want most of them to be animation I want something that animator a won't kill themselves drawing And myself</td>
+		<td>rt @snesneasel cause i want most of them to be animation i want something that animator a won t kill themselves drawing and myself</td>
+		<td>Yes</td>
+		<td>cause want want won kill drawing</td>
+		</tr><tr>
+		<td>140</td>
+		<td>MaleekBerry</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@FaithChildMusic hahaha dot kill me! thanks bro</td>
+		<td>@faithchildmusic hahaha dot kill me thanks bro</td>
+		<td>No</td>
+		<td>kill thanks</td>
+		</tr><tr>
+		<td>141</td>
+		<td>cupcakemxndes</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>FML PLEASE KILL ME NOW WTF OMG OMG OMG SUNSHINE BAE ??????????????????????????? #NOCHILLPHILIPPINES</td>
+		<td>fml please kill me now wtf omg omg omg sunshine bae    #nochillphilippines</td>
+		<td>No</td>
+		<td>please kill sunshine</td>
+		</tr><tr>
+		<td>142</td>
+		<td>vae_rah</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@Sir_Shuaib @Norweeee @njebsdappoet u sef dnt lik dat man o, he looks very old in 'Taken 3' n ya alredi asking for part 4, u wan kill d man?</td>
+		<td>@sir shuaib @norweeee @njebsdappoet u sef dnt lik dat man o he looks very old in taken n ya alredi asking for part u wan kill d man</td>
+		<td>No</td>
+		<td>man looks taken part kill man</td>
+		</tr><tr>
+		<td>143</td>
+		<td>Angellinuh</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>“@MarilynMonroeDC: Why girls are so insecure http://t.co/QPRpRr9TUM” HELLLLLLLLL NOOO ID KILL BOTH YALL AND YA GRANDMAS GOT ME FUCKED UP</td>
+		<td>@marilynmonroedc why girls are so insecure helllllllll nooo id kill both yall and ya grandmas got me fucked up</td>
+		<td>No</td>
+		<td>girls insecure kill got fucked</td>
+		</tr><tr>
+		<td>144</td>
+		<td>poisonflux</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @NYCityAlerts: Staten Island: West Shore Expy at Arthur Kill Rd. Tractor trailer vs car. 2 victims DOA, 3 injured. Hwy CIS on scene http </td>
+		<td>rt @nycityalerts staten island west shore expy at arthur kill rd tractor trailer vs car victims doa injured hwy cis on scene http</td>
+		<td>Yes</td>
+		<td>kill car victims</td>
+		</tr><tr>
+		<td>145</td>
+		<td>Rachey_James</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>It's like I've got this music in my brain, sayin' KILL THEM, KILL THEM ALL, IT WILL PLEASE THE GREAT ONE</td>
+		<td>it s like i ve got this music in my brain sayin kill them kill them all it will please the great one</td>
+		<td>No</td>
+		<td>like got music kill kill please one</td>
+		</tr><tr>
+		<td>146</td>
+		<td>arianaxzc</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @sevyn: "Don't Kill The Fun" is available NOW on iTunes!!!! ?? ??http://t.co/k12yStzZrP http://t.co/oMbTAuQdC4</td>
+		<td>rt @sevyn don t kill the fun is available now on itunes</td>
+		<td>Yes</td>
+		<td>kill fun</td>
+		</tr><tr>
+		<td>147</td>
+		<td>carmenjo_19</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @_JaydakeseeB: Hope my Golden Flashes kill the MAC championships. ????????????</td>
+		<td>rt @ jaydakeseeb hope my golden flashes kill the mac championships</td>
+		<td>Yes</td>
+		<td>hope kill</td>
+		</tr><tr>
+		<td>148</td>
+		<td>blackbeautyida</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @JULIO_DAKIDD: HOES KILL ME TALKIN BOUT THEY GOT GOOD PUSSY, HOW U KNO</td>
+		<td>rt @julio dakidd hoes kill me talkin bout they got good pussy how u kno</td>
+		<td>Yes</td>
+		<td>kill got good</td>
+		</tr><tr>
+		<td>149</td>
+		<td>We_should_hug</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@mariondls PSSST thats a secret. pwde pa guy in real life? or to kill a mockingbird</td>
+		<td>@mariondls pssst thats a secret pwde pa guy in real life or to kill a mockingbird</td>
+		<td>No</td>
+		<td>guy real life kill</td>
+		</tr><tr>
+		<td>150</td>
+		<td>Parismepink</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>At any moment I cud kill shit and cum back and body shit ?????</td>
+		<td>at any moment i cud kill shit and cum back and body shit</td>
+		<td>No</td>
+		<td>moment kill shit back body shit</td>
+		</tr><tr>
+		<td>151</td>
+		<td>Gulhifalhu</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @Raajje_tv: A pro-government MP openly calling to kill former President Nasheed http://t.co/RKQEwjHlPl</td>
+		<td>rt @raajje tv a pro government mp openly calling to kill former president nasheed</td>
+		<td>Yes</td>
+		<td>government calling kill</td>
+		</tr><tr>
+		<td>152</td>
+		<td>ErarErskieOs</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Bread is my weakness. Kill me now!</td>
+		<td>bread is my weakness kill me now</td>
+		<td>No</td>
+		<td>bread kill</td>
+		</tr><tr>
+		<td>153</td>
+		<td>Abby_Leighhh</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @nothipster_: CAN I STILL GET INTO HEAVEN IF I KILL MYSELF</td>
+		<td>rt @nothipster can i still get into heaven if i kill myself</td>
+		<td>Yes</td>
+		<td>still get heaven kill</td>
+		</tr><tr>
+		<td>154</td>
+		<td>leahleidyy_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Not spending any money for 40 days is gonna kill me</td>
+		<td>not spending any money for days is gonna kill me</td>
+		<td>No</td>
+		<td>money days kill</td>
+		</tr><tr>
+		<td>155</td>
+		<td>creepmebella</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>KILL. ME. I'M. TRYING. SO. HARD.</td>
+		<td>kill me i m trying so hard</td>
+		<td>No</td>
+		<td>kill trying hard</td>
+		</tr><tr>
+		<td>156</td>
+		<td>ragna_en_bot</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I am seriously gonna kill you!</td>
+		<td>i am seriously gonna kill you</td>
+		<td>No</td>
+		<td>seriously kill</td>
+		</tr><tr>
+		<td>157</td>
+		<td>spite_kill</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @PoemPorns: Sometimes, it feels like I'm waiting for something that's never going to happen.</td>
+		<td>rt @poemporns sometimes it feels like i m waiting for something that s never going to happen</td>
+		<td>Yes</td>
+		<td>like waiting going happen</td>
+		</tr><tr>
+		<td>158</td>
+		<td>MaryUmlas</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>they're here for real omfg kill me now ????</td>
+		<td>they re here for real omfg kill me now</td>
+		<td>No</td>
+		<td>real kill</td>
+		</tr><tr>
+		<td>159</td>
+		<td>_CrownMeKingg_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @KingTaeKey: I only fuck with real niggas. You either out here getting money or you kill niggas</td>
+		<td>rt @kingtaekey i only fuck with real niggas you either out here getting money or you kill niggas</td>
+		<td>Yes</td>
+		<td>fuck real getting money kill</td>
+		</tr><tr>
+		<td>160</td>
+		<td>Derek_Moalli</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @antonnewcombe: This Gendarme putting on his bullet proof vest & I'm thinking "hey,don't you know smoking will kill you?" http://t.co/Ep </td>
+		<td>rt @antonnewcombe this gendarme putting on his bullet proof vest i m thinking heydon t you know smoking will kill you</td>
+		<td>Yes</td>
+		<td>putting bullet vest thinking know kill</td>
+		</tr><tr>
+		<td>161</td>
+		<td>Kill_Quin</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @AyGeraldJay: Still funny ?? https://t.co/rmIqSO9mN8</td>
+		<td>rt @aygeraldjay still funny</td>
+		<td>Yes</td>
+		<td>still funny</td>
+		</tr><tr>
+		<td>162</td>
+		<td>Biff_Bruise</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I *knew* it! | Children Can Kill You - HealthDataViz http://t.co/TFdvWOOhzq #health #dataviz</td>
+		<td>i knew it children can kill you healthdataviz #health #dataviz</td>
+		<td>No</td>
+		<td>knew children kill health</td>
+		</tr><tr>
+		<td>163</td>
+		<td>SE25A</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @iyad_elbaghdadi: The so called "Sunni jihadists" kill Shias, Sunnis, and non-Muslims with impunity, then claim to be protectors of the  </td>
+		<td>rt @iyad elbaghdadi the so called sunni jihadists kill shias sunnis and non muslims with impunity then claim to be protectors of the</td>
+		<td>Yes</td>
+		<td>called kill claim</td>
+		</tr><tr>
+		<td>164</td>
+		<td>MartinaaGozun</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>I CANT CALM WAHT IS HAPPENING OMFG AHHHHHHHHHHHHHHHHHH I CAN KILL SOMEONE RN FOR BEING NOT TOO CALM</td>
+		<td>i cant calm waht is happening omfg ahhhhhhhhhhhhhhhhhh i can kill someone rn for being not too calm</td>
+		<td>No</td>
+		<td>calm happening kill someone calm</td>
+		</tr><tr>
+		<td>165</td>
+		<td>VinceRaySmith</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Time to kill this math exam and then to the beach</td>
+		<td>time to kill this math exam and then to the beach</td>
+		<td>No</td>
+		<td>time kill beach</td>
+		</tr><tr>
+		<td>166</td>
+		<td>Oh_ThatsGrant</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @meechyelcamino: Childish shit kill my vibe</td>
+		<td>rt @meechyelcamino childish shit kill my vibe</td>
+		<td>Yes</td>
+		<td>shit kill</td>
+		</tr><tr>
+		<td>167</td>
+		<td>TheWonderngJew</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Mosque Attacks In Yemen Kill Dozens http://t.co/UVtr029prU #MiddleEast</td>
+		<td>mosque attacks in yemen kill dozens #middleeast</td>
+		<td>No</td>
+		<td>attacks kill</td>
+		</tr><tr>
+		<td>168</td>
+		<td>81swagsmith</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>When gang Bangin made me kill a man blacker than me</td>
+		<td>when gang bangin made me kill a man blacker than me</td>
+		<td>No</td>
+		<td>made kill man blacker</td>
+		</tr><tr>
+		<td>169</td>
+		<td>LoveNo_Hoes</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>“@DavionBigGuwop: “@LoveNo_Hoes: Shouldn't have wore ??'s today ??” kill them hoes fuck em ??” it's only right ??</td>
+		<td>@davionbigguwop @loveno hoes shouldn t have wore s today kill them hoes fuck em it s only right</td>
+		<td>No</td>
+		<td>wore today kill fuck right</td>
+		</tr><tr>
+		<td>170</td>
+		<td>l0ve_shayyy</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@___qnasty95 that's a baby man ?? like how can u kill somebody so innocent & little ??????</td>
+		<td>@ qnasty that s a baby man like how can u kill somebody so innocent little</td>
+		<td>No</td>
+		<td>baby man like kill somebody innocent</td>
+		</tr><tr>
+		<td>171</td>
+		<td>oTornx</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @ayezeeqo: 6:43 look at the score. Then 6:44 it goes down and the kill feed goes away.. Hazz bro wtf? @Red_Hazz @RoastsForDays http://t. </td>
+		<td>rt @ayezeeqo look at the score then it goes down and the kill feed goes away hazz bro wtf @red hazz @roastsfordays</td>
+		<td>Yes</td>
+		<td>look goes kill feed goes red</td>
+		</tr><tr>
+		<td>172</td>
+		<td>RedneckFashun</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>The Diaboli Kill Jewelry Collection Is Sexy, Sinister And Seriou http://t.co/QAFYkRaMfP #angiemarei #diabolikill</td>
+		<td>the diaboli kill jewelry collection is sexy sinister and seriou #angiemarei #diabolikill</td>
+		<td>No</td>
+		<td>kill sexy</td>
+		</tr><tr>
+		<td>173</td>
+		<td>Fasedayo1</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>60 Ways to Kill Your Husband http://t.co/ib5BkwAXtM</td>
+		<td>ways to kill your husband</td>
+		<td>No</td>
+		<td>ways kill</td>
+		</tr><tr>
+		<td>174</td>
+		<td>JohnnyBeChillen</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Thought this nigga in the Bahamas was gon kill us cuz we ain't wanna ride in his taxi ????</td>
+		<td>thought this nigga in the bahamas was gon kill us cuz we ain t wanna ride in his taxi</td>
+		<td>No</td>
+		<td>thought kill ride taxi</td>
+		</tr><tr>
+		<td>175</td>
+		<td>abc7newsBayArea</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Community outrage after two dogs killed a cat and the owner dumped that cat on a lawn. http://t.co/ateeicw9yz http://t.co/kNOUiXL34C</td>
+		<td>community outrage after two dogs killed a cat and the owner dumped that cat on a lawn</td>
+		<td>No</td>
+		<td>outrage two dogs killed cat dumped cat lawn</td>
+		</tr><tr>
+		<td>176</td>
+		<td>SB_doe</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @DumbLawz: A betrayed wife is legally allowed to kill her adulterous husband, but may only do so with her bare hands.(Singapore) http:// </td>
+		<td>rt @dumblawz a betrayed wife is legally allowed to kill her adulterous husband but may only do so with her bare hands singapore</td>
+		<td>Yes</td>
+		<td>betrayed wife kill may do hands</td>
+		</tr><tr>
+		<td>177</td>
+		<td>NettieJournell</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Want to kill it on #Clickbank? Proof anyone can #MakeMoneyOnline even an IDIOT like me lol http://t.co/Sr2QdNpcvR http://t.co/bDUbmw4sr3</td>
+		<td>want to kill it on #clickbank proof anyone can #makemoneyonline even an idiot like me lol</td>
+		<td>No</td>
+		<td>want kill idiot like</td>
+		</tr><tr>
+		<td>178</td>
+		<td>ay_myyy</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @emmadiabetes: in all seriousness my sister is one of my biggest insecurities because almost everyone would kill to be her friend over m </td>
+		<td>rt @emmadiabetes in all seriousness my sister is one of my biggest insecurities because almost everyone would kill to be her friend over m</td>
+		<td>Yes</td>
+		<td>seriousness sister one biggest kill friend</td>
+		</tr><tr>
+		<td>179</td>
+		<td>ShishirGkp007</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@SouleFacts Mosque bombings kill 55 in Yemen. Similar in Pakistan. But still Muslims are more worried about Babri demolition 23 years ago.</td>
+		<td>@soulefacts mosque bombings kill in yemen similar in pakistan but still muslims are more worried about babri demolition years ago</td>
+		<td>No</td>
+		<td>bombings kill still worried</td>
+		</tr><tr>
+		<td>180</td>
+		<td>TierraTraniece</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>It's never nothing a child can do to you that extreme that makes you wanna kill them ??</td>
+		<td>it s never nothing a child can do to you that extreme that makes you wanna kill them</td>
+		<td>No</td>
+		<td>child do makes kill</td>
+		</tr><tr>
+		<td>181</td>
+		<td>MattGCraig</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@Dark_Pages John Niven's KILL YOUR FRIENDS.</td>
+		<td>@dark pages john niven s kill your friends</td>
+		<td>No</td>
+		<td>dark kill friends</td>
+		</tr><tr>
+		<td>182</td>
+		<td>XxNeko99</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@ayah7x My sister will kill you, if she hears that ??????</td>
+		<td>@ayah x my sister will kill you if she hears that</td>
+		<td>No</td>
+		<td>sister kill hears</td>
+		</tr><tr>
+		<td>183</td>
+		<td>Rodgey_</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>You can't kill the rabbit Deandra, it's got my soul</td>
+		<td>you can t kill the rabbit deandra it s got my soul</td>
+		<td>No</td>
+		<td>kill rabbit got</td>
+		</tr><tr>
+		<td>184</td>
+		<td>___courtt</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>this bump on my nose gonna make me kill myself????</td>
+		<td>this bump on my nose gonna make me kill myself</td>
+		<td>No</td>
+		<td>bump nose make kill</td>
+		</tr><tr>
+		<td>185</td>
+		<td>Elgendy95</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>RT @RM_Insider: HOWEVER [!!], International week coming up this week. So if any of our players get injured, I'll definitely kill someone.</td>
+		<td>rt @rm insider however international week coming up this week so if any of our players get injured i ll definitely kill someone</td>
+		<td>Yes</td>
+		<td>coming get kill someone</td>
+		</tr><tr>
+		<td>186</td>
+		<td>ManiahIsManiah</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>NOW DO FIGHT AND KILL EACH OTHER TO PROVE WHO IS LEGAL. http://t.co/srwbCwK9nt</td>
+		<td>now do fight and kill each other to prove who is legal</td>
+		<td>No</td>
+		<td>do fight kill</td>
+		</tr><tr>
+		<td>187</td>
+		<td>amginatta</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>What do supporters of the death penalty in South Carolina have to hide? http://t.co/UxH8YIEmTN</td>
+		<td>what do supporters of the death penalty in south carolina have to hide</td>
+		<td>No</td>
+		<td>do supporters death penalty hide</td>
+		</tr><tr>
+		<td>188</td>
+		<td>faulkners</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Knife-wielding thief told Longton pensioner: 'Give me your cash or I'll kill your cat'. RT to help catch burglar http://t.co/DCCLMT9kdA</td>
+		<td>knife wielding thief told longton pensioner give me your cash or i ll kill your cat rt to help catch burglar</td>
+		<td>No</td>
+		<td>knife thief told give cash kill cat</td>
+		</tr><tr>
+		<td>189</td>
+		<td>Valindogodinho</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>@YourTara Imma kill you to make it easier for u</td>
+		<td>@yourtara imma kill you to make it easier for u</td>
+		<td>No</td>
+		<td>kill make easier</td>
+		</tr><tr>
+		<td>190</td>
+		<td>FactsTxt</td>
+		<td>2015-03-20 16:21:00</td>
+		<td>Lennon’s killer showed his wife a gun, bullets, and said he was going to kill John Lennon and he then left for NYC. She did nothing.</td>
+		<td>lennon s killer showed his wife a gun bullets and said he was going to kill john lennon and he then left for nyc she did nothing</td>
+		<td>No</td>
+		<td>killer showed wife gun bullets going kill did</td>
+		</tr><tr>
+		<td>191</td>
+		<td>graceateaface</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@sammilner13 a cat will sit on your lap and let you love them while an elephant will kill you..fun fact</td>
+		<td>@sammilner a cat will sit on your lap and let you love them while an elephant will kill you fun fact</td>
+		<td>No</td>
+		<td>cat love kill fun</td>
+		</tr><tr>
+		<td>192</td>
+		<td>ItsOnlyOneQuia</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Kill shit every time tho..</td>
+		<td>kill shit every time tho</td>
+		<td>No</td>
+		<td>kill shit time</td>
+		</tr><tr>
+		<td>193</td>
+		<td>teishapham</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>How is it when ur in kindergarten u don't want to take a nap, but in all the schools above elementary u would kill for 1?</td>
+		<td>how is it when ur in kindergarten u don t want to take a nap but in all the schools above elementary u would kill for</td>
+		<td>No</td>
+		<td>want take schools kill</td>
+		</tr><tr>
+		<td>194</td>
+		<td>keelymsummers</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>i also say like 92 times at least kill me</td>
+		<td>i also say like times at least kill me</td>
+		<td>No</td>
+		<td>like times kill</td>
+		</tr><tr>
+		<td>195</td>
+		<td>knatkiee</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>I wannto fucking kill my neighbors for having workers at there house this fucking early waking me up and shit</td>
+		<td>i wannto fucking kill my neighbors for having workers at there house this fucking early waking me up and shit</td>
+		<td>No</td>
+		<td>fucking kill house fucking shit</td>
+		</tr><tr>
+		<td>196</td>
+		<td>quiziep8jazz101</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @FrMatthewLC: The Church defends wars that protect the innocent, not those that kill them. @antteadot ???</td>
+		<td>rt @frmatthewlc the church defends wars that protect the innocent not those that kill them @antteadot</td>
+		<td>Yes</td>
+		<td>church wars protect innocent kill</td>
+		</tr><tr>
+		<td>197</td>
+		<td>sydniieeee</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @DiaryOfMicah: Females kill me at this school bro ??</td>
+		<td>rt @diaryofmicah females kill me at this school bro</td>
+		<td>Yes</td>
+		<td>kill school</td>
+		</tr><tr>
+		<td>198</td>
+		<td>YaFav_Sailor</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @CindyLuiLou: I'd kill you if you even think about doing that ?? “@YaFav_Sailor: Niggas outchea re-enlisting. Couldn't be me...”</td>
+		<td>rt @cindyluilou i d kill you if you even think about doing that @yafav sailor niggas outchea re enlisting couldn t be me</td>
+		<td>Yes</td>
+		<td>kill think doing</td>
+		</tr><tr>
+		<td>199</td>
+		<td>A_Irwin33</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @aka60643: Is pandering to speeders/red light runners really "progressive"? http://t.co/lNS2XKBlue There IS middle ground - fix program, </td>
+		<td>rt @aka is pandering to speeders red light runners really progressive there is middle ground fix program</td>
+		<td>Yes</td>
+		<td>red runners really middle fix</td>
+		</tr><tr>
+		<td>200</td>
+		<td>Niall_Boy_2</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @NiallOfficial: right gona chill with everyone and watch xfactor and eat! cant wait to see our @cherlloyd kill her performance as per us </td>
+		<td>rt @niallofficial right gona chill with everyone and watch xfactor and eat cant wait to see our @cherlloyd kill her performance as per us</td>
+		<td>Yes</td>
+		<td>right chill watch eat wait see kill</td>
+		</tr><tr>
+		<td>201</td>
+		<td>luhn100</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @chonyal100: WHEEZES THANK GOD KYUNGSOO ISN'T HERE he will kill you for that</td>
+		<td>rt @chonyal wheezes thank god kyungsoo isn t here he will kill you for that</td>
+		<td>Yes</td>
+		<td>thank god kill</td>
+		</tr><tr>
+		<td>202</td>
+		<td>kpecupaa</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Accounts paint picture of lunchtime leisure turning to terror as attackers kill 21 in Tunisia</td>
+		<td>accounts paint picture of lunchtime leisure turning to terror as attackers kill in tunisia</td>
+		<td>No</td>
+		<td>accounts paint picture leisure turning terror kill</td>
+		</tr><tr>
+		<td>203</td>
+		<td>LilBurger10</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Lol jerry you still kill it</td>
+		<td>lol jerry you still kill it</td>
+		<td>No</td>
+		<td>still kill</td>
+		</tr><tr>
+		<td>204</td>
+		<td>up_in_Smoke2</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Watching kill bill is a good way to start the day</td>
+		<td>watching kill bill is a good way to start the day</td>
+		<td>No</td>
+		<td>watching kill bill good way start day</td>
+		</tr><tr>
+		<td>205</td>
+		<td>Sswhussain</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@SJRTooting so that mean I kill every Jew I can because of kills in Gaza @shim_rational @Rashir @leena_dajani @KirstyMartin19 @BoldColorsUSA</td>
+		<td>@sjrtooting so that mean i kill every jew i can because of kills in gaza @shim rational @rashir @leena dajani @kirstymartin @boldcolorsusa</td>
+		<td>No</td>
+		<td>mean kill kills</td>
+		</tr><tr>
+		<td>206</td>
+		<td>kaiJinneo</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Cw told me to Gnd and I said ok then he called me thinking that I was really going to kill myself ??</td>
+		<td>cw told me to gnd and i said ok then he called me thinking that i was really going to kill myself</td>
+		<td>No</td>
+		<td>told called thinking really going kill</td>
+		</tr><tr>
+		<td>207</td>
+		<td>Hoops_DTE</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Don't kill the fun ??</td>
+		<td>don t kill the fun</td>
+		<td>No</td>
+		<td>kill fun</td>
+		</tr><tr>
+		<td>208</td>
+		<td>txniperez</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>wtfh no just no girl don't kill my vibe rn just no</td>
+		<td>wtfh no just no girl don t kill my vibe rn just no</td>
+		<td>No</td>
+		<td>girl kill</td>
+		</tr><tr>
+		<td>209</td>
+		<td>HJARecruit</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @omniumrerum: “@K3v3n3ll3s: @RichardDawkins Question: Is it wrong to kill over a book? Atheist Answer: Yes. Religious Answer: ....which </td>
+		<td>rt @omniumrerum @k v n ll s @richarddawkins question is it wrong to kill over a book atheist answer yes religious answer which</td>
+		<td>Yes</td>
+		<td>question wrong kill book answer answer</td>
+		</tr><tr>
+		<td>210</td>
+		<td>_shanaalice</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>I wonder if Lionesses in the wild have to take their lipstick off before they make a kill. Didn't think so.</td>
+		<td>i wonder if lionesses in the wild have to take their lipstick off before they make a kill didn t think so</td>
+		<td>No</td>
+		<td>wonder take make kill think</td>
+		</tr><tr>
+		<td>211</td>
+		<td>blaine_sieck</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@courtney_e717 is trying to hack my Twitter and kill me #ohgoody</td>
+		<td>@courtney e is trying to hack my twitter and kill me #ohgoody</td>
+		<td>No</td>
+		<td>trying kill</td>
+		</tr><tr>
+		<td>212</td>
+		<td>JCPoliceScanner</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Assault RRMC..... Jeff Bradbury Kicked staff and threaten to kill them..... He was brought in by JCSO...... by De  http://t.co/v477fcnMx3</td>
+		<td>assault rrmc jeff bradbury kicked staff and threaten to kill them he was brought in by jcso by de</td>
+		<td>No</td>
+		<td>assault kicked kill</td>
+		</tr><tr>
+		<td>213</td>
+		<td>LunaKamaruzaman</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @PeteTeo: Threat to rape and kill over satire. And u claim to represent a religion of peace and justice?</td>
+		<td>rt @peteteo threat to rape and kill over satire and u claim to represent a religion of peace and justice</td>
+		<td>Yes</td>
+		<td>rape kill claim peace justice</td>
+		</tr><tr>
+		<td>214</td>
+		<td>caampuedkim_</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@Belasalas if i tell you, i'll need to kill you... HAHAHA jk :-) classmate ko sa slef dati ??</td>
+		<td>@belasalas if i tell you i ll need to kill you hahaha jk happy classmate ko sa slef dati</td>
+		<td>No</td>
+		<td>tell kill happy</td>
+		</tr><tr>
+		<td>215</td>
+		<td>Info24US</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Accounts paint picture of lunchtime leisure turning to terror as attackers kill 21 in Tunisia http://t.co/U7dWSRnTIi</td>
+		<td>accounts paint picture of lunchtime leisure turning to terror as attackers kill in tunisia</td>
+		<td>No</td>
+		<td>accounts paint picture leisure turning terror kill</td>
+		</tr><tr>
+		<td>216</td>
+		<td>JayaSouth</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @XxCrystaRosexX: I don't care how mad you are I don't care how upset you are It's NEVER okay to tell someone to kill themselves #lu </td>
+		<td>rt @xxcrystarosexx i don t care how mad you are i don t care how upset you are it s never okay to tell someone to kill themselves #lu</td>
+		<td>Yes</td>
+		<td>care mad care upset tell someone kill</td>
+		</tr><tr>
+		<td>217</td>
+		<td>Lil_Nando_16</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>And when she butt naked she dress to kill ??</td>
+		<td>and when she butt naked she dress to kill</td>
+		<td>No</td>
+		<td>butt naked dress kill</td>
+		</tr><tr>
+		<td>218</td>
+		<td>Ramdog1980</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Suicide Bombers Kill Dozens at Yemen Mosques: Dozens of worshippers were killed Friday when two suicide attack... http://t.co/IRZr8d9u4k</td>
+		<td>suicide bombers kill dozens at yemen mosques dozens of worshippers were killed friday when two suicide attack</td>
+		<td>No</td>
+		<td>suicide bombers kill killed two suicide attack</td>
+		</tr><tr>
+		<td>219</td>
+		<td>alisadumb</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>"dont kill anyone" "but we just killed a ton of cops" "cops arent people, cops are food"</td>
+		<td>dont kill anyone but we just killed a ton of cops cops arent people cops are food</td>
+		<td>No</td>
+		<td>kill killed cops cops people cops food</td>
+		</tr><tr>
+		<td>220</td>
+		<td>LongLiveWilliam</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@kelsey_jo123 youre going to kill that cat</td>
+		<td>@kelsey jo youre going to kill that cat</td>
+		<td>No</td>
+		<td>going kill cat</td>
+		</tr><tr>
+		<td>221</td>
+		<td>Lexxiboo_swagg</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @_EliRockwell: If u walk around being negative bout every lil' thing, I can't kick it wit u. U will just kill my vibe & I don't need tha </td>
+		<td>rt @ elirockwell if u walk around being negative bout every lil thing i can t kick it wit u u will just kill my vibe i don t need tha</td>
+		<td>Yes</td>
+		<td>kick wit kill</td>
+		</tr><tr>
+		<td>222</td>
+		<td>steveduncan2013</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Suicide Bombings on Yemen Mosques Kill at Least 46 http://t.co/7nef4X3naD @TIME</td>
+		<td>suicide bombings on yemen mosques kill at least @time</td>
+		<td>No</td>
+		<td>suicide bombings kill time</td>
+		</tr><tr>
+		<td>223</td>
+		<td>ThisIsHimanshi</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@nimishadoll they all are gonna kill you for this :P m not just a bad cook :P I am worst cook :P LOL :D You will get to know that soon :P</td>
+		<td>@nimishadoll they all are gonna kill you for this p m not just a bad cook p i am worst cook p lol d you will get to know that soon p</td>
+		<td>No</td>
+		<td>kill bad cook worst cook get know soon</td>
+		</tr><tr>
+		<td>224</td>
+		<td>perkoko</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @PerkDaddyyyyy: good luck to @perkoko in ohio ?? I know you're gonna kill it ?? love you ??</td>
+		<td>rt @perkdaddyyyyy good luck to @perkoko in ohio i know you re gonna kill it love you</td>
+		<td>Yes</td>
+		<td>good luck know kill love</td>
+		</tr><tr>
+		<td>225</td>
+		<td>RespectOurSeas</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @DianeN56: Little fish found to kill smaller ones by posing as family http://t.co/oeUyEk4tml http://t.co/eWG5uLw5QY</td>
+		<td>rt @dianen little fish found to kill smaller ones by posing as family</td>
+		<td>Yes</td>
+		<td>fish found kill ones family</td>
+		</tr><tr>
+		<td>226</td>
+		<td>boujibliss</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>“@DavionBigGuwop: “@LoveNo_Hoes: Shouldn't have wore ??'s today ??” kill them hoes fuck em ??”really davion ????</td>
+		<td>@davionbigguwop @loveno hoes shouldn t have wore s today kill them hoes fuck em really davion</td>
+		<td>No</td>
+		<td>wore today kill fuck really</td>
+		</tr><tr>
+		<td>227</td>
+		<td>leahhclynes</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>trevor set an alarm for 3:30 this morning on my phone and I'm going to kill him??</td>
+		<td>trevor set an alarm for this morning on my phone and i m going to kill him</td>
+		<td>No</td>
+		<td>set alarm morning going kill</td>
+		</tr><tr>
+		<td>228</td>
+		<td>kenndroo_</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>im attracted to girls that wanna do me harm???? like fight me and punch and try to kill a nigga.???? just crazy females are ?????? love em????</td>
+		<td>im attracted to girls that wanna do me harm like fight me and punch and try to kill a nigga just crazy females are love em</td>
+		<td>No</td>
+		<td>girls do like fight try kill love</td>
+		</tr><tr>
+		<td>229</td>
+		<td>ksuelgi94</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@jchnwo burn? are you trying to kill meeh?!</td>
+		<td>@jchnwo burn are you trying to kill meeh</td>
+		<td>No</td>
+		<td>burn trying kill</td>
+		</tr><tr>
+		<td>230</td>
+		<td>ElizatheScheise</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>There hasn't been one time yet that I've made it out of the TIM Store without wanting to kill myself. #stopstealingmymoney</td>
+		<td>there hasn t been one time yet that i ve made it out of the tim store without wanting to kill myself #stopstealingmymoney</td>
+		<td>No</td>
+		<td>one time made wanting kill</td>
+		</tr><tr>
+		<td>231</td>
+		<td>jesuisiffah</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>“@SexualGif: I would kill to have these eyes http://t.co/bX2CCpBPPo” ??</td>
+		<td>@sexualgif i would kill to have these eyes</td>
+		<td>No</td>
+		<td>kill eyes</td>
+		</tr><tr>
+		<td>232</td>
+		<td>r_boyce4</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @eastsideivory: It ain't no gun they make that can kill my soul</td>
+		<td>rt @eastsideivory it ain t no gun they make that can kill my soul</td>
+		<td>Yes</td>
+		<td>gun make kill</td>
+		</tr><tr>
+		<td>233</td>
+		<td>jessi_lanay</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>That it exists, that it IS the heart of social systems, that people use it to kill, that it is irrational #ThingsWeWontSayAboutRace</td>
+		<td>that it exists that it is the heart of social systems that people use it to kill that it is irrational #thingswewontsayaboutrace</td>
+		<td>No</td>
+		<td>heart social people use kill</td>
+		</tr><tr>
+		<td>234</td>
+		<td>NewsyNewsworld</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>World: Suicide Bombings on Yemen Mosques Kill at Least 46 via /r/worldnews http://t.co/EvSzvaQaE8</td>
+		<td>world suicide bombings on yemen mosques kill at least via r worldnews</td>
+		<td>No</td>
+		<td>world suicide bombings kill</td>
+		</tr><tr>
+		<td>235</td>
+		<td>Edison_Winger</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@ScottAndJean there's a first time for anything. Did you know about that dude that told Stephen to kill himself? wtf is wrong with people?</td>
+		<td>@scottandjean there s a first time for anything did you know about that dude that told stephen to kill himself wtf is wrong with people</td>
+		<td>No</td>
+		<td>time did know told kill wrong people</td>
+		</tr><tr>
+		<td>236</td>
+		<td>duly_noted_24</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>No morning classes... but still have to wait around to take a test at 2 pls kill me</td>
+		<td>no morning classes but still have to wait around to take a test at pls kill me</td>
+		<td>No</td>
+		<td>morning classes still wait take kill</td>
+		</tr><tr>
+		<td>238</td>
+		<td>TWINSKEL3TONS</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>yeah thats it going to go try to kill myself agian so bye no ones gonna miss me if i go through with it any ways.</td>
+		<td>yeah thats it going to go try to kill myself agian so bye no ones gonna miss me if i go through with it any ways</td>
+		<td>No</td>
+		<td>going go try kill ones miss go ways</td>
+		</tr><tr>
+		<td>239</td>
+		<td>afumar</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @Shopaholic_651: 60 Ways to Kill Your Husband - http://t.co/KoML9ninSe</td>
+		<td>rt @shopaholic  ways to kill your husband</td>
+		<td>Yes</td>
+		<td>ways kill</td>
+		</tr><tr>
+		<td>240</td>
+		<td>On_The_Breeze</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Kelly Clarkson - Stronger (What Doesn't Kill You) http://t.co/T19fxYKj8n #nowplaying #listenlive</td>
+		<td>kelly clarkson stronger what doesn t kill you #nowplaying #listenlive</td>
+		<td>No</td>
+		<td>stronger kill</td>
+		</tr><tr>
+		<td>241</td>
+		<td>Taylor_wat</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>If I have to hear how I should get a tan from "Taylor Lewis, the reigning miss Tennessee" on pandora again I'm gonna kill</td>
+		<td>if i have to hear how i should get a tan from taylor lewis the reigning miss tennessee on pandora again i m gonna kill</td>
+		<td>No</td>
+		<td>hear get miss kill</td>
+		</tr><tr>
+		<td>242</td>
+		<td>PoliceAlertsUk</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>'School-based Satan cult was posted babies to abuse and kill' - judge rules on lurid case CLAIMS of a Satanic... http://t.co/ilVbwqdNAf</td>
+		<td>school based satan cult was posted babies to abuse and kill judge rules on lurid case claims of a satanic</td>
+		<td>No</td>
+		<td>school based posted babies abuse kill case claims</td>
+		</tr><tr>
+		<td>243</td>
+		<td>GOPGranny</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @LYKINN: Killing a handful of ISIS after they've killed Innocents doesn't send the right msg. Go on Offense, Hunt 'em down, Kill 'em all </td>
+		<td>rt @lykinn killing a handful of isis after they ve killed innocents doesn t send the right msg go on offense hunt em down kill em all</td>
+		<td>Yes</td>
+		<td>killing killed innocents right go kill</td>
+		</tr><tr>
+		<td>244</td>
+		<td>ivafoo</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Next drama : Kill Me Heal Me ??</td>
+		<td>next drama kill me heal me</td>
+		<td>No</td>
+		<td>kill heal</td>
+		</tr><tr>
+		<td>245</td>
+		<td>EvilRedSHINe</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>@realjonghyun90 Are you trying to kill me? Is that what this is ? ????</td>
+		<td>@realjonghyun are you trying to kill me is that what this is</td>
+		<td>No</td>
+		<td>trying kill</td>
+		</tr><tr>
+		<td>246</td>
+		<td>IamCissyA</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>“The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.”(John 10:10, ESV)</td>
+		<td>the thief comes only to steal and kill and destroy i came that they may have life and have it abundantly john esv</td>
+		<td>No</td>
+		<td>thief comes kill destroy came may life</td>
+		</tr><tr>
+		<td>247</td>
+		<td>LucyCamerooon</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>This sociolinguistics presentation will kill me. At least its done and out the way on monday.</td>
+		<td>this sociolinguistics presentation will kill me at least its done and out the way on monday</td>
+		<td>No</td>
+		<td>presentation kill done way</td>
+		</tr><tr>
+		<td>248</td>
+		<td>kaylxh</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>RT @Adairrr__: I would kill to go to a Weeknd concert ????</td>
+		<td>rt @adairrr i would kill to go to a weeknd concert</td>
+		<td>Yes</td>
+		<td>kill go</td>
+		</tr><tr>
+		<td>249</td>
+		<td>Fayeeee09</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>I will find you and kill you.... Literally??</td>
+		<td>i will find you and kill you literally</td>
+		<td>No</td>
+		<td>find kill</td>
+		</tr><tr>
+		<td>250</td>
+		<td>BbShine_96</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>I liked a @YouTube video http://t.co/BZQhmoCJpv [FMV] Kill Me, Heal Me || Sugar (funny moments)</td>
+		<td>i liked a @youtube video fmv kill me heal me sugar funny moments</td>
+		<td>No</td>
+		<td>liked kill heal sugar funny moments</td>
+		</tr><tr>
+		<td>251</td>
+		<td>BarbaraKimmel</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Low trust will kill your business. http://t.co/EtV43EMJUj #trust #ethics</td>
+		<td>low trust will kill your business #trust #ethics</td>
+		<td>No</td>
+		<td>trust kill trust</td>
+		</tr><tr>
+		<td>253</td>
+		<td>NoLifeBetter</td>
+		<td>2015-03-20 16:22:00</td>
+		<td>Its like you have to beg Lagos drivers to try his possible best not to kill you with his amazing driving skills.</td>
+		<td>its like you have to beg lagos drivers to try his possible best not to kill you with his amazing driving skills</td>
+		<td>No</td>
+		<td>like try best kill</td>
+		</tr><tr>
+		<td>254</td>
+		<td>idkkk_bands</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @RespectSMGomez: I feel like 5sos' second album will kill me</td>
+		<td>rt @respectsmgomez i feel like sos second album will kill me</td>
+		<td>Yes</td>
+		<td>like second kill</td>
+		</tr><tr>
+		<td>255</td>
+		<td>Kill_Quin</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @AyGeraldJay: When you lose first in super smash bros and you have to give up the controller http://t.co/mZhC9akfbd</td>
+		<td>rt @aygeraldjay when you lose first in super smash bros and you have to give up the controller</td>
+		<td>Yes</td>
+		<td>lose give</td>
+		</tr><tr>
+		<td>256</td>
+		<td>MitchellH015</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@BbrickIng I know how you are.. I'd have to kill you</td>
+		<td>@bbricking i know how you are i d have to kill you</td>
+		<td>No</td>
+		<td>know kill</td>
+		</tr><tr>
+		<td>257</td>
+		<td>RTENewsAtOne</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Prosecutor says Graham Dwyer had intent to kill - @Orlaodo has the latest from the High Court http://t.co/C32sR0gkyS</td>
+		<td>prosecutor says graham dwyer had intent to kill @orlaodo has the latest from the high court</td>
+		<td>No</td>
+		<td>intent kill</td>
+		</tr><tr>
+		<td>258</td>
+		<td>AlyssaBaldy</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @YikYakApp: "Just tried to kill an insect with Axe body spray but it survived and now it's making inappropriate sexual advances at me."  </td>
+		<td>rt @yikyakapp just tried to kill an insect with axe body spray but it survived and now it s making inappropriate sexual advances at me</td>
+		<td>Yes</td>
+		<td>tried kill insect body spray making</td>
+		</tr><tr>
+		<td>259</td>
+		<td>Missmeldw</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>UK Police Apprehend Guy With A Knife Without Shooting To Kill (VIDEO) Look what I found at http://t.co/f0A2VsGalD! http://t.co/DxpdZPZ3PH</td>
+		<td>uk police apprehend guy with a knife without shooting to kill video look what i found at</td>
+		<td>No</td>
+		<td>guy knife shooting kill look found</td>
+		</tr><tr>
+		<td>260</td>
+		<td>pulsarfilm</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>How easy you can kill yourself for social life :) http://t.co/ymyKZbdM5z</td>
+		<td>how easy you can kill yourself for social life happy</td>
+		<td>No</td>
+		<td>easy kill social life happy</td>
+		</tr><tr>
+		<td>261</td>
+		<td>DilaraKocintar</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @thirlsadvocate: We always see perrie happy I never want to see her upset and I could kill zayn for hurting her like this #KCA #VoteLitt </td>
+		<td>rt @thirlsadvocate we always see perrie happy i never want to see her upset and i could kill zayn for hurting her like this #kca #votelitt</td>
+		<td>Yes</td>
+		<td>see happy want see upset kill hurting like</td>
+		</tr><tr>
+		<td>262</td>
+		<td>AlexSmith190990</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Knife-wielding thief told Longton pensioner: 'Give me your cash or I'll kill your cat'. RT to help catch this burglar http://t.co/ehYePm7uh6</td>
+		<td>knife wielding thief told longton pensioner give me your cash or i ll kill your cat rt to help catch this burglar</td>
+		<td>No</td>
+		<td>knife thief told give cash kill cat</td>
+		</tr><tr>
+		<td>263</td>
+		<td>LittleBittyTy</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>I'll kill your feelings in one picture ??</td>
+		<td>i ll kill your feelings in one picture</td>
+		<td>No</td>
+		<td>kill feelings one picture</td>
+		</tr><tr>
+		<td>264</td>
+		<td>_ndrhsyfqh</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @babaejimin: taehyung wants to kill us. http://t.co/0nRfcKZoup</td>
+		<td>rt @babaejimin taehyung wants to kill us</td>
+		<td>Yes</td>
+		<td>wants kill</td>
+		</tr><tr>
+		<td>265</td>
+		<td>Xmixerdna</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @lovedrunkleighh: We always see perrie happy I never want to see her upset and I could kill zayn for hurting her like this #KCA #VoteLit </td>
+		<td>rt @lovedrunkleighh we always see perrie happy i never want to see her upset and i could kill zayn for hurting her like this #kca #votelit</td>
+		<td>Yes</td>
+		<td>see happy want see upset kill hurting like</td>
+		</tr><tr>
+		<td>266</td>
+		<td>KellyLWilz</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>New Hampshire Lawmakers Mock Bill Drafted By 4th-Graders To Their Faces then Kill It http://t.co/fA1L9Sv7rD via @stephemcneal @buzzfeednews</td>
+		<td>new hampshire lawmakers mock bill drafted by th graders to their faces then kill it via @stephemcneal @buzzfeednews</td>
+		<td>No</td>
+		<td>new bill faces kill</td>
+		</tr><tr>
+		<td>267</td>
+		<td>msvavirgo</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Ex-Staffer Slams James O'Keefe: He Crossed A Line With Vile 'Kill Cops' Stunt @TPM http://t.co/ZocmNY2Dqb</td>
+		<td>ex staffer slams james o keefe he crossed a line with vile kill cops stunt @tpm</td>
+		<td>No</td>
+		<td>crossed kill cops</td>
+		</tr><tr>
+		<td>268</td>
+		<td>Bahrych</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @Liossie: Hard kitty, cold kitty, little ball of steel. Evil kitty, angry kitty, kill, kill, kill!</td>
+		<td>rt @liossie hard kitty cold kitty little ball of steel evil kitty angry kitty kill kill kill</td>
+		<td>Yes</td>
+		<td>hard cold evil angry kill kill kill</td>
+		</tr><tr>
+		<td>269</td>
+		<td>zombidgaf</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @Paul1111_: Tbh when I come to Malaysia I would hug you and never let you go honestly and then you'd get annoyed with me and kill me</td>
+		<td>rt @paul tbh when i come to malaysia i would hug you and never let you go honestly and then you d get annoyed with me and kill me</td>
+		<td>Yes</td>
+		<td>come hug go honestly get annoyed kill</td>
+		</tr><tr>
+		<td>270</td>
+		<td>KhirulAdnin</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Bitch don't kill my vibe// Kendrick</td>
+		<td>bitch don t kill my vibe kendrick</td>
+		<td>No</td>
+		<td>bitch kill</td>
+		</tr><tr>
+		<td>271</td>
+		<td>PhilcolmX</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @Phllp_Wnslw: @sevyn Don't Kill the Fun doesn't get old. Easily one of my fave songs of 2015.</td>
+		<td>rt @phllp wnslw @sevyn don t kill the fun doesn t get old easily one of my fave songs of</td>
+		<td>Yes</td>
+		<td>kill fun get easily one songs</td>
+		</tr><tr>
+		<td>272</td>
+		<td>eventvanessa</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Amazingly the stupidity of my teen years didn't kill me but the heartaches of my twenties just might.</td>
+		<td>amazingly the stupidity of my teen years didn t kill me but the heartaches of my twenties just might</td>
+		<td>No</td>
+		<td>stupidity kill might</td>
+		</tr><tr>
+		<td>273</td>
+		<td>ka_macharia</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @KeyToRevelation: Comparing Revelation 13:13 with 2 Kings 1:9-10 shows that Revelation 13:13 is talking about fire coming down from the  </td>
+		<td>rt @keytorevelation comparing revelation with kings shows that revelation is talking about fire coming down from the</td>
+		<td>Yes</td>
+		<td>kings shows fire coming</td>
+		</tr><tr>
+		<td>274</td>
+		<td>FindLexiChow_</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @WildeOscarCat: CHARMING PURRBUG& #KITTEN HARTFORD ROLLS OVER FOR BELLY RUBS! SAVE HER FROM #NYC ACC's KILL https://t.co/Yfzd2OGS9a htt </td>
+		<td>rt @wildeoscarcat charming purrbug #kitten hartford rolls over for belly rubs save her from #nyc acc s kill htt</td>
+		<td>Yes</td>
+		<td>charming kitten save kill</td>
+		</tr><tr>
+		<td>275</td>
+		<td>cherokee_autumn</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Unfortunately, once you sign up for the military, your life is no longer yours. You might have to kill without wanting the job of killing</td>
+		<td>unfortunately once you sign up for the military your life is no longer yours you might have to kill without wanting the job of killing</td>
+		<td>No</td>
+		<td>sign life might kill wanting killing</td>
+		</tr><tr>
+		<td>276</td>
+		<td>reretherose</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Kill a nigga & won't feel no sorrow .</td>
+		<td>kill a nigga won t feel no sorrow</td>
+		<td>No</td>
+		<td>kill won</td>
+		</tr><tr>
+		<td>278</td>
+		<td>kellyiam83</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @Zardoz_Moot: @kellyiam83 @IrishRogue80 DID SOMEONE SAY KILL OR IS THAT THE VOICE IN MY HEAD http://t.co/C9rYrJqzlm</td>
+		<td>rt @zardoz moot @kellyiam @irishrogue did someone say kill or is that the voice in my head</td>
+		<td>Yes</td>
+		<td>did someone kill head</td>
+		</tr><tr>
+		<td>279</td>
+		<td>camisadicks</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>that was legit the best coffee i ever had id gladly have a second cup but my mum will kill me</td>
+		<td>that was legit the best coffee i ever had id gladly have a second cup but my mum will kill me</td>
+		<td>No</td>
+		<td>best coffee second kill</td>
+		</tr><tr>
+		<td>280</td>
+		<td>Jo_Eyre</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Was just pondering ‘Have Twitter favourites killed retweets’ and found this article: https://t.co/drMs7q7tvz</td>
+		<td>was just pondering have twitter favourites killed retweets and found this article</td>
+		<td>No</td>
+		<td>killed found</td>
+		</tr><tr>
+		<td>281</td>
+		<td>MehekF</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@AnthonySald @s_szama @MrsGandhi unity? Watch Sunnis kill shias everywhere</td>
+		<td>@anthonysald @s szama @mrsgandhi unity watch sunnis kill shias everywhere</td>
+		<td>No</td>
+		<td>unity watch kill</td>
+		</tr><tr>
+		<td>282</td>
+		<td>finesser_JB4</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Shit get real where I'm from its kill or be killed where I'm from</td>
+		<td>shit get real where i m from its kill or be killed where i m from</td>
+		<td>No</td>
+		<td>shit get real kill killed</td>
+		</tr><tr>
+		<td>283</td>
+		<td>IamAngelaRose</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>I'm going to take a picture of it snowing today and staple it to my forehead before I kill myself as my suicide note</td>
+		<td>i m going to take a picture of it snowing today and staple it to my forehead before i kill myself as my suicide note</td>
+		<td>No</td>
+		<td>going take picture snowing today kill suicide</td>
+		</tr><tr>
+		<td>284</td>
+		<td>iNqobile</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Kill her "@VanessaVayy: She's killing my vibe..."</td>
+		<td>kill her @vanessavayy she s killing my vibe</td>
+		<td>No</td>
+		<td>kill killing</td>
+		</tr><tr>
+		<td>285</td>
+		<td>bornthismiley</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>I honestly might kill myself! school is so boring today</td>
+		<td>i honestly might kill myself school is so boring today</td>
+		<td>No</td>
+		<td>honestly might kill school boring today</td>
+		</tr><tr>
+		<td>286</td>
+		<td>WizeYoungMan</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Secondly, how are you that in live with this CHILD that you’re gonna kill her mother cuz she was tryna break yall up?</td>
+		<td>secondly how are you that in live with this child that you re gonna kill her mother cuz she was tryna break yall up</td>
+		<td>No</td>
+		<td>secondly live child kill mother break</td>
+		</tr><tr>
+		<td>287</td>
+		<td>CharlieFreebie</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Mosque Attacks In Yemen Kill Dozens http://t.co/h8OcHEjFlz #freeticketmaxims #Updates #FTM</td>
+		<td>mosque attacks in yemen kill dozens #freeticketmaxims #updates #ftm</td>
+		<td>No</td>
+		<td>attacks kill</td>
+		</tr><tr>
+		<td>288</td>
+		<td>Our416</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>#TCHC buildings, the #Gardiner, old pipes etc. One of these negligent bits will soon kill someone as result of useless politicians. #topoli</td>
+		<td>#tchc buildings the #gardiner old pipes etc one of these negligent bits will soon kill someone as result of useless politicians #topoli</td>
+		<td>No</td>
+		<td>buildings one bits soon kill someone useless</td>
+		</tr><tr>
+		<td>289</td>
+		<td>Yesminahammouda</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@katieperrottaa @DailyMailCeleb I think I might just kill myself right now this is NOT OK</td>
+		<td>@katieperrottaa @dailymailceleb i think i might just kill myself right now this is not ok</td>
+		<td>No</td>
+		<td>think might kill right</td>
+		</tr><tr>
+		<td>290</td>
+		<td>terrorism_info</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Suicide Bombings on #Yemen Mosques Kill at Least 46 #ADEN,Yemen #AbedRabboMansourHadi... http://t.co/h3PM0pllAA http://t.co/ECD3lkqfca</td>
+		<td>suicide bombings on #yemen mosques kill at least #adenyemen #abedrabbomansourhadi</td>
+		<td>No</td>
+		<td>suicide bombings kill</td>
+		</tr><tr>
+		<td>291</td>
+		<td>WantMoreLeads</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>"That which doesn’t kill us makes us stronger. " - Friedrich Nietzsche</td>
+		<td>that which doesn t kill us makes us stronger friedrich nietzsche</td>
+		<td>No</td>
+		<td>kill makes stronger</td>
+		</tr><tr>
+		<td>292</td>
+		<td>fadetouched</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>"4. Realistic Headshots Shooting people in the head should probably kill them, and getting shot in the head should probably kill you."</td>
+		<td>realistic headshots shooting people in the head should probably kill them and getting shot in the head should probably kill you</td>
+		<td>No</td>
+		<td>shooting people head kill getting shot head kill</td>
+		</tr><tr>
+		<td>293</td>
+		<td>Cierraaaaa5</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>“@TheFunnyTeens: my actual vocabulary in real life consists mostly of omg dude (weird noises) what the hell i’m going to kill you fuck you”</td>
+		<td>@thefunnyteens my actual vocabulary in real life consists mostly of omg dude weird noises what the hell i m going to kill you fuck you</td>
+		<td>No</td>
+		<td>real life consists noises hell going kill fuck</td>
+		</tr><tr>
+		<td>294</td>
+		<td>LuqmanArgh</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @hafizzulkarnain: @LuqmanArgh tmrw back bis. Love it kill it</td>
+		<td>rt @hafizzulkarnain @luqmanargh tmrw back bis love it kill it</td>
+		<td>Yes</td>
+		<td>back love kill</td>
+		</tr><tr>
+		<td>295</td>
+		<td>worldnews_net</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Mosque Attacks In Yemen Kill Dozens http://t.co/CX4YS2Pdow #nprnews #npr #news</td>
+		<td>mosque attacks in yemen kill dozens #nprnews #npr #news</td>
+		<td>No</td>
+		<td>attacks kill news</td>
+		</tr><tr>
+		<td>296</td>
+		<td>akadienne</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>"What doesn't kill us on makes our resistance STRONGER" #takebackthetweet #consentculture #cultureduconsentement</td>
+		<td>what doesn t kill us on makes our resistance stronger #takebackthetweet #consentculture #cultureduconsentement</td>
+		<td>No</td>
+		<td>kill makes stronger</td>
+		</tr><tr>
+		<td>297</td>
+		<td>1996ftlashton</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>DONT MOB OR SQUISH MY BABY PLEASE I WILL ALL KILL YOU</td>
+		<td>dont mob or squish my baby please i will all kill you</td>
+		<td>No</td>
+		<td>mob baby please kill</td>
+		</tr><tr>
+		<td>298</td>
+		<td>SportingNest</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>A 22 year prison sentence for the man who planned to kill soldiers. What about the girlfriend he told, who kept quiet? No charge for her?</td>
+		<td>a year prison sentence for the man who planned to kill soldiers what about the girlfriend he told who kept quiet no charge for her</td>
+		<td>No</td>
+		<td>prison man kill told kept quiet</td>
+		</tr><tr>
+		<td>299</td>
+		<td>ConorNorf0lk</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>They said judgment day would come after the eclipse ?? x coughs can kill x http://t.co/8ZUxbSrJGF</td>
+		<td>they said judgment day would come after the eclipse x coughs can kill x</td>
+		<td>No</td>
+		<td>day come kill</td>
+		</tr><tr>
+		<td>300</td>
+		<td>parimalkumar</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @chrisgerhard: @parimalkumar move house. She has a unique set of skills and will find you and kill you.</td>
+		<td>rt @chrisgerhard @parimalkumar move house she has a unique set of skills and will find you and kill you</td>
+		<td>Yes</td>
+		<td>move house set find kill</td>
+		</tr><tr>
+		<td>301</td>
+		<td>LongLive_Honey</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>On God, females kill me??</td>
+		<td>on god females kill me</td>
+		<td>No</td>
+		<td>god kill</td>
+		</tr><tr>
+		<td>302</td>
+		<td>justinlraines</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @BestMovieLine: Kill Bill http://t.co/DNT2hWFY52</td>
+		<td>rt @bestmovieline kill bill</td>
+		<td>Yes</td>
+		<td>kill bill</td>
+		</tr><tr>
+		<td>303</td>
+		<td>xvybes</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>People who constantly get off in college are the bane of my life and I want to kill them and be sick at the same time</td>
+		<td>people who constantly get off in college are the bane of my life and i want to kill them and be sick at the same time</td>
+		<td>No</td>
+		<td>people get life want kill sick time</td>
+		</tr><tr>
+		<td>304</td>
+		<td>sergi0cervantes</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>“@GentleHandbook: Over thinking does kill your happiness.”</td>
+		<td>@gentlehandbook over thinking does kill your happiness</td>
+		<td>No</td>
+		<td>thinking does kill happiness</td>
+		</tr><tr>
+		<td>305</td>
+		<td>LoudboyVision</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Listen to VISION - LIFEE FT McMIR & KILL by vision215 #np on #SoundCloud http://t.co/DQoomcXO45</td>
+		<td>listen to vision lifee ft mcmir kill by vision #np on #soundcloud</td>
+		<td>No</td>
+		<td>listen vision kill vision</td>
+		</tr><tr>
+		<td>306</td>
+		<td>Kill_Quin</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @AyGeraldJay: When the teacher tries to call on you for not payin attention but you still get the answer right http://t.co/L77HwT0b13</td>
+		<td>rt @aygeraldjay when the teacher tries to call on you for not payin attention but you still get the answer right</td>
+		<td>Yes</td>
+		<td>teacher tries call still get answer right</td>
+		</tr><tr>
+		<td>307</td>
+		<td>MPAVictoria</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Why do Republicans want to kill the weekend? http://t.co/2yMp7RU1wU #Politics #Republicans</td>
+		<td>why do republicans want to kill the weekend #politics #republicans</td>
+		<td>No</td>
+		<td>do want kill politics</td>
+		</tr><tr>
+		<td>308</td>
+		<td>LabiAmar</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>House votes to kill federal rule to streamline union organizing -- Steve Scalise calls it 'ambush elections' http://t.co/tvUrld433T</td>
+		<td>house votes to kill federal rule to streamline union organizing steve scalise calls it ambush elections</td>
+		<td>No</td>
+		<td>house kill calls</td>
+		</tr><tr>
+		<td>309</td>
+		<td>trueindian1978</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @JenLuvsIsrael: #India #Islam Militants storm Indian Kashmir police post, kill two: Another two people were ... http://t.co/tALe0PQq7c # </td>
+		<td>rt @jenluvsisrael #india #islam militants storm indian kashmir police post kill two another two people were #</td>
+		<td>Yes</td>
+		<td>storm post kill two two people</td>
+		</tr><tr>
+		<td>310</td>
+		<td>NoviFatriani</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>NAH! ?? "@jojoblack77: @realjonghyun90 are you trying to kill your fandom ?!!"</td>
+		<td>nah @jojoblack @realjonghyun are you trying to kill your fandom</td>
+		<td>No</td>
+		<td>trying kill</td>
+		</tr><tr>
+		<td>311</td>
+		<td>freddy26HBK</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>i want to kill everybody here with with a rusty damn fork i hate school more then anything else in my entire life</td>
+		<td>i want to kill everybody here with with a rusty damn fork i hate school more then anything else in my entire life</td>
+		<td>No</td>
+		<td>want kill rusty fork hate school life</td>
+		</tr><tr>
+		<td>312</td>
+		<td>yahiaELshekha</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>What doesn't kill you , makes you stronger ??</td>
+		<td>what doesn t kill you makes you stronger</td>
+		<td>No</td>
+		<td>kill makes stronger</td>
+		</tr><tr>
+		<td>313</td>
+		<td>reuIIe</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Fangirls, don't kill these young males, okay? You don't want to put shame to this good country, it's the government's job to do just that</td>
+		<td>fangirls don t kill these young males okay you don t want to put shame to this good country it s the government s job to do just that</td>
+		<td>No</td>
+		<td>kill young want put shame good government do</td>
+		</tr><tr>
+		<td>314</td>
+		<td>xBianchiix</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@OrangeGeniusMC ...I'll still kill spiders and lizards anyway</td>
+		<td>@orangegeniusmc i ll still kill spiders and lizards anyway</td>
+		<td>No</td>
+		<td>still kill spiders</td>
+		</tr><tr>
+		<td>316</td>
+		<td>donovan_gee</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>I wana kill @Dyl_Gutierrez & Frances for brining me to treasure chest last night</td>
+		<td>i wana kill @dyl gutierrez frances for brining me to treasure chest last night</td>
+		<td>No</td>
+		<td>kill treasure chest night</td>
+		</tr><tr>
+		<td>317</td>
+		<td>BreDoitBetter</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>All these projects gone kill me ????????</td>
+		<td>all these projects gone kill me</td>
+		<td>No</td>
+		<td>gone kill</td>
+		</tr><tr>
+		<td>318</td>
+		<td>mtaylor082276</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>NH lawmakers brutally kill 4th-graders' bill in front of them http://t.co/bMedH3kWTp</td>
+		<td>nh lawmakers brutally kill th graders bill in front of them</td>
+		<td>No</td>
+		<td>brutally kill bill</td>
+		</tr><tr>
+		<td>319</td>
+		<td>OnceInA_Nashton</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>RT @FreddyAmazin: watching what you love so much being loved by somebody else will kill you slowly... http://t.co/LXeCaKjlKH</td>
+		<td>rt @freddyamazin watching what you love so much being loved by somebody else will kill you slowly</td>
+		<td>Yes</td>
+		<td>watching love loved somebody kill slowly</td>
+		</tr><tr>
+		<td>320</td>
+		<td>icessimone</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@worldwide_ally text me back right now before I kill you</td>
+		<td>@worldwide ally text me back right now before i kill you</td>
+		<td>No</td>
+		<td>back right kill</td>
+		</tr><tr>
+		<td>321</td>
+		<td>CYBERSTALIN</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>these people want me to kill them. I know it. they're like "I want you to punish me for making your life harder"</td>
+		<td>these people want me to kill them i know it they re like i want you to punish me for making your life harder</td>
+		<td>No</td>
+		<td>people want kill know like want making life harder</td>
+		</tr><tr>
+		<td>322</td>
+		<td>johnniemojo</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@crocodilekatie @elarastar yeah,there's nothing wrong with having respect for something that can kill you. An adage we should ALL live by</td>
+		<td>@crocodilekatie @elarastar yeahthere s nothing wrong with having respect for something that can kill you an adage we should all live by</td>
+		<td>No</td>
+		<td>wrong respect kill live</td>
+		</tr><tr>
+		<td>323</td>
+		<td>agbxjano</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>im going to kill Jess</td>
+		<td>im going to kill jess</td>
+		<td>No</td>
+		<td>going kill</td>
+		</tr><tr>
+		<td>324</td>
+		<td>JH2___</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>Really bro birthday!! Gotta kill tonight fa my dude ??</td>
+		<td>really bro birthday gotta kill tonight fa my dude</td>
+		<td>No</td>
+		<td>really birthday kill</td>
+		</tr><tr>
+		<td>325</td>
+		<td>hvacservices09</td>
+		<td>2015-03-20 16:23:00</td>
+		<td>@GregHillWAAF She looks like she ready to kill some one !!!!!!! Future Alabama truck driver ..</td>
+		<td>@greghillwaaf she looks like she ready to kill some one  future alabama truck driver</td>
+		<td>No</td>
+		<td>looks like ready kill one truck</td>
+		</tr><tr>
+		<td>326</td>
+		<td>evirstra</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>My body is trying to kill me from the inside help</td>
+		<td>my body is trying to kill me from the inside help</td>
+		<td>No</td>
+		<td>body trying kill</td>
+		</tr><tr>
+		<td>327</td>
+		<td>salisburypost</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Mower damage to tree bark can severely damage or kill a tree. http://t.co/j6dA8kDNx1</td>
+		<td>mower damage to tree bark can severely damage or kill a tree</td>
+		<td>No</td>
+		<td>damage tree severely damage kill tree</td>
+		</tr><tr>
+		<td>328</td>
+		<td>JoeysAverage</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>What street is that? “@ImN0tAaron: When they say these streets will kill you they're not joking in Cleveland http://t.co/56GcsnSPOS”</td>
+		<td>what street is that @imn taaron when they say these streets will kill you they re not joking in cleveland</td>
+		<td>No</td>
+		<td>street streets kill joking</td>
+		</tr><tr>
+		<td>329</td>
+		<td>JagkAlllTimeLow</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Sometimes to stay alive you gotta kill your mind.</td>
+		<td>sometimes to stay alive you gotta kill your mind</td>
+		<td>No</td>
+		<td>stay alive kill mind</td>
+		</tr><tr>
+		<td>330</td>
+		<td>vanessa_darden</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @ashheartsroc: @NatalieEGuercio You're gonna kill @DidonatoNatalie when? While you're running away wit ur Nikes on?? ???? you scurd bitch  </td>
+		<td>rt @ashheartsroc @natalieeguercio you re gonna kill @didonatonatalie when while you re running away wit ur nikes on you scurd bitch</td>
+		<td>Yes</td>
+		<td>kill running wit bitch</td>
+		</tr><tr>
+		<td>331</td>
+		<td>KatieLee5897</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>The conversations me and @Gianna_Custer have on a regular basis kill me ?? I don't understand how we both have jobs</td>
+		<td>the conversations me and @gianna custer have on a regular basis kill me i don t understand how we both have jobs</td>
+		<td>No</td>
+		<td>basis kill</td>
+		</tr><tr>
+		<td>332</td>
+		<td>Sarah_Rehaoui</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @nicole_rella: Not spring yet and allergies already trying to kill me</td>
+		<td>rt @nicole rella not spring yet and allergies already trying to kill me</td>
+		<td>Yes</td>
+		<td>spring allergies trying kill</td>
+		</tr><tr>
+		<td>333</td>
+		<td>CeriseBomb</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>I really want to kill you, wipe you off face of my earth</td>
+		<td>i really want to kill you wipe you off face of my earth</td>
+		<td>No</td>
+		<td>really want kill face earth</td>
+		</tr><tr>
+		<td>334</td>
+		<td>OktyLamariss</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Stronger (What Doesn't Kill You) by @kelly_clarkson — https://t.co/W1VAhGF2Vy</td>
+		<td>stronger what doesn t kill you by @kelly clarkson</td>
+		<td>No</td>
+		<td>stronger kill</td>
+		</tr><tr>
+		<td>335</td>
+		<td>robertore62</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @WIRED:Tesla has a plan to eliminate range anxiety with a software update http://t.co/nrnKiDUx6v http://t.co/8r2AE98zMM</td>
+		<td>rt @wired tesla has a plan to eliminate range anxiety with a software update</td>
+		<td>Yes</td>
+		<td>eliminate range anxiety</td>
+		</tr><tr>
+		<td>336</td>
+		<td>marissa_jjong</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @ChelleShawol: JONGHYUN-AHH! WHY DO YOU HAVE TO POST A BED SELCA? ARE YOU PLANNING TO KILL THE FANDOM?!</td>
+		<td>rt @chelleshawol jonghyun ahh why do you have to post a bed selca are you planning to kill the fandom</td>
+		<td>Yes</td>
+		<td>do post bed kill</td>
+		</tr><tr>
+		<td>337</td>
+		<td>court_keatingg</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @SouthernScenery: Kill Devil Hills, North Carolina http://t.co/F761DNZbWp</td>
+		<td>rt @southernscenery kill devil hills north carolina</td>
+		<td>Yes</td>
+		<td>kill devil</td>
+		</tr><tr>
+		<td>338</td>
+		<td>thegleeberries</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @gleek: The Glee cast are going to kill me today #gleegoodbye http://t.co/oXAJ5r9UTM</td>
+		<td>rt @gleek the glee cast are going to kill me today #gleegoodbye</td>
+		<td>Yes</td>
+		<td>glee going kill today</td>
+		</tr><tr>
+		<td>339</td>
+		<td>nrl_ain_</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @Gillianyoong: Guys, when a girl says 'alright i won't disturb u' in a text, pls don't be dumb and say 'okay' or 'sure' like srsly just  </td>
+		<td>rt @gillianyoong guys when a girl says alright i won t disturb u in a text pls don t be dumb and say okay or sure like srsly just</td>
+		<td>Yes</td>
+		<td>guys girl won disturb sure like</td>
+		</tr><tr>
+		<td>340</td>
+		<td>stoppableforce</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@Achloryn @_Rades @glyneth it went from "why did Stop just kill the raid" to "why was that boss so easy" in one fell swoop for us</td>
+		<td>@achloryn @ rades @glyneth it went from why did stop just kill the raid to why was that boss so easy in one fell swoop for us</td>
+		<td>No</td>
+		<td>went did stop kill easy one fell</td>
+		</tr><tr>
+		<td>341</td>
+		<td>hawaiistate__ag</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>UK court gives teen to 22 years for plotting to kill soldier http://t.co/aDGhp1a1sh #hawaii</td>
+		<td>uk court gives teen to years for plotting to kill soldier #hawaii</td>
+		<td>No</td>
+		<td>gives kill</td>
+		</tr><tr>
+		<td>342</td>
+		<td>gaildaye</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @soxfaneast: Who Needs ISIS When You Have Indiana?.....Indiana Shows Us How GOP Priorities Will Kill Us All http://t.co/GxjdXEDzsi via  </td>
+		<td>rt @soxfaneast who needs isis when you have indiana indiana shows us how gop priorities will kill us all via</td>
+		<td>Yes</td>
+		<td>shows kill</td>
+		</tr><tr>
+		<td>343</td>
+		<td>bullussbrian</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>The Connecticut va is a joke. The administrator and blumenthal are a bigger joke. Kill our vets instead of care for them#vamurdersitsvets</td>
+		<td>the connecticut va is a joke the administrator and blumenthal are a bigger joke kill our vets instead of care for them#vamurdersitsvets</td>
+		<td>No</td>
+		<td>joke bigger joke kill care</td>
+		</tr><tr>
+		<td>344</td>
+		<td>Weirdlymazing</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Gonna kill myself of playing slendrina...duh it helps try it..die with me.</td>
+		<td>gonna kill myself of playing slendrina duh it helps try it die with me</td>
+		<td>No</td>
+		<td>kill playing try</td>
+		</tr><tr>
+		<td>345</td>
+		<td>mukuro_engbot</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Isn't it you who always does as you please?!! Telling us to kill each other! I don't want anything to do with it!</td>
+		<td>isn t it you who always does as you please telling us to kill each other i don t want anything to do with it</td>
+		<td>No</td>
+		<td>does please telling kill want do</td>
+		</tr><tr>
+		<td>346</td>
+		<td>dreamsandabyss</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Energy drink ad: full kick Read it as: fuck kill</td>
+		<td>energy drink ad full kick read it as fuck kill</td>
+		<td>No</td>
+		<td>energy kick fuck kill</td>
+		</tr><tr>
+		<td>347</td>
+		<td>KlllyourseIf</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@MegaD3ltaUK might support arsenal then, they can kill me too</td>
+		<td>@megad ltauk might support arsenal then they can kill me too</td>
+		<td>No</td>
+		<td>might kill</td>
+		</tr><tr>
+		<td>348</td>
+		<td>21Ehlin</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Me and My sister's converstation: Me: do you wanna play lbsg? Sister: yeah! Why not!! Me: ok Sister: *smiling* Im im a mood to kill hackers</td>
+		<td>me and my sister s converstation me do you wanna play lbsg sister yeah why not me ok sister smiling im im a mood to kill hackers</td>
+		<td>No</td>
+		<td>sister do play sister sister mood kill</td>
+		</tr><tr>
+		<td>349</td>
+		<td>JLaCocaina</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @Young_EDgod: all the ways to kill yourself these days yall saying this nigga just so happened to hang himself from a Tree in MISSISSIPP </td>
+		<td>rt @young edgod all the ways to kill yourself these days yall saying this nigga just so happened to hang himself from a tree in mississipp</td>
+		<td>Yes</td>
+		<td>young ways kill days happened hang tree</td>
+		</tr><tr>
+		<td>350</td>
+		<td>VanessaVayy</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>I can't, she's a homie (._.") "@iNqobile: Kill her "@VanessaVayy: She's killing my vibe...""</td>
+		<td>i can t she s a homie  @inqobile kill her @vanessavayy she s killing my vibe</td>
+		<td>No</td>
+		<td>kill killing</td>
+		</tr><tr>
+		<td>351</td>
+		<td>PacificRap</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>News: Civil society groups: Rebels kill 4 civilians in east Congo http://t.co/QdwxHrLJfc</td>
+		<td>news civil society groups rebels kill civilians in east congo</td>
+		<td>No</td>
+		<td>news civil kill</td>
+		</tr><tr>
+		<td>352</td>
+		<td>filterednews</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>UK court gives teen to 22 years for plotting to kill soldier | CNS News http://t.co/1QqFy6Qjag</td>
+		<td>uk court gives teen to years for plotting to kill soldier cns news</td>
+		<td>No</td>
+		<td>gives kill news</td>
+		</tr><tr>
+		<td>353</td>
+		<td>flzmyupano</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@LanceOMD call me or i'll kill you</td>
+		<td>@lanceomd call me or i ll kill you</td>
+		<td>No</td>
+		<td>call kill</td>
+		</tr><tr>
+		<td>354</td>
+		<td>Glaziol_LoL</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@RiotKengen @RiotGradius awp is the railgun of CS. Needs practice but it's a one shot kill.</td>
+		<td>@riotkengen @riotgradius awp is the railgun of cs needs practice but it s a one shot kill</td>
+		<td>No</td>
+		<td>practice one shot kill</td>
+		</tr><tr>
+		<td>355</td>
+		<td>Scott_Mansell1</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>If you have a minute free search twitter for "Zayn Malik kill my self" that's our future generation people!</td>
+		<td>if you have a minute free search twitter for zayn malik kill my self that s our future generation people</td>
+		<td>No</td>
+		<td>free kill people</td>
+		</tr><tr>
+		<td>356</td>
+		<td>alittlemaryam</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @GreysTaylor: If Derek did cheat Meredith said she would kill him...maybe it will turn into how to get away with murder ??</td>
+		<td>rt @greystaylor if derek did cheat meredith said she would kill him maybe it will turn into how to get away with murder</td>
+		<td>Yes</td>
+		<td>did cheat kill turn get</td>
+		</tr><tr>
+		<td>357</td>
+		<td>HeathScottLeeds</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @SchoolsWeek: Following advice of Atticus (Of To Kill a Mockingbird fame) he says they are telling Gov to walk around in each other's sh </td>
+		<td>rt @schoolsweek following advice of atticus of to kill a mockingbird fame he says they are telling gov to walk around in each other s sh</td>
+		<td>Yes</td>
+		<td>following kill fame telling</td>
+		</tr><tr>
+		<td>358</td>
+		<td>LizHolley95</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@sevin89 you guys kill me</td>
+		<td>@sevin you guys kill me</td>
+		<td>No</td>
+		<td>guys kill</td>
+		</tr><tr>
+		<td>359</td>
+		<td>Janaaaa96</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>SOMEOne HAS TO FUXKiNG kILL meee http://t.co/GJ1DQWAKBG</td>
+		<td>someone has to fuxking kill meee</td>
+		<td>No</td>
+		<td>someone kill</td>
+		</tr><tr>
+		<td>360</td>
+		<td>Lakayaaaaa</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>lil bro said this girl rappin n if she touch him he go kill ha ass ????</td>
+		<td>lil bro said this girl rappin n if she touch him he go kill ha ass</td>
+		<td>No</td>
+		<td>girl touch go kill ass</td>
+		</tr><tr>
+		<td>361</td>
+		<td>M_MUSTHAFAA</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @AslamAslamtey: "@Raajje_tv: A pro-government MP openly calling to kill former President Nasheed http://t.co/sVrI0Zsnmz" @HugoSwire @Ali </td>
+		<td>rt @aslamaslamtey @raajje tv a pro government mp openly calling to kill former president nasheed @hugoswire @ali</td>
+		<td>Yes</td>
+		<td>government calling kill</td>
+		</tr><tr>
+		<td>362</td>
+		<td>itsciaraokayy</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @haychristineee: GOOD LUCK AT USA NATIONALS MMDT! ???? kill it out there!</td>
+		<td>rt @haychristineee good luck at usa nationals mmdt kill it out there</td>
+		<td>Yes</td>
+		<td>good luck kill</td>
+		</tr><tr>
+		<td>363</td>
+		<td>thetroll01</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@ConserveTruth14 @LeahNTorres @AussieProLife The only shaming going on, is of those who kill innocent babies.</td>
+		<td>@conservetruth @leahntorres @aussieprolife the only shaming going on is of those who kill innocent babies</td>
+		<td>No</td>
+		<td>shaming going kill innocent babies</td>
+		</tr><tr>
+		<td>364</td>
+		<td>cancrdaily</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Road kill: Recommendations to protect biodiversity http://t.co/hkAie6Bkly #cancer #health</td>
+		<td>road kill recommendations to protect biodiversity #cancer #health</td>
+		<td>No</td>
+		<td>kill protect cancer health</td>
+		</tr><tr>
+		<td>365</td>
+		<td>HotGurlMica</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Malik better kill himself</td>
+		<td>malik better kill himself</td>
+		<td>No</td>
+		<td>better kill</td>
+		</tr><tr>
+		<td>366</td>
+		<td>PrettyPimp4Life</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>No hoes in my blood no hoes in my circle loyalty over love I'd kill a bitch on purpose</td>
+		<td>no hoes in my blood no hoes in my circle loyalty over love i d kill a bitch on purpose</td>
+		<td>No</td>
+		<td>circle love kill bitch</td>
+		</tr><tr>
+		<td>367</td>
+		<td>mainlyou</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @LolitaDrugs: I would kill to have these eyes http://t.co/odsnwJ3Rn8</td>
+		<td>rt @lolitadrugs i would kill to have these eyes</td>
+		<td>Yes</td>
+		<td>kill eyes</td>
+		</tr><tr>
+		<td>368</td>
+		<td>_MStackz</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>“@biggspome: I'm Sd N Ima Kill 4 My Brothas Drill Wit My Brothas Keep it Real Wit My Brothas N Da Field Wit My Brothas #LongLiveSd????”</td>
+		<td>@biggspome i m sd n ima kill my brothas drill wit my brothas keep it real wit my brothas n da field wit my brothas #longlivesd</td>
+		<td>No</td>
+		<td>kill wit keep real wit field wit</td>
+		</tr><tr>
+		<td>369</td>
+		<td>stupidjjokess</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Shocking Things That Kill People Annually http://t.co/9FiIwNZs8G http://t.co/n8JZyE2aRr</td>
+		<td>shocking things that kill people annually</td>
+		<td>No</td>
+		<td>kill people</td>
+		</tr><tr>
+		<td>370</td>
+		<td>Jules_sh</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @KillMeNowN4: 10 days to catch Kill Me Now @ParkTheatre ???? Times, Independent, Standard RT if you know someone who should come!</td>
+		<td>rt @killmenown days to catch kill me now @parktheatre times independent standard rt if you know someone who should come</td>
+		<td>Yes</td>
+		<td>days kill times know someone come</td>
+		</tr><tr>
+		<td>371</td>
+		<td>skyebraad</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>“@LittleBittyTy: I'll kill your feelings in one picture ??” ????</td>
+		<td>@littlebittyty i ll kill your feelings in one picture</td>
+		<td>No</td>
+		<td>kill feelings one picture</td>
+		</tr><tr>
+		<td>372</td>
+		<td>rajcheerfull</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Well put by @sagarinayak "Freedom of speech means the right to offend and you have every right to offend back. Not ban , silence or kill".</td>
+		<td>well put by @sagarinayak freedom of speech means the right to offend and you have every right to offend back not ban silence or kill</td>
+		<td>No</td>
+		<td>well put freedom means right offend right offend back kill</td>
+		</tr><tr>
+		<td>373</td>
+		<td>patience_npratt</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>They smile that smile, they bat those eyes, they steal you with hello and kill you with goodbye #ScottyMcCreery</td>
+		<td>they smile that smile they bat those eyes they steal you with hello and kill you with goodbye #scottymccreery</td>
+		<td>No</td>
+		<td>eyes kill</td>
+		</tr><tr>
+		<td>374</td>
+		<td>SchoolsWeek</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Following advice of Atticus (Of To Kill a Mockingbird fame) he says they are telling Gov to walk around in each other's shoes #ascl2015</td>
+		<td>following advice of atticus of to kill a mockingbird fame he says they are telling gov to walk around in each other s shoes #ascl</td>
+		<td>No</td>
+		<td>following kill fame telling</td>
+		</tr><tr>
+		<td>375</td>
+		<td>HawaiiNewz</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>UK court gives teen to 22 years for plotting to kill soldier #Hawaii http://t.co/ZNKu5azQC1</td>
+		<td>uk court gives teen to years for plotting to kill soldier #hawaii</td>
+		<td>No</td>
+		<td>gives kill</td>
+		</tr><tr>
+		<td>376</td>
+		<td>sexgodshawty</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>I'm anti white people today. I will be talking about how the white people trying to kill us all day. Unfollow me if you must.</td>
+		<td>i m anti white people today i will be talking about how the white people trying to kill us all day unfollow me if you must</td>
+		<td>No</td>
+		<td>white people today white people trying kill day</td>
+		</tr><tr>
+		<td>377</td>
+		<td>FIREDIRECTMAG</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>US Plant Explosions Kill One, Injure Eleven http://t.co/DdGKyHAUPO</td>
+		<td>us plant explosions kill one injure eleven</td>
+		<td>No</td>
+		<td>plant kill one</td>
+		</tr><tr>
+		<td>378</td>
+		<td>PurbaningsihAri</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>i want to kiss you and take cute pictures with you and go on stupid dates but I also want kill you for making me feel things</td>
+		<td>i want to kiss you and take cute pictures with you and go on stupid dates but i also want kill you for making me feel things</td>
+		<td>No</td>
+		<td>want kiss take cute pictures go stupid want kill making</td>
+		</tr><tr>
+		<td>379</td>
+		<td>MoneyMan_TG</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Ion get tired I pop me a perp and I kill her..</td>
+		<td>ion get tired i pop me a perp and i kill her</td>
+		<td>No</td>
+		<td>get kill</td>
+		</tr><tr>
+		<td>380</td>
+		<td>AndelynnT</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @worddiction: "It gives me strength to have somebody to fight for; I can never fight for myself, but, for others, I can kill."</td>
+		<td>rt @worddiction it gives me strength to have somebody to fight for i can never fight for myself but for others i can kill</td>
+		<td>Yes</td>
+		<td>gives somebody fight fight kill</td>
+		</tr><tr>
+		<td>381</td>
+		<td>Yanissaflores</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Mr. Boe Makes me wanna kill myself</td>
+		<td>mr boe makes me wanna kill myself</td>
+		<td>No</td>
+		<td>makes kill</td>
+		</tr><tr>
+		<td>382</td>
+		<td>BigJay810</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Kill yourself RT @juandizzle: Montell jordan came on this morning i was at the red light bank head bouncing so hard</td>
+		<td>kill yourself rt @juandizzle montell jordan came on this morning i was at the red light bank head bouncing so hard</td>
+		<td>No</td>
+		<td>kill came morning red head hard</td>
+		</tr><tr>
+		<td>383</td>
+		<td>_SeanaM</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @__yungJefe: how does someone have it in them to kill an innocent kid</td>
+		<td>rt @ yungjefe how does someone have it in them to kill an innocent kid</td>
+		<td>Yes</td>
+		<td>does someone kill innocent kid</td>
+		</tr><tr>
+		<td>384</td>
+		<td>bethesdagamer25</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>I'm going to be out camping all weekend. Just got my tent all set up. Hope no Spriggons show up and try to kill me :)</td>
+		<td>i m going to be out camping all weekend just got my tent all set up hope no spriggons show up and try to kill me happy</td>
+		<td>No</td>
+		<td>going got set hope show try kill happy</td>
+		</tr><tr>
+		<td>385</td>
+		<td>JayJaypridmore</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @chuckwicksmusic: This is awesome.. And True!! ??RT @WorkoutHumor: Kill them with success ?? http://t.co/UVt68Lh7Ui</td>
+		<td>rt @chuckwicksmusic this is awesome and true rt @workouthumor kill them with success</td>
+		<td>Yes</td>
+		<td>awesome kill success</td>
+		</tr><tr>
+		<td>386</td>
+		<td>gorey_not_grim</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>What happened to churches, temples & mosques being sanctuary 4 civilians? Mosque Attacks In Yemen Kill Dozens http://t.co/nZVkzotxgx</td>
+		<td>what happened to churches temples mosques being sanctuary civilians mosque attacks in yemen kill dozens</td>
+		<td>No</td>
+		<td>happened churches attacks kill</td>
+		</tr><tr>
+		<td>387</td>
+		<td>Supernova_tash</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Listen guys, if you are tired of me, don't kill me, just unfollow</td>
+		<td>listen guys if you are tired of me don t kill me just unfollow</td>
+		<td>No</td>
+		<td>listen guys kill</td>
+		</tr><tr>
+		<td>388</td>
+		<td>ToryyTorr</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>“@lifeofnayy_: this weather in the way kill”</td>
+		<td>@lifeofnayy this weather in the way kill</td>
+		<td>No</td>
+		<td>weather way kill</td>
+		</tr><tr>
+		<td>389</td>
+		<td>emodonog</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @AIBBiz: Meet AIB Start-Up Academy finalist Shane @Kill_Biller. Read his story before the final #backedbyAIB https://t.co/KyD9cRPE8V</td>
+		<td>rt @aibbiz meet aib start up academy finalist shane @kill biller read his story before the final #backedbyaib</td>
+		<td>Yes</td>
+		<td>meet start kill</td>
+		</tr><tr>
+		<td>390</td>
+		<td>THE_POETIC_J</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@Fa_DiL loool but still doesn't mean y'all shld want 2 kill people cuz of food</td>
+		<td>@fa dil loool but still doesn t mean y all shld want kill people cuz of food</td>
+		<td>No</td>
+		<td>still mean want kill people food</td>
+		</tr><tr>
+		<td>391</td>
+		<td>syahhrh</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @TheFunnyTeens: my actual vocabulary in real life consists mostly of omg dude (weird noises) what the hell i’m going to kill you fuck y </td>
+		<td>rt @thefunnyteens my actual vocabulary in real life consists mostly of omg dude weird noises what the hell i m going to kill you fuck y</td>
+		<td>Yes</td>
+		<td>real life consists noises hell going kill fuck</td>
+		</tr><tr>
+		<td>392</td>
+		<td>holographichs</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>“@agbxjano: im going to kill Jess” ????</td>
+		<td>@agbxjano im going to kill jess</td>
+		<td>No</td>
+		<td>going kill</td>
+		</tr><tr>
+		<td>393</td>
+		<td>xeniavanza</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Suicide Bombers Kill Dozens at Yemen Mosques http://t.co/tx6SpQKiPy</td>
+		<td>suicide bombers kill dozens at yemen mosques</td>
+		<td>No</td>
+		<td>suicide bombers kill</td>
+		</tr><tr>
+		<td>394</td>
+		<td>kill_yaself__</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>my fucking body hurt????</td>
+		<td>my fucking body hurt</td>
+		<td>No</td>
+		<td>fucking body hurt</td>
+		</tr><tr>
+		<td>395</td>
+		<td>psychology_dp</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>What motivates men who kill police? #psychology http://t.co/pQbhdte1CN</td>
+		<td>what motivates men who kill police #psychology</td>
+		<td>No</td>
+		<td>men kill</td>
+		</tr><tr>
+		<td>396</td>
+		<td>DWnexusfn</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@AlertTrade @RobotsFX hahaha Putin is running out of options to stimulate the economy. Join up with nations to kill currency conversion ????</td>
+		<td>@alerttrade @robotsfx hahaha putin is running out of options to stimulate the economy join up with nations to kill currency conversion</td>
+		<td>No</td>
+		<td>running options kill</td>
+		</tr><tr>
+		<td>397</td>
+		<td>HeerahJ</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>@taylahsCREATOR_ and just cause you have him it's going kill her ???? don't even pay that shit no mind ??</td>
+		<td>@taylahscreator and just cause you have him it s going kill her don t even pay that shit no mind</td>
+		<td>No</td>
+		<td>cause going kill pay shit mind</td>
+		</tr><tr>
+		<td>398</td>
+		<td>Kill_Quin</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @AyGeraldJay: Drake look like the kid that doesn't stop starring at you when you catch them starring http://t.co/JstarvMvPX</td>
+		<td>rt @aygeraldjay drake look like the kid that doesn t stop starring at you when you catch them starring</td>
+		<td>Yes</td>
+		<td>look like kid stop starring starring</td>
+		</tr><tr>
+		<td>399</td>
+		<td>KellyLWilz</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>New Hampshire Lawmakers Mock Bill Drafted By 4th Graders To Their Faces, Then Kill It http://t.co/fA1L9Sv7rD via @stephemcneal @buzzfeednews</td>
+		<td>new hampshire lawmakers mock bill drafted by th graders to their faces then kill it via @stephemcneal @buzzfeednews</td>
+		<td>No</td>
+		<td>new bill faces kill</td>
+		</tr><tr>
+		<td>400</td>
+		<td>bourreau_rouge</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Rest easy! ? Some day, I'll kill you too!</td>
+		<td>rest easy some day i ll kill you too</td>
+		<td>No</td>
+		<td>rest easy day kill</td>
+		</tr><tr>
+		<td>401</td>
+		<td>wealth1101</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Soccer Betting Secrets - Make Your Bookie Your Atm Machine: Kill Your Bookie With These Asian Handicap Soccer  http://t.co/hyoAGGZYqg</td>
+		<td>soccer betting secrets make your bookie your atm machine kill your bookie with these asian handicap soccer</td>
+		<td>No</td>
+		<td>make machine kill handicap</td>
+		</tr><tr>
+		<td>402</td>
+		<td>tabbys1201</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>mind games fuckin kill me I swear ??</td>
+		<td>mind games fuckin kill me i swear</td>
+		<td>No</td>
+		<td>mind games fuckin kill</td>
+		</tr><tr>
+		<td>403</td>
+		<td>Brad_C24</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @betzybell231: @britmarie96 @Brad_C24 im want to kill my self lmaoo my stomach hurts</td>
+		<td>rt @betzybell @britmarie @brad c im want to kill my self lmaoo my stomach hurts</td>
+		<td>Yes</td>
+		<td>want kill stomach hurts</td>
+		</tr><tr>
+		<td>404</td>
+		<td>PinnockStyles</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>RT @JVUREGVI: "KILL ALL THE UGLIES" -Me and alyssa playing call of duty</td>
+		<td>rt @jvuregvi kill all the uglies me and alyssa playing call of duty</td>
+		<td>Yes</td>
+		<td>kill uglies playing call</td>
+		</tr><tr>
+		<td>405</td>
+		<td>Cibio_ap</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Great options when considering when considering what to plant in your Cibio! http://t.co/lxGeCqXQCH</td>
+		<td>great options when considering when considering what to plant in your cibio</td>
+		<td>No</td>
+		<td>options plant</td>
+		</tr><tr>
+		<td>406</td>
+		<td>ReadersGazette</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>Welcome @LJCrowder #femlit #mystery #thriller Too Cute To Kill (A Jake and Emma Mystery Book 1) http://t.co/S3UgednT8z #books #novels 69</td>
+		<td>welcome @ljcrowder #femlit #mystery #thriller too cute to kill a jake and emma mystery book #books #novels</td>
+		<td>No</td>
+		<td>cute kill book books</td>
+		</tr><tr>
+		<td>407</td>
+		<td>bromike007</td>
+		<td>2015-03-20 16:24:00</td>
+		<td>“@SouthernScenery: Kill Devil Hills, North Carolina http://t.co/LoQ521IOC9”</td>
+		<td>@southernscenery kill devil hills north carolina</td>
+		<td>No</td>
+		<td>kill devil</td>
+		</tr><tr>
+		<td>408</td>
+		<td>ABittner2</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @WIRED: Tesla has a plan to eliminate range anxiety with a software update http://t.co/eCctAqnUyz http://t.co/A33jagvKHL</td>
+		<td>rt @wired tesla has a plan to eliminate range anxiety with a software update</td>
+		<td>Yes</td>
+		<td>eliminate range anxiety</td>
+		</tr><tr>
+		<td>409</td>
+		<td>yocegm</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Kiss me, kill me. #TGIF http://t.co/DL3edri6Lj</td>
+		<td>kiss me kill me #tgif</td>
+		<td>No</td>
+		<td>kiss kill</td>
+		</tr><tr>
+		<td>410</td>
+		<td>ifahusna</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@ZainalNaem what doesn't kill you makes you stronger ??</td>
+		<td>@zainalnaem what doesn t kill you makes you stronger</td>
+		<td>No</td>
+		<td>kill makes stronger</td>
+		</tr><tr>
+		<td>411</td>
+		<td>BWarrior2</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Video Chuck Norris: Bruce Lee wanted to kill me (MMN) http://t.co/Wyv4pYVmzz</td>
+		<td>video chuck norris bruce lee wanted to kill me mmn</td>
+		<td>No</td>
+		<td>chuck wanted kill</td>
+		</tr><tr>
+		<td>412</td>
+		<td>Chelwatling</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>would pay someone to kill you????</td>
+		<td>would pay someone to kill you</td>
+		<td>No</td>
+		<td>pay someone kill</td>
+		</tr><tr>
+		<td>413</td>
+		<td>JenE4rmTheBlock</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Also much of our medical care wouldn't be necessary if we lived that way. But a scrape on the knee could get infected and kill you soooo lol</td>
+		<td>also much of our medical care wouldn t be necessary if we lived that way but a scrape on the knee could get infected and kill you soooo lol</td>
+		<td>No</td>
+		<td>care lived way get kill</td>
+		</tr><tr>
+		<td>415</td>
+		<td>XxNeko99</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@ayah7x Oh no!?? Wait, I'll revive you. *brings you back to life* ?? OK, now she can kill you ????????????</td>
+		<td>@ayah x oh no wait i ll revive you brings you back to life ok now she can kill you</td>
+		<td>No</td>
+		<td>wait back life kill</td>
+		</tr><tr>
+		<td>416</td>
+		<td>rocks_abu</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@KellHitEmUpx95 can u add me on ps4 I love your YouTube and love watching you kill people in park add my PSN is bossdude149</td>
+		<td>@kellhitemupx can u add me on ps i love your youtube and love watching you kill people in park add my psn is bossdude</td>
+		<td>No</td>
+		<td>love love watching kill people</td>
+		</tr><tr>
+		<td>417</td>
+		<td>L_Diaz_08</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @BillyCorben: Florida man cried "They're gonna kill me!" before @CoconutCreekGov cops killed him http://t.co/4AaYpcd7qH http://t.co/dwY6 </td>
+		<td>rt @billycorben florida man cried they re gonna kill me before @coconutcreekgov cops killed him</td>
+		<td>Yes</td>
+		<td>man cried kill cops killed</td>
+		</tr><tr>
+		<td>418</td>
+		<td>Vinny9078</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Almost had to kill someone.</td>
+		<td>almost had to kill someone</td>
+		<td>No</td>
+		<td>kill someone</td>
+		</tr><tr>
+		<td>419</td>
+		<td>XxOkami</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Watching Kill la Kill 20 on Crunchyroll! http://t.co/xSbQAPsS0J #crunchyroll</td>
+		<td>watching kill la kill on crunchyroll #crunchyroll</td>
+		<td>No</td>
+		<td>watching kill kill</td>
+		</tr><tr>
+		<td>420</td>
+		<td>Natalija_Seme</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Any ideas on why does my ear hurt if i've got chest infection and why is paracetamol not helping ...kill me</td>
+		<td>any ideas on why does my ear hurt if i ve got chest infection and why is paracetamol not helping kill me</td>
+		<td>No</td>
+		<td>ideas does hurt got chest infection kill</td>
+		</tr><tr>
+		<td>421</td>
+		<td>naughty_Kace00</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Cowards kill as often as the brave, only they do not strike victims where they can be seen.</td>
+		<td>cowards kill as often as the brave only they do not strike victims where they can be seen</td>
+		<td>No</td>
+		<td>cowards kill brave do strike victims seen</td>
+		</tr><tr>
+		<td>422</td>
+		<td>namelesscath</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @ohlordhes: DONT FUCJIG MOB THE BOYS WHEN THEY GET HERE I SWEAR TO GOD IF THEY GET HURT IM GOING TO KILL YOU #NOCHILLPHILIPPINES</td>
+		<td>rt @ohlordhes dont fucjig mob the boys when they get here i swear to god if they get hurt im going to kill you #nochillphilippines</td>
+		<td>Yes</td>
+		<td>mob boys get god get hurt going kill</td>
+		</tr><tr>
+		<td>423</td>
+		<td>bojnovak</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>“@Y2Jin99: @gkhn_yzc @bojnovak 2 % chance of Survival ! They don't have to kill her off!” #Agreed!</td>
+		<td>@y jin @gkhn yzc @bojnovak chance of survival they don t have to kill her off #agreed</td>
+		<td>No</td>
+		<td>chance kill</td>
+		</tr><tr>
+		<td>424</td>
+		<td>sudheersingh_12</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @rajcheerfull: Well put by @sagarinayak "Freedom of speech means the right to offend and you have every right to offend back. Not ban ,  </td>
+		<td>rt @rajcheerfull well put by @sagarinayak freedom of speech means the right to offend and you have every right to offend back not ban</td>
+		<td>Yes</td>
+		<td>well put freedom means right offend right offend back</td>
+		</tr><tr>
+		<td>425</td>
+		<td>daejuhh_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @GirlNotes: I would kill to have these eyes ?? http://t.co/9Y08eMeoKf</td>
+		<td>rt @girlnotes i would kill to have these eyes</td>
+		<td>Yes</td>
+		<td>kill eyes</td>
+		</tr><tr>
+		<td>426</td>
+		<td>SketchyMel</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @OhhSoArrogantT: SHOUT OUT TO THE NIGGAS WHO KILL DA PROSTITUTE ON GTA AFTER GETTING SOME BOMB ASS HEAD SO THAT YOU CAN GET YOUR MONEY B </td>
+		<td>rt @ohhsoarrogantt shout out to the niggas who kill da prostitute on gta after getting some bomb ass head so that you can get your money b</td>
+		<td>Yes</td>
+		<td>shout kill getting bomb ass head get money</td>
+		</tr><tr>
+		<td>427</td>
+		<td>UmmAbis</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @AbuZubayr_: Murtad Erdogan is stopping muhajireen crossing border but has no problems letting the communist PKK Kurds crossing border t </td>
+		<td>rt @abuzubayr murtad erdogan is stopping muhajireen crossing border but has no problems letting the communist pkk kurds crossing border t</td>
+		<td>Yes</td>
+		<td>stopping crossing border crossing border</td>
+		</tr><tr>
+		<td>428</td>
+		<td>SparkyOrDie</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @SoleFlight: Kill Bill Custom Roshe Runs http://t.co/qt8tflgTDH</td>
+		<td>rt @soleflight kill bill custom roshe runs</td>
+		<td>Yes</td>
+		<td>kill bill custom runs</td>
+		</tr><tr>
+		<td>429</td>
+		<td>MFfans</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@theatre_direct @tonypetersss why does it always seem people are saying "Jukebox musical=KILL IT WITH FIRE" but "Movie musical=NOSTALIGA"</td>
+		<td>@theatre direct @tonypetersss why does it always seem people are saying jukebox musical kill it with fire but movie musical nostaliga</td>
+		<td>No</td>
+		<td>does people kill fire movie</td>
+		</tr><tr>
+		<td>430</td>
+		<td>netghost68</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @ISISolizer: Suicide Bombings on #Yemen Mosques Kill at Least 46 #ADEN,Yemen #AbedRabboMansourHadi... http://t.co/hkwH3wFzWv http://t.co </td>
+		<td>rt @isisolizer suicide bombings on #yemen mosques kill at least #adenyemen #abedrabbomansourhadi</td>
+		<td>Yes</td>
+		<td>suicide bombings kill</td>
+		</tr><tr>
+		<td>431</td>
+		<td>LJ_Said_That</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>This presenter is about to make us do small group exercises. I could kill myself.</td>
+		<td>this presenter is about to make us do small group exercises i could kill myself</td>
+		<td>No</td>
+		<td>presenter make do exercises kill</td>
+		</tr><tr>
+		<td>432</td>
+		<td>_measianss</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>mr you know gorgeous kill them tracks ?? yea that's me ??</td>
+		<td>mr you know gorgeous kill them tracks yea that s me</td>
+		<td>No</td>
+		<td>know kill tracks</td>
+		</tr><tr>
+		<td>433</td>
+		<td>arsenal32098</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @c_mill_18: Happy birthday to my bro!!!!! Go kill it this weekend!?? @arsenal32098 http://t.co/JgHGq0XEaA</td>
+		<td>rt @c mill happy birthday to my bro go kill it this weekend @arsenal</td>
+		<td>Yes</td>
+		<td>happy birthday go kill</td>
+		</tr><tr>
+		<td>434</td>
+		<td>Koran_Inggris</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Mosque Attacks In Yemen Kill Dozens http://t.co/NxwHIkmYwd</td>
+		<td>mosque attacks in yemen kill dozens</td>
+		<td>No</td>
+		<td>attacks kill</td>
+		</tr><tr>
+		<td>435</td>
+		<td>_JahMarie</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @stopbeingfamous: Make me comfortable or I'll kill you. -White America</td>
+		<td>rt @stopbeingfamous make me comfortable or i ll kill you white america</td>
+		<td>Yes</td>
+		<td>make comfortable kill white</td>
+		</tr><tr>
+		<td>436</td>
+		<td>stylesslayss</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @toosexystyles: IM NOT KIDDING I WILL FUXKING KILL U IF U MOB THE BOYS</td>
+		<td>rt @toosexystyles im not kidding i will fuxking kill u if u mob the boys</td>
+		<td>Yes</td>
+		<td>kidding kill mob boys</td>
+		</tr><tr>
+		<td>437</td>
+		<td>sar_eller</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Stuck between you're not worth my time & I'll kill uou</td>
+		<td>stuck between you re not worth my time i ll kill uou</td>
+		<td>No</td>
+		<td>time kill</td>
+		</tr><tr>
+		<td>438</td>
+		<td>tw0tt0r</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Please kill me</td>
+		<td>please kill me</td>
+		<td>No</td>
+		<td>please kill</td>
+		</tr><tr>
+		<td>439</td>
+		<td>Skyliting</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @cher: Fracking Kills Life & Invironment?? Drilling 4 Oil,Kills Life & Invornment?? Solar Panels Kill Nothing & The Sun Is Free??</td>
+		<td>rt @cher fracking kills life invironment drilling oilkills life invornment solar panels kill nothing the sun is free</td>
+		<td>Yes</td>
+		<td>kills life life kill sun free</td>
+		</tr><tr>
+		<td>440</td>
+		<td>nekoponpon_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>''I wanna kill her .. Stay away from my dubu #lol''</td>
+		<td>i wanna kill her stay away from my dubu #lol</td>
+		<td>No</td>
+		<td>kill stay</td>
+		</tr><tr>
+		<td>441</td>
+		<td>patdague</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>ISIS’s Mission: Burn Their Churches And Kill Their Pastors http://t.co/muTUgwpGxv v</td>
+		<td>isis s mission burn their churches and kill their pastors v</td>
+		<td>No</td>
+		<td>burn churches kill</td>
+		</tr><tr>
+		<td>442</td>
+		<td>Barbie_nate</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Carole will kill me one day...</td>
+		<td>carole will kill me one day</td>
+		<td>No</td>
+		<td>kill one day</td>
+		</tr><tr>
+		<td>443</td>
+		<td>nigelbagshaw</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @JournoStephen: "They'd rather have a duel with Westminster than dual the A9" -- Danny Alexander Kill me. Kill me now.</td>
+		<td>rt @journostephen they d rather have a duel with westminster than dual the a danny alexander kill me kill me now</td>
+		<td>Yes</td>
+		<td>kill kill</td>
+		</tr><tr>
+		<td>444</td>
+		<td>IamD4GG3R</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @HawkeyeGUNS: When your teamate uses you as a triple kill #D4GG3R http://t.co/GB9aWArYrF</td>
+		<td>rt @hawkeyeguns when your teamate uses you as a triple kill #d gg r</td>
+		<td>Yes</td>
+		<td>uses kill</td>
+		</tr><tr>
+		<td>445</td>
+		<td>BurrFranklinn</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>& ima keep on doubling til these niggaz kill me</td>
+		<td>ima keep on doubling til these niggaz kill me</td>
+		<td>No</td>
+		<td>keep doubling kill</td>
+		</tr><tr>
+		<td>446</td>
+		<td>LMildwater</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @BrendaPerrott: PLEASE SAVE PLAYFULl DONNA KAREN, was dumped for a move & is shy & fearful of #NYC ACC KILL https://t.co/V3qSbE2618 http </td>
+		<td>rt @brendaperrott please save playfull donna karen was dumped for a move is shy fearful of #nyc acc kill http</td>
+		<td>Yes</td>
+		<td>please save dumped move shy fearful kill</td>
+		</tr><tr>
+		<td>447</td>
+		<td>KingOfCortland</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Bibby and Herb really snapped on Kill Shit Pt 2</td>
+		<td>bibby and herb really snapped on kill shit pt</td>
+		<td>No</td>
+		<td>really kill shit</td>
+		</tr><tr>
+		<td>448</td>
+		<td>destiny_starks</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @Unbothered__: Like its always that one class where its someone you dont fw and they kill yo entire vibe bruhh????</td>
+		<td>rt @unbothered like its always that one class where its someone you dont fw and they kill yo entire vibe bruhh</td>
+		<td>Yes</td>
+		<td>like one class someone kill</td>
+		</tr><tr>
+		<td>449</td>
+		<td>Skibby1225</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>I had a dream that I started watching Kill la Kill just because Ryuko is pretty hot.</td>
+		<td>i had a dream that i started watching kill la kill just because ryuko is pretty hot</td>
+		<td>No</td>
+		<td>dream started watching kill kill pretty</td>
+		</tr><tr>
+		<td>450</td>
+		<td>JunorMusic</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>how is he so good with synths. legit the most creative genius i know. i'd kill for his talent</td>
+		<td>how is he so good with synths legit the most creative genius i know i d kill for his talent</td>
+		<td>No</td>
+		<td>good genius know kill talent</td>
+		</tr><tr>
+		<td>451</td>
+		<td>Prowlenson</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @ruinedpicnic: "Did you see the attacker?" me: Uhh... [attacker at the back of the courtroom mouths 'I'll kill you'] me: (to judge) I'LL </td>
+		<td>rt @ruinedpicnic did you see the attacker me uhh attacker at the back of the courtroom mouths i ll kill you me to judge i ll</td>
+		<td>Yes</td>
+		<td>did see attacker attacker back kill</td>
+		</tr><tr>
+		<td>452</td>
+		<td>keanuazmann</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @imnormgoh: I condemn the threats towards Aisyah Tajuddin from BFM. That's ridiculous. Threats to rape and kill? That's barbaric!</td>
+		<td>rt @imnormgoh i condemn the threats towards aisyah tajuddin from bfm that s ridiculous threats to rape and kill that s barbaric</td>
+		<td>Yes</td>
+		<td>rape kill</td>
+		</tr><tr>
+		<td>453</td>
+		<td>northMtnPasture</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@rustyrockets @housesarehomes @elonerrigby1 zoom in, the question is foot and mouth disease in livestock -kill animalswho contract or vax</td>
+		<td>@rustyrockets @housesarehomes @elonerrigby zoom in the question is foot and mouth disease in livestock kill animalswho contract or vax</td>
+		<td>No</td>
+		<td>question foot kill</td>
+		</tr><tr>
+		<td>454</td>
+		<td>RT4FOLLOWERSBRO</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Los Angeles LAPD Shoot and Kill UNARMED HOMELESS MAN *WARNING: GRAPHIC VIDEO INSIDE* (CLICK LINK FOR DETAILS) http://t.co/HGlQB2jLKr</td>
+		<td>los angeles lapd shoot and kill unarmed homeless man warning graphic video inside click link for details</td>
+		<td>No</td>
+		<td>angeles shoot kill man warning click link details</td>
+		</tr><tr>
+		<td>455</td>
+		<td>KenjiCandy</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @geheichou: Why does Wirt have such a stupidly sharp hat?? Like. He could kill a man with it ??¿? http://t.co/URa64jxE8G</td>
+		<td>rt @geheichou why does wirt have such a stupidly sharp hat like he could kill a man with it</td>
+		<td>Yes</td>
+		<td>does stupidly hat like kill man</td>
+		</tr><tr>
+		<td>456</td>
+		<td>DMVMOSTFAMOUS</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@GatoradeOvaHoes Kill they did CUZ dirty ????????</td>
+		<td>@gatoradeovahoes kill they did cuz dirty</td>
+		<td>No</td>
+		<td>kill did dirty</td>
+		</tr><tr>
+		<td>457</td>
+		<td>EtheralStar</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @rickygervais: I seem to have acquired a pet spider in my office. I'm obviously terrified but can't kill it as he doesn't understand wha </td>
+		<td>rt @rickygervais i seem to have acquired a pet spider in my office i m obviously terrified but can t kill it as he doesn t understand wha</td>
+		<td>Yes</td>
+		<td>acquired pet spider office terrified kill</td>
+		</tr><tr>
+		<td>458</td>
+		<td>woodftdobrev</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>THESE UGLY VAMPIRES ARE GOING TO KILL KAI I'M DONE</td>
+		<td>these ugly vampires are going to kill kai i m done</td>
+		<td>No</td>
+		<td>ugly vampires going kill done</td>
+		</tr><tr>
+		<td>459</td>
+		<td>justveev</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@LadiesFirstNG : so true. What doesn't kill you makes you stronger</td>
+		<td>@ladiesfirstng so true what doesn t kill you makes you stronger</td>
+		<td>No</td>
+		<td>kill makes stronger</td>
+		</tr><tr>
+		<td>460</td>
+		<td>NuestroDani</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>“@GirlNotes: I would kill to have these eyes ?? http://t.co/Cq0sIkqK48” omg ang perfff??</td>
+		<td>@girlnotes i would kill to have these eyes omg ang perfff</td>
+		<td>No</td>
+		<td>kill eyes</td>
+		</tr><tr>
+		<td>461</td>
+		<td>gemdrgn1</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>2 dogs kill pet cat; dogs' owner dumps dead cat on front lawn http://t.co/ZhctuFeAem via @abc7 :-(</td>
+		<td>dogs kill pet cat dogs owner dumps dead cat on front lawn via @abc unhappy</td>
+		<td>No</td>
+		<td>dogs kill pet cat dogs dumps dead cat lawn unhappy</td>
+		</tr><tr>
+		<td>462</td>
+		<td>FunVoi</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>I keep my room messy so that if someone tries to kill me they'll trip over and die.</td>
+		<td>i keep my room messy so that if someone tries to kill me they ll trip over and die</td>
+		<td>No</td>
+		<td>keep room messy someone tries kill</td>
+		</tr><tr>
+		<td>463</td>
+		<td>5th_Ape</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>@thechosenjenn @TakeThatDarwin @RussellTpot Numbers 31. Kill all, even baby boys but keep the young virgins for yourself. god = baby killer.</td>
+		<td>@thechosenjenn @takethatdarwin @russelltpot numbers kill all even baby boys but keep the young virgins for yourself god baby killer</td>
+		<td>No</td>
+		<td>kill baby boys keep young virgins god baby killer</td>
+		</tr><tr>
+		<td>464</td>
+		<td>BvB_Andy_sixx</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @rickyxhorror: KILL EM ALL, KILL EM ALL, KILL EM ALL, GUN EM DOWN HANG THEIR FUCKIN BODIES FROM THE HALLS</td>
+		<td>rt @rickyxhorror kill em all kill em all kill em all gun em down hang their fuckin bodies from the halls</td>
+		<td>Yes</td>
+		<td>kill kill kill gun hang fuckin bodies</td>
+		</tr><tr>
+		<td>465</td>
+		<td>YouWhatBitchh</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @ItsMeAishaa: What doesn't kill you makes you stronger. Excluding suicide bombers. They're weak. Killing people whilst they're praying i </td>
+		<td>rt @itsmeaishaa what doesn t kill you makes you stronger excluding suicide bombers they re weak killing people whilst they re praying i</td>
+		<td>Yes</td>
+		<td>kill makes stronger suicide bombers killing people</td>
+		</tr><tr>
+		<td>466</td>
+		<td>Being_Sush</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>"@cute_aayushi: Karan and Kushal on same frame?? Don't kill me ,but I don't like it ??" okk. So i am not the only one... ??????</td>
+		<td>@cute aayushi karan and kushal on same frame don t kill me but i don t like it okk so i am not the only one</td>
+		<td>No</td>
+		<td>cute frame kill like one</td>
+		</tr><tr>
+		<td>467</td>
+		<td>GreatnessBound6</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @KingTaeKey: I think these drugs gone kill me cause yall pussies not ????????</td>
+		<td>rt @kingtaekey i think these drugs gone kill me cause yall pussies not</td>
+		<td>Yes</td>
+		<td>think gone kill cause</td>
+		</tr><tr>
+		<td>468</td>
+		<td>mattiedog</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>With sympathy we feel sorry-empathy we are empowered to make a difference! #AnimalRescue article! http://t.co/VZk5uZZFse PLS RT!</td>
+		<td>with sympathy we feel sorry empathy we are empowered to make a difference #animalrescue article pls rt</td>
+		<td>No</td>
+		<td>sorry make</td>
+		</tr><tr>
+		<td>469</td>
+		<td>L0stlnStere0_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>I'm kill to see muse live</td>
+		<td>i m kill to see muse live</td>
+		<td>No</td>
+		<td>kill see live</td>
+		</tr><tr>
+		<td>470</td>
+		<td>Pausedesigns</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Bathroom hand dryers are amazing if you're looking to kill a few minutes before wiping your hands on your pants.</td>
+		<td>bathroom hand dryers are amazing if you re looking to kill a few minutes before wiping your hands on your pants</td>
+		<td>No</td>
+		<td>bathroom hand looking kill hands</td>
+		</tr><tr>
+		<td>471</td>
+		<td>SaveOurSwans</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>So sad that DEC is only giving us 45 days to object to its plan to kill all #Rochester #ROC mute swans. #WhatsTheRush? #LetThePeopleBeHeard!</td>
+		<td>so sad that dec is only giving us days to object to its plan to kill all #rochester #roc mute swans #whatstherush #letthepeoplebeheard</td>
+		<td>No</td>
+		<td>sad giving days kill</td>
+		</tr><tr>
+		<td>472</td>
+		<td>GWWoody2</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @IvoryDove: @usacsmret @kmcccomcastnet Reid paraphrased "Gotta be able to kill those babies..or we will let the trafficking go on!!"</td>
+		<td>rt @ivorydove @usacsmret @kmcccomcastnet reid paraphrased gotta be able to kill those babies or we will let the trafficking go on</td>
+		<td>Yes</td>
+		<td>able kill babies go</td>
+		</tr><tr>
+		<td>473</td>
+		<td>libertygirlNH</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @AmyMek: They Want 2 Kill Us & This Is Obama's Ally!? Iran ENDORSES nuclear EMP attack on USA! http://t.co/RjhYv0M5Tg #tcot http://t.co/ </td>
+		<td>rt @amymek they want kill us this is obama s ally iran endorses nuclear emp attack on usa #tcot</td>
+		<td>Yes</td>
+		<td>want kill attack</td>
+		</tr><tr>
+		<td>474</td>
+		<td>tjojo_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>My schedule for next yr is a 50 min, a 1 hr & 20, & two 3 hrs all back to back. Kill me now #artmajorprobs</td>
+		<td>my schedule for next yr is a min a hr two hrs all back to back kill me now #artmajorprobs</td>
+		<td>No</td>
+		<td>two back back kill</td>
+		</tr><tr>
+		<td>475</td>
+		<td>AmbassadorKD</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Creek witnesses: Tasered man cried, 'They're gonna kill me!' http://t.co/8aFNHcMLqD</td>
+		<td>creek witnesses tasered man cried they re gonna kill me</td>
+		<td>No</td>
+		<td>man cried kill</td>
+		</tr><tr>
+		<td>476</td>
+		<td>newmoneyking</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Shorty ill straight up kill you</td>
+		<td>shorty ill straight up kill you</td>
+		<td>No</td>
+		<td>ill kill</td>
+		</tr><tr>
+		<td>477</td>
+		<td>GodlessGenpest</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>How can we save the World from global warming? — Kill humans, http://t.co/Ylq7X76BId</td>
+		<td>how can we save the world from global warming kill humans</td>
+		<td>No</td>
+		<td>save world kill humans</td>
+		</tr><tr>
+		<td>478</td>
+		<td>Audreyneyaaa</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @toosexystyles: dONT YOU FUCKING MOB THE BOYS I'M GOING TO KILL U SWEAR</td>
+		<td>rt @toosexystyles dont you fucking mob the boys i m going to kill u swear</td>
+		<td>Yes</td>
+		<td>fucking mob boys going kill</td>
+		</tr><tr>
+		<td>479</td>
+		<td>gok_win</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>i think i might kill shelter she just reminded me about my old crush ??????</td>
+		<td>i think i might kill shelter she just reminded me about my old crush</td>
+		<td>No</td>
+		<td>think might kill shelter crush</td>
+		</tr><tr>
+		<td>480</td>
+		<td>kennethulujefu1</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Don't kill your enemies. Leave them around to see the table God has prepared for you. #iHQ</td>
+		<td>don t kill your enemies leave them around to see the table god has prepared for you #ihq</td>
+		<td>No</td>
+		<td>kill see table god</td>
+		</tr><tr>
+		<td>481</td>
+		<td>iammarvin_xo</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>thats me, this month. ???? "@SthaButhez: My mom is going to kill me when she see's the phone bill ??"</td>
+		<td>thats me this month @sthabuthez my mom is going to kill me when she see s the phone bill</td>
+		<td>No</td>
+		<td>month going kill see bill</td>
+		</tr><tr>
+		<td>482</td>
+		<td>CHNGCharlotteNC</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Mosque Attacks In Yemen Kill Dozens: Suicide bombers in Yemen attacked two mosques during Friday prayers in the  http://t.co/ZmJhGCY8sK</td>
+		<td>mosque attacks in yemen kill dozens suicide bombers in yemen attacked two mosques during friday prayers in the</td>
+		<td>No</td>
+		<td>attacks kill suicide bombers attacked two</td>
+		</tr><tr>
+		<td>483</td>
+		<td>KINGSammy_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>They Gon Drop A Dime But Kill You For A Dollar</td>
+		<td>they gon drop a dime but kill you for a dollar</td>
+		<td>No</td>
+		<td>drop kill dollar</td>
+		</tr><tr>
+		<td>484</td>
+		<td>cblumes_</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @alliecohen_: happy birthday to a day 1 @cblumes_ ???????????? love u babe kill it this weekend http://t.co/jD0fm6JAGb</td>
+		<td>rt @alliecohen happy birthday to a day @cblumes  love u babe kill it this weekend</td>
+		<td>Yes</td>
+		<td>happy birthday day love kill</td>
+		</tr><tr>
+		<td>485</td>
+		<td>AnimalWorIds</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Turkey Vultures “urinate” on their own legs in order to stay cool and kill any lingering bacteria from previous meals.</td>
+		<td>turkey vultures urinate on their own legs in order to stay cool and kill any lingering bacteria from previous meals</td>
+		<td>No</td>
+		<td>turkey urinate stay kill</td>
+		</tr><tr>
+		<td>486</td>
+		<td>nortechservices</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @CIOonline: Yahoo wants to kill the password one text message at a time http://t.co/sXwTjgJFZR @CIOonline</td>
+		<td>rt @cioonline yahoo wants to kill the password one text message at a time @cioonline</td>
+		<td>Yes</td>
+		<td>wants kill one time</td>
+		</tr><tr>
+		<td>487</td>
+		<td>NewsdeskWORLD</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Three suicide bombings at Yemen's Houthi mosques kill 55 people http://t.co/EJi2InLsWL Explosions in capital Sana’a blamed on al-Qaida b </td>
+		<td>three suicide bombings at yemen s houthi mosques kill people explosions in capital sana a blamed on al qaida b</td>
+		<td>No</td>
+		<td>three suicide bombings kill people</td>
+		</tr><tr>
+		<td>488</td>
+		<td>21DOPEdealer</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @Wave__Marino: Espn Trippin if they think Kentucky would kill in the eastern conference</td>
+		<td>rt @wave marino espn trippin if they think kentucky would kill in the eastern conference</td>
+		<td>Yes</td>
+		<td>think kill</td>
+		</tr><tr>
+		<td>489</td>
+		<td>say_oh_jang</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @BombAssTaylaaa: Females kill me when they act like they killing the game by being in school. Newsflash bitch so is everybody else.</td>
+		<td>rt @bombasstaylaaa females kill me when they act like they killing the game by being in school newsflash bitch so is everybody else</td>
+		<td>Yes</td>
+		<td>kill like killing game school bitch</td>
+		</tr><tr>
+		<td>490</td>
+		<td>_pedroque</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>Por isso i'll kill these bitches</td>
+		<td>por isso i ll kill these bitches</td>
+		<td>No</td>
+		<td>kill bitches</td>
+		</tr><tr>
+		<td>491</td>
+		<td>BnG_Miller</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>“@5th_monkey: Hope your ready to kill some more ?? tomorrow @benpringle18 #Rufc” Come on Ben you can do it! UTM</td>
+		<td>@ th monkey hope your ready to kill some more tomorrow @benpringle #rufc come on ben you can do it utm</td>
+		<td>No</td>
+		<td>hope ready kill come do</td>
+		</tr><tr>
+		<td>492</td>
+		<td>SE25A</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @NABEELRAJAB: You can jail us ,torture us or kill us but you cannot stop my Nation struggle for #justice & #democracy in #Bahrain http:/ </td>
+		<td>rt @nabeelrajab you can jail us torture us or kill us but you cannot stop my nation struggle for #justice #democracy in #bahrain httpirritated</td>
+		<td>Yes</td>
+		<td>jail torture kill stop struggle justice</td>
+		</tr><tr>
+		<td>493</td>
+		<td>hotyoga45</td>
+		<td>2015-03-20 16:25:00</td>
+		<td>RT @WildeOscarCat: PLEASE #FOSTER #RESCUE pregnant #kitten BROSEF who is worried about being n #NYC ACC's kill https://t.co/HwUxqfkYM9 http </td>
+		<td>rt @wildeoscarcat please #foster #rescue pregnant #kitten brosef who is worried about being n #nyc acc s kill http</td>
+		<td>Yes</td>
+		<td>please rescue kitten worried kill</td>
+		</tr>
+	</tbody>
+	<tfoot></tfoot>
+</table>

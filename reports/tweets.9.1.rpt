@@ -1,0 +1,11 @@
+<style type="text/css">
+	td{
+		padding: 3px;
+	}
+</style>
+<table class="table-bordered table-responsive">
+	<thead><tr><th>ID</th><th>User</th><th>Time</th><th>Text</th><th>Cleaner Version</th><th>Retweet?</th><th>ANEW</th></thead>
+	<tbody>
+	</tbody>
+	<tfoot></tfoot>
+</table>
